@@ -1,7 +1,7 @@
 ---
 title: "Charting the Path Ahead: Microsoft's Strategic Overhaul in Cloud Services, Devices, and Ad Revenue Expansion | Exclusive Analysis by ZDNet"
-date: 2024-09-14T19:01:09.324Z
-updated: 2024-09-20T03:48:52.033Z
+date: 2024-09-20T19:07:52.776Z
+updated: 2024-09-25T21:05:35.459Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -133,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +199,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-capture-memories-in-teams-snap-camera-guide-for-2024/"><u>[New] Capture Memories in Teams Snap Camera Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>2024 Approved Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-youtube-videos-editing-tips-using-imovie/"><u>2024 Approved Perfecting YouTube Videos Editing Tips Using iMovie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-post-production-with-after-effects-and-luts/"><u>2024 Approved Streamlining Post Production with After Effects and LUTs</u></a></li>
+<li><a href="https://win-webster.techidaily.com/create-stunning-android-ebook-applications-using-flipbuilder-transform-your-text-and-images-into-interactive-books/"><u>Create Stunning Android eBook Applications Using FlipBuilder - Transform Your Text & Images Into Interactive Books</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-manycam-leading-virtual-camera-and-live-broadcast-tools-online/"><u>Discover ManyCam: Leading Virtual Camera and Live Broadcast Tools Online</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effortless-table-of-contents-creation-with-flipbuilder-simplify-your-ebooks-and-magazines/"><u>Effortless Table of Contents Creation with FlipBuilder: Simplify Your eBooks and Magazines!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20 Phones with/without a PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-netgear-nighthawk-x4-ultimate-performance-in-home-wi-fi-expansion/"><u>In-Depth Review of the Netgear Nighthawk X4 – Ultimate Performance in Home Wi-Fi Expansion</u></a></li>
+<li><a href="https://win-webster.techidaily.com/integrating-interactive-pdf-books-into-your-wordpress-site-using-flipbuilder/"><u>Integrating Interactive PDF Books Into Your WordPress Site Using FlipBuilder</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-nvidia-sound-compatibility-with-w10/"><u>Navigating NVIDIA Sound Compatibility with W10</u></a></li>
+<li><a href="https://win-webster.techidaily.com/personalizing-your-digital-story-a-step-by-step-guide-to-creating-a-unique-flipbook-on-flipbuildercom/"><u>Personalizing Your Digital Story: A Step-by-Step Guide to Creating a Unique Flipbook on FlipBuilder.com</u></a></li>
+<li><a href="https://win-webster.techidaily.com/professional-soft-ui-interactive-dashboard-with-laravel-livewire-collaboration-of-creative-tim-and-updivision/"><u>Professional Soft UI Interactive Dashboard with Laravel Livewire - Collaboration of Creative Tim and Updivision</u></a></li>
+<li><a href="https://win-webster.techidaily.com/section-1a-understanding-ucc-article-2-and-its-application-to-goods/"><u>Section 1A: Understanding UCC Article 2 and Its Application to Goods</u></a></li>
+<li><a href="https://win-webster.techidaily.com/the-get-shit-done-resource-pack-with-bootstrap-ui-components-from-creative-tim-available-at-no-cost/"><u>The 'Get Shit Done' Resource Pack with Bootstrap UI Components From Creative Tim, Available at No Cost</u></a></li>
+</ul></div>
+

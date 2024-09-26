@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story"
-date: 2024-09-18T04:22:47.209Z
-updated: 2024-09-20T05:15:52.496Z
+date: 2024-09-24T17:38:22.583Z
+updated: 2024-09-25T20:39:07.443Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-fisheye-sphere-capture/"><u>[New] Innovative Techniques for Fisheye Sphere Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030524733-windows-114/"><u>効果的なWindows 11デスクトップ動画作成:探求4つの方法</u></a></li>
+<li><a href="https://win-webster.techidaily.com/efficient-deezer-music-extractor-convert-your-deezer-tracks-to-high-quality-mp3-and-flac-formats/"><u>Efficient Deezer Music Extractor: Convert Your Deezer Tracks to High-Quality MP3 and FLAC Formats</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effortless-guide-convert-and-save-your-favorite-songs-the-complete-tutorial-on-downloading-taylor-swifts-music-as-mp3-and-aac/"><u>Effortless Guide: Convert and Save Your Favorite Songs - The Complete Tutorial on Downloading Taylor Swift's Music as MP3 & AAC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-5-graphics-update-a-step-by-step-guide-to-driver-optimization/"><u>Forza Horizon #5 Graphics Update: A Step-by-Step Guide to Driver Optimization</u></a></li>
+<li><a href="https://win-webster.techidaily.com/free-download-chill-out-zone-film-in-various-formats-mp4-wmv-mov-flv-avi-for-mac-and-windows-users/"><u>Free Download: Chill Out Zone Film in Various Formats (MP4, WMV, MOV, FLV, AVI) for Mac & Windows Users</u></a></li>
+<li><a href="https://win-webster.techidaily.com/free-video-downloads-from-oncourse-learning-platform-start-your-educational-journey-today/"><u>Free Video Downloads From OnCourse Learning Platform – Start Your Educational Journey Today!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/get-your-favorite-mybluprint-clips-fast-and-easy-with-our-guide/"><u>Get Your Favorite MyBluprint Clips Fast and Easy with Our Guide!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-to-downloading-and-converting-varzesh-3-shows-into-common-video-file-types-such-as-mov-mp4/"><u>Guide to Downloading & Converting Varzesh 3 Shows Into Common Video File Types Such as MOV, MP4</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-save-noco-tv-shows-and-movies-effortlessly-on-your-pc-or-mac/"><u>How to Save Noco TV Shows & Movies Effortlessly on Your PC or Mac</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-digital-practice-techniques-for-retrieving-yoga-tutorials-from-premier-online-classes/"><u>Mastering Digital Practice: Techniques for Retrieving Yoga Tutorials From Premier Online Classes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rayman-legends-explored-an-intricate-and-engaging-2d-adventure/"><u>Rayman Legends Explored: An Intricate and Engaging 2D Adventure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-vanished-windows-on-your-screen-6-suggestions-in-win11/"><u>Revealing Vanished Windows on Your Screen: 6 Suggestions in Win11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlock-the-power-of-visual-storytelling-with-screen-capture-skills-for-2024/"><u>Unlock the Power of Visual Storytelling with Screen Capture Skills for 2024</u></a></li>
+</ul></div>
+

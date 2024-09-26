@@ -1,7 +1,7 @@
 ---
 title: Microsoft Revises Consumer Strategy Approach Once More - Insights From ZDNet
-date: 2024-09-13T18:36:54.634Z
-updated: 2024-09-20T04:12:15.558Z
+date: 2024-09-21T23:25:33.642Z
+updated: 2024-09-25T16:50:15.475Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -116,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -128,15 +141,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +199,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>[New] Pro Video Setup Choose From Our List of Best 5 Webcams & Mics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-clear-screen-techniques-focus-on-your-message-not-the-ambiance/"><u>[Updated] 2024 Approved Clear Screen Techniques Focus on Your Message, Not the Ambiance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exhilarating-viewing-experience-with-elite-blu-ray-players/"><u>[Updated] Exhilarating Viewing Experience with Elite Blu-Ray Players</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-cross-platform-content-transfer-youtube-meets-facebook/"><u>[Updated] In 2024, Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-your-pcs-performance-on-windows-11-by-rapidly-shutting-down-sluggish-applications/"><u>Boost Your PC's Performance on Windows 11 by Rapidly Shutting Down Sluggish Applications</u></a></li>
+<li><a href="https://article-helps.techidaily.com/canon-pro-editing-essentials-10plus-available-paid-and-free-choice-for-2024/"><u>Canon Pro-Editing Essentials – 10+ Available, Paid & Free Choice for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/capturing-your-screens-a-comprehensive-guide-to-using-windows-11s-inbuilt-recording-features/"><u>Capturing Your Screens: A Comprehensive Guide to Using Windows 11'S Inbuilt Recording Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialect-dynamics-ukrainian-vs-russian-conversations/"><u>Dialect Dynamics: Ukrainian Vs Russian Conversations</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-windows-11s-latest-features-a-comprehensive-guide-to-the-just-released-ai-enhanced-update/"><u>Discover Windows 11'S Latest Features: A Comprehensive Guide to the Just-Released AI Enhanced Update</u></a></li>
+<li><a href="https://win-webster.techidaily.com/elevate-your-command-mastering-the-art-of-god-mode-on-windows-11-essential-tips-and-motivations-explained-by-zdnet/"><u>Elevate Your Command: Mastering the Art of God Mode on Windows 11 – Essential Tips and Motivations Explained by ZDNET</u></a></li>
+<li><a href="https://win-webster.techidaily.com/expert-roundup-of-ultimate-computer-picks-for-202n4-spotlight-on-apple-vs-dell-with-industry-insights-from-zdnet/"><u>Expert Roundup of Ultimate Computer Picks for 202N4: Spotlight on Apple Vs. Dell with Industry Insights From ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-wf-2760-driver-for-windows-11-10-8-free-download-links-here/"><u>Get Your Epson WF-2760 Driver for Windows 11 / 10 / 8 - Free Download Links Here!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/google-worker-advocates-why-macbook-beats-windows-laptop-insight-from-the-inside/"><u>Google Worker Advocates: Why MacBook Beats Windows Laptop - Insight From the Inside</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-switching-to-android-compatible-windows-11-a-smart-move-insights-and-analysis-techdigest/"><u>Is Switching to Android-Compatible Windows 11 a Smart Move? Insights & Analysis | TechDigest</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-connectivity-embedding-live-streams-from-twitch-to-fb-for-2024/"><u>Social Media Connectivity Embedding Live Streams From Twitch to FB for 2024</u></a></li>
+</ul></div>
+

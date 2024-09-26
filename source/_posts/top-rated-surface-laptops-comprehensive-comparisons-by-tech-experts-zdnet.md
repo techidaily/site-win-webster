@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Surface Laptops : Comprehensive Comparisons by Tech Experts | ZDNet"
-date: 2024-09-16T16:25:33.604Z
-updated: 2024-09-19T18:46:14.088Z
+date: 2024-09-18T16:47:56.244Z
+updated: 2024-09-25T18:16:24.085Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,35 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +199,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-capture-and-convert-your-instagram-feeds-top-15-free-exporters-for-windows-and-macos-users-for-2024/"><u>[New] Capture and Convert Your Instagram Feeds Top 15 Free Exporters For Windows & macOS Users for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-privacy-first-the-leading-storywatchers/"><u>[New] Privacy-First The Leading Storywatchers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps-for-2024/"><u>[New] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps) for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-decoding-watermarks-in-social-media-imagery/"><u>2024 Approved Decoding Watermarks in Social Media Imagery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unlocking-the-power-of-closed-captions-on-vimeo/"><u>2024 Approved Unlocking the Power of Closed Captions on Vimeo</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/best-free-methods-converting-mpeg-videos-into-mov-format-online-and-offline-solutions/"><u>Best FREE Methods: Converting MPEG Videos Into MOV Format - Online & Offline Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-practices-for-setting-up-a-secure-and-efficient-user-account-in-windows-11-expert-advice/"><u>Best Practices for Setting Up a Secure and Efficient User Account in Windows 11 - Expert Advice</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-your-pcs-performance-on-windows-11-by-rapidly-shutting-down-sluggish-applications/"><u>Boost Your PC's Performance on Windows 11 by Rapidly Shutting Down Sluggish Applications</u></a></li>
+<li><a href="https://win-webster.techidaily.com/capturing-your-screens-a-comprehensive-guide-to-using-windows-11s-inbuilt-recording-features/"><u>Capturing Your Screens: A Comprehensive Guide to Using Windows 11'S Inbuilt Recording Features</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-windows-11s-latest-features-a-comprehensive-guide-to-the-just-released-ai-enhanced-update/"><u>Discover Windows 11'S Latest Features: A Comprehensive Guide to the Just-Released AI Enhanced Update</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/elevate-your-command-mastering-the-art-of-god-mode-on-windows-11-essential-tips-and-motivations-explained-by-zdnet/"><u>Elevate Your Command: Mastering the Art of God Mode on Windows 11 – Essential Tips and Motivations Explained by ZDNET</u></a></li>
+<li><a href="https://win-webster.techidaily.com/expert-roundup-of-ultimate-computer-picks-for-202n4-spotlight-on-apple-vs-dell-with-industry-insights-from-zdnet/"><u>Expert Roundup of Ultimate Computer Picks for 202N4: Spotlight on Apple Vs. Dell with Industry Insights From ZDNET</u></a></li>
+<li><a href="https://win-webster.techidaily.com/google-worker-advocates-why-macbook-beats-windows-laptop-insight-from-the-inside/"><u>Google Worker Advocates: Why MacBook Beats Windows Laptop - Insight From the Inside</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-90-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor 90 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-switching-to-android-compatible-windows-11-a-smart-move-insights-and-analysis-techdigest/"><u>Is Switching to Android-Compatible Windows 11 a Smart Move? Insights & Analysis | TechDigest</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-g510-software-downloads-supporting-windows-7-8-and-10-os/"><u>Latest Logitech G510 Software Downloads Supporting Windows 7, 8 & 10 OS</u></a></li>
+</ul></div>
+
