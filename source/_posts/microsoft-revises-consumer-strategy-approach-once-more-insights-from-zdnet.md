@@ -1,7 +1,7 @@
 ---
 title: Microsoft Revises Consumer Strategy Approach Once More - Insights From ZDNet
-date: 2024-09-21T23:25:33.642Z
-updated: 2024-09-25T16:50:15.475Z
+date: 2024-09-22T16:28:00.268Z
+updated: 2024-09-30T12:54:41.757Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>[New] Pro Video Setup Choose From Our List of Best 5 Webcams & Mics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-clear-screen-techniques-focus-on-your-message-not-the-ambiance/"><u>[Updated] 2024 Approved Clear Screen Techniques Focus on Your Message, Not the Ambiance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-exhilarating-viewing-experience-with-elite-blu-ray-players/"><u>[Updated] Exhilarating Viewing Experience with Elite Blu-Ray Players</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-cross-platform-content-transfer-youtube-meets-facebook/"><u>[Updated] In 2024, Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
-<li><a href="https://win-webster.techidaily.com/boost-your-pcs-performance-on-windows-11-by-rapidly-shutting-down-sluggish-applications/"><u>Boost Your PC's Performance on Windows 11 by Rapidly Shutting Down Sluggish Applications</u></a></li>
-<li><a href="https://article-helps.techidaily.com/canon-pro-editing-essentials-10plus-available-paid-and-free-choice-for-2024/"><u>Canon Pro-Editing Essentials – 10+ Available, Paid & Free Choice for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/capturing-your-screens-a-comprehensive-guide-to-using-windows-11s-inbuilt-recording-features/"><u>Capturing Your Screens: A Comprehensive Guide to Using Windows 11'S Inbuilt Recording Features</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dialect-dynamics-ukrainian-vs-russian-conversations/"><u>Dialect Dynamics: Ukrainian Vs Russian Conversations</u></a></li>
-<li><a href="https://win-webster.techidaily.com/discover-windows-11s-latest-features-a-comprehensive-guide-to-the-just-released-ai-enhanced-update/"><u>Discover Windows 11'S Latest Features: A Comprehensive Guide to the Just-Released AI Enhanced Update</u></a></li>
-<li><a href="https://win-webster.techidaily.com/elevate-your-command-mastering-the-art-of-god-mode-on-windows-11-essential-tips-and-motivations-explained-by-zdnet/"><u>Elevate Your Command: Mastering the Art of God Mode on Windows 11 – Essential Tips and Motivations Explained by ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/expert-roundup-of-ultimate-computer-picks-for-202n4-spotlight-on-apple-vs-dell-with-industry-insights-from-zdnet/"><u>Expert Roundup of Ultimate Computer Picks for 202N4: Spotlight on Apple Vs. Dell with Industry Insights From ZDNET</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-epson-wf-2760-driver-for-windows-11-10-8-free-download-links-here/"><u>Get Your Epson WF-2760 Driver for Windows 11 / 10 / 8 - Free Download Links Here!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/google-worker-advocates-why-macbook-beats-windows-laptop-insight-from-the-inside/"><u>Google Worker Advocates: Why MacBook Beats Windows Laptop - Insight From the Inside</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-switching-to-android-compatible-windows-11-a-smart-move-insights-and-analysis-techdigest/"><u>Is Switching to Android-Compatible Windows 11 a Smart Move? Insights & Analysis | TechDigest</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/social-media-connectivity-embedding-live-streams-from-twitch-to-fb-for-2024/"><u>Social Media Connectivity Embedding Live Streams From Twitch to FB for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-final-impressions-how-to-design-a-standout-vimeo-end-screen-for-2024/"><u>[New] Final Impressions How to Design a Standout Vimeo End Screen for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-google-chromes-picture-in-picture-feature/"><u>[Updated] In 2024, Navigating Google Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://win-webster.techidaily.com/404-error-page-missing-expert-solutions-by-allavsoft/"><u>404 Error: Page Missing - Expert Solutions by Allavsoft</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-digital-trailer-design-studios-for-2024/"><u>Best Digital Trailer Design Studios for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-multiformat-earthcam-footage-in-mp4-wmv-mov-avi-and-more/"><u>Download Multiformat EarthCam Footage in MP4, WMV, MOV, AVI, and More</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expertly-curated-list-of-premium-quality-mice-compatible-with-macs-2024s-best-choices/"><u>Expertly Curated List of Premium-Quality Mice Compatible with Macs - 2024'S Best Choices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/transferring-your-spotify-playlists-to-deezer-a-step-by-step-guide/"><u>Transferring Your Spotify Playlists to Deezer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-guide-to-choosing-a-superior-youtube-playlist-downloader-for-macwindows-users/"><u>Ultimate Guide to Choosing a Superior YouTube Playlist Downloader for Mac/Windows Users</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-tutorial-on-downloading-and-saving-musically-clips-in-various-video-file-types/"><u>Ultimate Tutorial on Downloading and Saving Musical.ly Clips in Various Video File Types</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-key-differences-in-panoramic-and-vr-filmmaking-for-2024/"><u>Uncovering Key Differences in Panoramic & VR Filmmaking for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unleash-the-power-of-live-content-with-rtsp-video-extractor-masterful-media-download/"><u>Unleash the Power of Live Content with RTSP Video Extractor - Masterful Media Download</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-pathway-to-a-clutter-free-device-with-video-deletion-tips-for-2024/"><u>Your Pathway to a Clutter-Free Device with Video Deletion Tips for 2024</u></a></li>
 </ul></div>
 

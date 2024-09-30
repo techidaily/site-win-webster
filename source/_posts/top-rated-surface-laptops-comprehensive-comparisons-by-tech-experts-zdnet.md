@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Surface Laptops : Comprehensive Comparisons by Tech Experts | ZDNet"
-date: 2024-09-18T16:47:56.244Z
-updated: 2024-09-25T18:16:24.085Z
+date: 2024-09-29T11:44:07.866Z
+updated: 2024-09-30T14:16:40.101Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -202,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-capture-and-convert-your-instagram-feeds-top-15-free-exporters-for-windows-and-macos-users-for-2024/"><u>[New] Capture and Convert Your Instagram Feeds Top 15 Free Exporters For Windows & macOS Users for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-privacy-first-the-leading-storywatchers/"><u>[New] Privacy-First The Leading Storywatchers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps-for-2024/"><u>[New] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps) for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-decoding-watermarks-in-social-media-imagery/"><u>2024 Approved Decoding Watermarks in Social Media Imagery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unlocking-the-power-of-closed-captions-on-vimeo/"><u>2024 Approved Unlocking the Power of Closed Captions on Vimeo</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/best-free-methods-converting-mpeg-videos-into-mov-format-online-and-offline-solutions/"><u>Best FREE Methods: Converting MPEG Videos Into MOV Format - Online & Offline Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/best-practices-for-setting-up-a-secure-and-efficient-user-account-in-windows-11-expert-advice/"><u>Best Practices for Setting Up a Secure and Efficient User Account in Windows 11 - Expert Advice</u></a></li>
-<li><a href="https://win-webster.techidaily.com/boost-your-pcs-performance-on-windows-11-by-rapidly-shutting-down-sluggish-applications/"><u>Boost Your PC's Performance on Windows 11 by Rapidly Shutting Down Sluggish Applications</u></a></li>
-<li><a href="https://win-webster.techidaily.com/capturing-your-screens-a-comprehensive-guide-to-using-windows-11s-inbuilt-recording-features/"><u>Capturing Your Screens: A Comprehensive Guide to Using Windows 11'S Inbuilt Recording Features</u></a></li>
-<li><a href="https://win-webster.techidaily.com/discover-windows-11s-latest-features-a-comprehensive-guide-to-the-just-released-ai-enhanced-update/"><u>Discover Windows 11'S Latest Features: A Comprehensive Guide to the Just-Released AI Enhanced Update</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-note-30-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Note 30 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/elevate-your-command-mastering-the-art-of-god-mode-on-windows-11-essential-tips-and-motivations-explained-by-zdnet/"><u>Elevate Your Command: Mastering the Art of God Mode on Windows 11 – Essential Tips and Motivations Explained by ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/expert-roundup-of-ultimate-computer-picks-for-202n4-spotlight-on-apple-vs-dell-with-industry-insights-from-zdnet/"><u>Expert Roundup of Ultimate Computer Picks for 202N4: Spotlight on Apple Vs. Dell with Industry Insights From ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/google-worker-advocates-why-macbook-beats-windows-laptop-insight-from-the-inside/"><u>Google Worker Advocates: Why MacBook Beats Windows Laptop - Insight From the Inside</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-90-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor 90 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-switching-to-android-compatible-windows-11-a-smart-move-insights-and-analysis-techdigest/"><u>Is Switching to Android-Compatible Windows 11 a Smart Move? Insights & Analysis | TechDigest</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-logitech-g510-software-downloads-supporting-windows-7-8-and-10-os/"><u>Latest Logitech G510 Software Downloads Supporting Windows 7, 8 & 10 OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[Updated] 2024 Approved Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-beginners-guide-to-adding-depth-with-text-in-photoshop/"><u>[Updated] A Beginner's Guide to Adding Depth with Text in Photoshop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-importance-of-proper-youtube-thumbnail-size-for-successful-engagement/"><u>[Updated] The Importance of Proper YouTube Thumbnail Size for Successful Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/color-crafting-chronicles-pro-techniques-compilation/"><u>Color Crafting Chronicles Pro Techniques Compilation</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-to-downloading-and-converting-varzesh-3-shows-into-common-video-file-types-such-as-mov-mp4/"><u>Guide to Downloading & Converting Varzesh 3 Shows Into Common Video File Types Such as MOV, MP4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-metaverse-humor-creation-for-2024/"><u>Harnessing the Power of Metaverse Humor Creation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-end-stabilizers-perfecting-mobile-and-professional-shooting/"><u>High-End Stabilizers Perfecting Mobile & Professional Shooting</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-save-noco-tv-shows-and-movies-effortlessly-on-your-pc-or-mac/"><u>How to Save Noco TV Shows & Movies Effortlessly on Your PC or Mac</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-content-creation-with-flip-writers-expert-knowledge-hub-dive-into-flipbuildercom-resources/"><u>Mastering Content Creation with Flip Writer's Expert Knowledge Hub - Dive Into FlipBuilder.com Resources</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-digital-practice-techniques-for-retrieving-yoga-tutorials-from-premier-online-classes/"><u>Mastering Digital Practice: Techniques for Retrieving Yoga Tutorials From Premier Online Classes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-putlocker-video-downloads-a-comprehensive-tutorial-for-pc-and-mac-enthusiasts/"><u>Mastering PutLocker Video Downloads: A Comprehensive Tutorial for PC and MAC Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-kids-in-the-directors-chair-making-movies-made-easy/"><u>Updated 2024 Approved Kids in the Directors Chair Making Movies Made Easy</u></a></li>
 </ul></div>
 

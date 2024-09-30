@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Microsoft Account: Essential Strategies to Defend Against Cyber Threats - Insights From ZDNet"
-date: 2024-09-22T17:52:03.720Z
-updated: 2024-09-25T16:11:43.414Z
+date: 2024-09-26T16:50:59.922Z
+updated: 2024-09-30T11:31:21.997Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,19 +148,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -202,18 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-7-proven-strategies-for-astonishing-ig-films-for-2024/"><u>[New] 7 Proven Strategies for Astonishing IG Films for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pro-moviemakers-manual-for-pc-mac-and-mobile-systems/"><u>[Updated] 2024 Approved Pro Moviemaker's Manual for PC, Mac & Mobile Systems</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-top-10-freely-downloadable-apps-for-tiktok-video-editing-on-mac-for-2024/"><u>[Updated] Top 10 Freely Downloadable Apps for TikTok Video Editing on Mac for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/year-get-ready-as-microsoft-shifts-to-a-fee-based-system-for-future-windows-update-services-insights-and-pricing-details/"><u>[Year]: Get Ready as Microsoft Shifts to a Fee-Based System for Future Windows Update Services | Insights & Pricing Details</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>2024 Approved Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
-<li><a href="https://win-webster.techidaily.com/discover-the-latest-ai-powered-surface-pro-10-and-laptop-6-from-microsoft-tech-news/"><u>Discover the Latest: AI-Powered Surface Pro 10 and Laptop 6 From Microsoft | Tech News</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-tecno-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Tecno</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s21-fe-5g-2023-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S21 FE 5G (2023) Phone FRP Lock</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mac-command-key-redefinition-a-step-by-step-guide/"><u>Mac Command Key Redefinition: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/microsoft-demonstrates-windows-role-in-shaping-the-future-of-blended-remote-and-office-work-environments-zdnet/"><u>Microsoft Demonstrates Windows' Role in Shaping the Future of Blended Remote and Office Work Environments | ZDNet</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-rated-surface-laptops-comprehensive-comparisons-by-tech-experts-zdnet/"><u>Top-Rated Surface Laptops : Comprehensive Comparisons by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-power-of-screen-capture-showmores-review-breakdown/"><u>Unveiling the Power of Screen Capture ShowMore's Review Breakdown</u></a></li>
-<li><a href="https://win-webster.techidaily.com/urgent-fix-needed-microsofts-challenge-with-windows-11-looms-as-deadline-approaches-insights-from-zdnet/"><u>Urgent Fix Needed: Microsoft's Challenge with Windows 11 Looms as Deadline Approaches - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-smooth-operation-seamless-addition-of-linktree-to-tiktok-bios/"><u>[Updated] 2024 Approved Smooth Operation Seamless Addition of Linktree to TikTok Bios</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-free-tamil-music-downloader-convert-and-save-songs-in-various-formats-like-mp3-aac-and-more/"><u>1. Free Tamil Music Downloader - Convert and Save Songs in Various Formats Like MP3, AAC & More</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 6s</u></a></li>
+<li><a href="https://win-webster.techidaily.com/convert-and-save-your-favorite-vids-swift-transfer-from-mgoon-to-high-quality-mp4/"><u>Convert & Save Your Favorite Vids: Swift Transfer From MGoON to High-Quality MP4</u></a></li>
+<li><a href="https://win-webster.techidaily.com/convert-and-download-audio-files-as-mp3-wav-aac-and-more-on-windows-or-macos/"><u>Convert and Download Audio Files as MP3, WAV, AAC & More on Windows or macOS</u></a></li>
+<li><a href="https://win-webster.techidaily.com/convert-and-download-detective-movie-previews-in-various-formats-mp4-mov-avi-flv-wmv-mkv/"><u>Convert and Download Detective Movie Previews in Various Formats (MP4, MOV, AVI, FLV, WMV, MKV)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-the-ideal-replace-for-saveclipbro-across-macoswindows-platforms-choose-allavsoft/"><u>Discover the Ideal Replace for SaveClipBro Across macOS/Windows Platforms – Choose Allavsoft!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-audio-from-youtube-efficiently-the-ultimate-mp3-macwindows-rocket-player-alternative/"><u>Download Audio From YouTube Efficiently: The Ultimate MP3 Mac/Windows Rocket Player Alternative!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-audiovideo-content-with-ease-on-weibo-top-apps-and-methods-reviewed/"><u>Download Audio/Video Content with Ease on Weibo: Top Apps and Methods Reviewed</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-guide-to-downloading-content-from-hardsextube/"><u>Easy Guide to Downloading Content From HardSexTube</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-preserve-your-custom-audio-settings-on-windows/"><u>How to Preserve Your Custom Audio Settings on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-t2x-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo T2x 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/improving-recognition-of-rare-codings/"><u>Improving Recognition of Rare Codings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-lava-storm-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Lava Storm 5G Phone Screen?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/trouble-sharing-your-flipbook-creation-via-email-with-flash-learn-why-and-solutions-here/"><u>Trouble Sharing Your FlipBook Creation Via Email with Flash? Learn Why and Solutions Here!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-magic-6-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-captions-101-the-essential-guide-for-2024/"><u>Vimeo Captions 101 The Essential Guide for 2024</u></a></li>
 </ul></div>
 

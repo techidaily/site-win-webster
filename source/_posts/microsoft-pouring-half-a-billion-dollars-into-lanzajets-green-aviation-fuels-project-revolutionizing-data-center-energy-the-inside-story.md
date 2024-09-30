@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story"
-date: 2024-09-24T17:38:22.583Z
-updated: 2024-09-25T20:39:07.443Z
+date: 2024-09-24T03:16:46.230Z
+updated: 2024-09-29T23:48:04.649Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-fisheye-sphere-capture/"><u>[New] Innovative Techniques for Fisheye Sphere Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030524733-windows-114/"><u>効果的なWindows 11デスクトップ動画作成:探求4つの方法</u></a></li>
-<li><a href="https://win-webster.techidaily.com/efficient-deezer-music-extractor-convert-your-deezer-tracks-to-high-quality-mp3-and-flac-formats/"><u>Efficient Deezer Music Extractor: Convert Your Deezer Tracks to High-Quality MP3 and FLAC Formats</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effortless-guide-convert-and-save-your-favorite-songs-the-complete-tutorial-on-downloading-taylor-swifts-music-as-mp3-and-aac/"><u>Effortless Guide: Convert and Save Your Favorite Songs - The Complete Tutorial on Downloading Taylor Swift's Music as MP3 & AAC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/forza-horizon-5-graphics-update-a-step-by-step-guide-to-driver-optimization/"><u>Forza Horizon #5 Graphics Update: A Step-by-Step Guide to Driver Optimization</u></a></li>
-<li><a href="https://win-webster.techidaily.com/free-download-chill-out-zone-film-in-various-formats-mp4-wmv-mov-flv-avi-for-mac-and-windows-users/"><u>Free Download: Chill Out Zone Film in Various Formats (MP4, WMV, MOV, FLV, AVI) for Mac & Windows Users</u></a></li>
-<li><a href="https://win-webster.techidaily.com/free-video-downloads-from-oncourse-learning-platform-start-your-educational-journey-today/"><u>Free Video Downloads From OnCourse Learning Platform – Start Your Educational Journey Today!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/get-your-favorite-mybluprint-clips-fast-and-easy-with-our-guide/"><u>Get Your Favorite MyBluprint Clips Fast and Easy with Our Guide!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-to-downloading-and-converting-varzesh-3-shows-into-common-video-file-types-such-as-mov-mp4/"><u>Guide to Downloading & Converting Varzesh 3 Shows Into Common Video File Types Such as MOV, MP4</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-save-noco-tv-shows-and-movies-effortlessly-on-your-pc-or-mac/"><u>How to Save Noco TV Shows & Movies Effortlessly on Your PC or Mac</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-digital-practice-techniques-for-retrieving-yoga-tutorials-from-premier-online-classes/"><u>Mastering Digital Practice: Techniques for Retrieving Yoga Tutorials From Premier Online Classes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rayman-legends-explored-an-intricate-and-engaging-2d-adventure/"><u>Rayman Legends Explored: An Intricate and Engaging 2D Adventure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revealing-vanished-windows-on-your-screen-6-suggestions-in-win11/"><u>Revealing Vanished Windows on Your Screen: 6 Suggestions in Win11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlock-the-power-of-visual-storytelling-with-screen-capture-skills-for-2024/"><u>Unlock the Power of Visual Storytelling with Screen Capture Skills for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-your-pathway-to-mastery-in-youtube-vids-on-twitter/"><u>[New] In 2024, Your Pathway to Mastery in YouTube Vids on Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professional-filmmaking-secrets-the-ultimate-guide-to-11-color-edits/"><u>[New] Professional Filmmaking Secrets The Ultimate Guide to 11 Color Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-cinematic-images-post-production-of-vt-videos-with-fcpx-for-2024/"><u>[Updated] Cinematic Images Post-Production of VT Videos with FCPX for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-optimize-profitability-the-science-behind-high-roi-fb-animatons/"><u>2024 Approved Optimize Profitability The Science Behind High-ROI FB Animatons</u></a></li>
+<li><a href="https://win-webster.techidaily.com/creative-tims-premium-aspnet-and-vuejs-admin-dashboard-a-complimentary-bootstrap-framework-by-vue-argon/"><u>Creative Tim's Premium ASP.NET & Vue.js Admin Dashboard: A Complimentary Bootstrap Framework by Vue Argon</u></a></li>
+<li><a href="https://win-webster.techidaily.com/creative-tims-premium-bootstrap-4-admin-template-angular-material-dashboard-version-14/"><u>Creative Tim's Premium Bootstrap 4 Admin Template - Angular Material Dashboard, Version 14</u></a></li>
+<li><a href="https://win-webster.techidaily.com/creative-tims-ultimate-reactive-admin-panel-with-reactstrap-and-bootstrap-nvp-premium-version-of-argon-dashboard-pro/"><u>Creative Tim's Ultimate Reactive Admin Panel with Reactstrap & Bootstrap Nvp – Premium Version of Argon Dashboard PRO</u></a></li>
+<li><a href="https://win-webster.techidaily.com/elevate-your-projects-with-now-ui-pro-the-top-tier-react-native-design-suite-from-creative-tim/"><u>Elevate Your Projects with Now UI Pro - The Top-Tier React Native Design Suite From Creative Tim</u></a></li>
+<li><a href="https://win-webster.techidaily.com/enhance-your-web-projects-with-17plus-bespoke-tailwind-cssnextjs-themes-complimentary-download-options-by-creative-tim/"><u>Enhance Your Web Projects with 17+ Bespoke Tailwind CSS/NextJS Themes: Complimentary Download Options by Creative Tim</u></a></li>
+<li><a href="https://win-webster.techidaily.com/experience-modern-ui-with-bootstrap-5-and-material-themes-on-creative-tims-free-material-dashboard-for-admins/"><u>Experience Modern UI with Bootstrap 5 & Material Themes on Creative Tim’s Free Material Dashboard for Admins</u></a></li>
+<li><a href="https://win-webster.techidaily.com/explore-over-80-premium-react-designs-and-starter-kits-by-creativetim/"><u>Explore Over 80 Premium React Designs and Starter Kits by CreativeTim</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>In 2024, Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-chromebook-snapshot-tool-for-2024/"><u>Ultimate Chromebook Snapshot Tool for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unravel-the-complexity-of-background-removal-with-affinity-photo-for-2024/"><u>Unravel the Complexity of Background Removal with Affinity Photo for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890183850-upcoming-android-16-release-leaked-details-on-pricing-launch-date-and-specs-stay-ahead-of-the-curve/"><u>Upcoming Android 16 Release: Leaked Details on Pricing, Launch Date & Specs - Stay Ahead of the Curve</u></a></li>
 </ul></div>
 

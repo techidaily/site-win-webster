@@ -1,7 +1,7 @@
 ---
 title: Southwest Airlines Shares Great Updates for All Passengers, Bill Gates Left Out - ZDNet Coverage
-date: 2024-09-22T16:23:54.783Z
-updated: 2024-09-25T20:19:04.606Z
+date: 2024-09-23T09:31:00.901Z
+updated: 2024-09-30T06:30:13.727Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-supreme-recommendations-best-ios-tone-designers/"><u>[New] Supreme Recommendations Best iOS Tone Designers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chucklecraft-suite/"><u>[Updated] ChuckleCraft Suite</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-expertise-in-cutting-edge-encoders-for-live-media/"><u>[Updated] Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-note-30-vip-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Note 30 VIP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-instagram-inhalte-auf-computer-pcmac-mit-schritt-fur-schritt-anleitung-fur-ios-und-android-gerate/"><u>Download Instagram-Inhalte Auf Computer (PC/Mac) Mit Schritt-Für-Schritt-Anleitung Für iOS Und Android Geräte</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transform-your-aifc-tracks-into-m4r-mp3s-using-movavis-free-tool-online/"><u>How to Transform Your AIFC Tracks Into M4R MP3s Using Movavi's Free Tool Online!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/identifying-todays-top-web-browsers-insights-from-zdnet/"><u>Identifying Today's Top Web Browsers - Insights From ZDNet</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 With 7 Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-speakers-guide-to-captivating-visual-storytelling/"><u>In 2024, The Speaker's Guide to Captivating Visual Storytelling</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-file-sync-and-protection-in-windows-11-via-the-advanced-file-history-tool-zdnet-insights/"><u>Mastering File Sync & Protection in Windows 11 via the Advanced File History Tool | ZDNET Insights</u></a></li>
-<li><a href="https://win-webster.techidaily.com/microsoft-pouring-half-a-billion-dollars-into-lanzajets-green-aviation-fuels-project-revolutionizing-data-center-energy-the-inside-story/"><u>Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story</u></a></li>
-<li><a href="https://win-webster.techidaily.com/the-future-of-cloud-gaming-unveiled-microsofts-collaboration-with-samsung-promises-a-new-era/"><u>The Future of Cloud Gaming Unveiled: Microsoft's Collaboration with Samsung Promises a New Era</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tructuring-engaging-online-vignettes/"><u>[New] Structuring Engaging Online Vignettes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhance-youtube-trademarks-tips-on-logo-and-watermark-addition-for-2024/"><u>[Updated] Enhance YouTube Trademarks Tips on Logo and Watermark Addition for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[Updated] In 2024, Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-precision-editing-made-easy-top-5-techniques-for-trimming-and-cutting-vimeo-footage/"><u>[Updated] In 2024, Precision Editing Made Easy Top 5 Techniques for Trimming & Cutting Vimeo Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-swift-google-collage-compilation/"><u>2024 Approved The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-audio-from-youtube-efficiently-the-ultimate-mp3-macwindows-rocket-player-alternative/"><u>Download Audio From YouTube Efficiently: The Ultimate MP3 Mac/Windows Rocket Player Alternative!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-audiovideo-content-with-ease-on-weibo-top-apps-and-methods-reviewed/"><u>Download Audio/Video Content with Ease on Weibo: Top Apps and Methods Reviewed</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-guide-to-downloading-content-from-hardsextube/"><u>Easy Guide to Downloading Content From HardSexTube</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-methods-for-downloading-and-transforming-mahara-songs-to-various-videoaudio-formats/"><u>Easy Methods for Downloading and Transforming Mahara Songs to Various Video/Audio Formats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-itel-a70-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Itel A70</u></a></li>
+<li><a href="https://win-webster.techidaily.com/efficient-deezer-music-extractor-convert-your-deezer-tracks-to-high-quality-mp3-and-flac-formats/"><u>Efficient Deezer Music Extractor: Convert Your Deezer Tracks to High-Quality MP3 and FLAC Formats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 10 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-fixed-power-settings-on-windows-11/"><u>Solutions for Fixed Power Settings on Windows 11</u></a></li>
 </ul></div>
 

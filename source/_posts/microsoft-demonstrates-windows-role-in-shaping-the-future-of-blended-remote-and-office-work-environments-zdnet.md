@@ -1,7 +1,7 @@
 ---
 title: Microsoft Demonstrates Windows' Role in Shaping the Future of Blended Remote and Office Work Environments | ZDNet
-date: 2024-09-24T19:23:11.838Z
-updated: 2024-09-25T18:22:34.581Z
+date: 2024-09-22T16:20:49.751Z
+updated: 2024-09-30T04:38:49.418Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[New] 2024 Approved Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-monetizing-videos-on-youtube-strategies-success/"><u>[New] 2024 Approved Monetizing Videos on YouTube Strategies Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-superior-web-destinations-alarm-ringtone-downloads-guide/"><u>[New] In 2024, Superior Web Destinations Alarm Ringtone Downloads Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-2023s-samsung-bd-j5900-a-detailed-look/"><u>[Updated] 2024 Approved 2023'S Samsung BD-J5900 A Detailed Look</u></a></li>
-<li><a href="https://win-webster.techidaily.com/access-your-onedrive-files-anywhere-new-offline-feature-enables-rural-remote-accessibility-tech-insights/"><u>Access Your OneDrive Files Anywhere: New Offline Feature Enables Rural Remote Accessibility | Tech Insights</u></a></li>
-<li><a href="https://win-top.techidaily.com/cambia-archivo-ogg-a-formato-de-audio-aiff-sin-coste-con-herramientas-en-linea-facilmente/"><u>Cambia Archivo OGG a Formato De Audio AIFF Sin Coste Con Herramientas En Línea Facilmente</u></a></li>
-<li><a href="https://win-webster.techidaily.com/great-updates-from-southwest-airlines-whats-not-so-great-for-mr-gates-an-in-depth-analysis/"><u>Great Updates From Southwest Airlines: What's Not So Great for Mr. Gates? - An In-Depth Analysis</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 14</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/identifying-todays-top-web-browsers-insights-from-zdnet/"><u>Identifying Today's Top Web Browsers - Insights From ZDNet</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-file-sync-and-protection-in-windows-11-via-the-advanced-file-history-tool-zdnet-insights/"><u>Mastering File Sync & Protection in Windows 11 via the Advanced File History Tool | ZDNET Insights</u></a></li>
-<li><a href="https://win-webster.techidaily.com/microsoft-pouring-half-a-billion-dollars-into-lanzajets-green-aviation-fuels-project-revolutionizing-data-center-energy-the-inside-story/"><u>Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story</u></a></li>
-<li><a href="https://win-webster.techidaily.com/the-future-of-cloud-gaming-unveiled-microsofts-collaboration-with-samsung-promises-a-new-era/"><u>The Future of Cloud Gaming Unveiled: Microsoft's Collaboration with Samsung Promises a New Era</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-operations-and-applications-of-claude-2/"><u>The Operations and Applications of Claude 2</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-3d-text-design-in-ps/"><u>The Ultimate Guide to 3D Text Design in PS</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unveiling-the-impact-of-gpt-on-coding-professionals-a-data-driven-analysis-explored-with-zdnet/"><u>Unveiling the Impact of GPT on Coding Professionals: A Data-Driven Analysis | Explored with ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/upcoming-fees-microsoft-to-introduce-costs-for-windows-10-updates-in-the-following-year-detailed-breakdown/"><u>Upcoming Fees: Microsoft to Introduce Costs for Windows 10 Updates in the Following Year - Detailed Breakdown</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-exploring-screen-recording-with-the-latest-spring-update/"><u>[New] 2024 Approved Exploring Screen Recording with the Latest Spring Update</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos/"><u>2024 Approved Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-real-time-vs-recorded-entertainment-twitch-vs-youtube-analysis/"><u>2024 Approved Real-Time vs Recorded Entertainment Twitch vs YouTube Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/craft-your-unique-ringtone-from-favorite-tiktok-music-to-cellphone-alarms/"><u>Craft Your Unique Ringtone - From Favorite TikTok Music to Cellphone Alarms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-immersive-experiences-with-captions-on-stories-and-reels/"><u>Crafting Immersive Experiences with Captions on Stories & Reels</u></a></li>
+<li><a href="https://facebook.techidaily.com/digging-into-the-absence-phenomenon-in-messenger/"><u>Digging Into the Absence Phenomenon in Messenger</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-7-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 7 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/incorporating-user-guides-into-your-flipbooks-with-ease-a-step-by-step-tutorial-on-flipbuilder/"><u>Incorporating User Guides Into Your Flipbooks with Ease - A Step-by-Step Tutorial on FlipBuilder</u></a></li>
+<li><a href="https://win-webster.techidaily.com/integrating-a-dynamic-toc-in-your-ebooks-with-flipbuilder/"><u>Integrating a Dynamic TOC in Your eBooks with FlipBuilder</u></a></li>
+<li><a href="https://win-webster.techidaily.com/integrating-audio-content-into-your-language-learning-books-with-flipbuilder/"><u>Integrating Audio Content Into Your Language Learning Books with FlipBuilder</u></a></li>
+<li><a href="https://win-webster.techidaily.com/integrating-youtube-videos-into-your-flippingbook-ebooks-with-simple-steps/"><u>Integrating YouTube Videos Into Your FlippingBook Ebooks with Simple Steps</u></a></li>
+<li><a href="https://win-webster.techidaily.com/introducing-flipbuilders-multilingual-feature-build-and-publish-in-german-easily/"><u>Introducing FlipBuilder's Multilingual Feature: Build and Publish in German Easily!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-uploading-files-to-the-web-using-ftp-on-flipbuilder/"><u>Step-by-Step Guide: Uploading Files to the Web Using FTP on FlipBuilder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/students-new-ally-in-academics-five-innovative-uses-for-chatgpt/"><u>Students' New Ally in Academics: Five Innovative Uses for ChatGPT</u></a></li>
+<li><a href="https://win-webster.techidaily.com/the-ultimate-guide-to-creating-attractive-button-fonts-for-flipbook-design-using-flipoffice-pro-techniques/"><u>The Ultimate Guide to Creating Attractive Button Fonts for FlipBook Design Using FlipOffice Pro Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-12-pro-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme 12 Pro 5G Device</u></a></li>
 </ul></div>
 
