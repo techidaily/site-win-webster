@@ -1,7 +1,7 @@
 ---
 title: Southwest Airlines Shares Great Updates for All Passengers, Bill Gates Left Out - ZDNet Coverage
-date: 2024-09-23T09:31:00.901Z
-updated: 2024-09-30T06:30:13.727Z
+date: 2024-09-30T17:39:13.308Z
+updated: 2024-10-05T20:06:01.256Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +75,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/tructuring-engaging-online-vignettes/"><u>[New] Structuring Engaging Online Vignettes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-enhance-youtube-trademarks-tips-on-logo-and-watermark-addition-for-2024/"><u>[Updated] Enhance YouTube Trademarks Tips on Logo and Watermark Addition for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[Updated] In 2024, Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-precision-editing-made-easy-top-5-techniques-for-trimming-and-cutting-vimeo-footage/"><u>[Updated] In 2024, Precision Editing Made Easy Top 5 Techniques for Trimming & Cutting Vimeo Footage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-swift-google-collage-compilation/"><u>2024 Approved The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-audio-from-youtube-efficiently-the-ultimate-mp3-macwindows-rocket-player-alternative/"><u>Download Audio From YouTube Efficiently: The Ultimate MP3 Mac/Windows Rocket Player Alternative!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-audiovideo-content-with-ease-on-weibo-top-apps-and-methods-reviewed/"><u>Download Audio/Video Content with Ease on Weibo: Top Apps and Methods Reviewed</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-guide-to-downloading-content-from-hardsextube/"><u>Easy Guide to Downloading Content From HardSexTube</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-methods-for-downloading-and-transforming-mahara-songs-to-various-videoaudio-formats/"><u>Easy Methods for Downloading and Transforming Mahara Songs to Various Video/Audio Formats</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-itel-a70-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Itel A70</u></a></li>
-<li><a href="https://win-webster.techidaily.com/efficient-deezer-music-extractor-convert-your-deezer-tracks-to-high-quality-mp3-and-flac-formats/"><u>Efficient Deezer Music Extractor: Convert Your Deezer Tracks to High-Quality MP3 and FLAC Formats</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 10 & 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-fixed-power-settings-on-windows-11/"><u>Solutions for Fixed Power Settings on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-innovative-methods-to-enhance-your-twitch-stream/"><u>[New] 2024 Approved Innovative Methods to Enhance Your Twitch Stream</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-fbx-the-ultimate-gaming-video-guide/"><u>[New] FBX The Ultimate Gaming Video Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-hd-to-uhd-seamless-video-transformations-for-2024/"><u>[New] HD to UHD Seamless Video Transformations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-5-leading-3d-video-entrance-design-tools/"><u>[New] In 2024, 5 Leading 3D Video Entrance Design Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-video-production-with-top-mac-mp4-tools/"><u>2024 Approved Streamlining Video Production with Top Mac MP4 Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/aesthetic-all-stars-popular-instagram-filters-for-2024/"><u>Aesthetic All-Stars Popular Instagram Filters for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-the-constant-restart-problem-in-windows-10/"><u>Easy Fixes for the Constant Restart Problem in Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-finest-videophone-tools-free-edition-listed-here/"><u>In 2024, The Finest Videophone Tools Free Edition Listed Here</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-switching-to-android-compatible-windows-11-a-smart-move-insights-and-analysis-techdigest/"><u>Is Switching to Android-Compatible Windows 11 a Smart Move? Insights & Analysis | TechDigest</u></a></li>
+<li><a href="https://win-webster.techidaily.com/simplifying-pc-maintenance-tame-window-updates-with-simple-tricks/"><u>Simplifying PC Maintenance: Tame Window Updates with Simple Tricks!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-tpm-essential-security-hardware-every-computer-needs-insights-and-explanation/"><u>Understanding TPM: Essential Security Hardware Every Computer Needs - Insights & Explanation</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unlocking-productivity-the-best-7-microsoft-powertoys-for-enhanced-windows-experience-find-out-now/"><u>Unlocking Productivity: The Best 7 Microsoft PowerToys for Enhanced Windows Experience - Find Out Now!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unlocking-the-past-a-guide-to-access-and-backup-files-on-outdated-computers-without-knowing-the-password/"><u>Unlocking the Past: A Guide to Access and Backup Files on Outdated Computers Without Knowing the Password.</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-excellence-the-macbook-pro-with-m1-pro-chip-delivers-outstanding-windows-1nnovation-reviewed-by-zdnet/"><u>Unveiling Excellence: The MacBook Pro with M1 Pro Chip Delivers Outstanding Windows 1Nnovation, Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-webster.techidaily.com/urgent-challenge-microsofts-race-against-time-to-fix-windows-10-issues-before-deadline/"><u>Urgent Challenge: Microsoft's Race Against Time to Fix Windows 10 Issues Before Deadline</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-12-update-whats-next-for-microsoft-discover-insider-predictions-and-essential-faq-revealed-gadgetguru/"><u>Windows 12 Update: What's Next for Microsoft? Discover Insider Predictions & Essential FAQ Revealed | GadgetGuru</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-disruption-widespread-among-airlines-and-financial-institutions-due-to-crowdstrike-incident-insights-revealed/"><u>Windows Disruption Widespread Among Airlines & Financial Institutions Due To CrowdStrike Incident - Insights Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story"
-date: 2024-09-24T03:16:46.230Z
-updated: 2024-09-29T23:48:04.649Z
+date: 2024-10-04T16:38:21.800Z
+updated: 2024-10-05T21:46:58.450Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-your-pathway-to-mastery-in-youtube-vids-on-twitter/"><u>[New] In 2024, Your Pathway to Mastery in YouTube Vids on Twitter</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-filmmaking-secrets-the-ultimate-guide-to-11-color-edits/"><u>[New] Professional Filmmaking Secrets The Ultimate Guide to 11 Color Edits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-cinematic-images-post-production-of-vt-videos-with-fcpx-for-2024/"><u>[Updated] Cinematic Images Post-Production of VT Videos with FCPX for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-optimize-profitability-the-science-behind-high-roi-fb-animatons/"><u>2024 Approved Optimize Profitability The Science Behind High-ROI FB Animatons</u></a></li>
-<li><a href="https://win-webster.techidaily.com/creative-tims-premium-aspnet-and-vuejs-admin-dashboard-a-complimentary-bootstrap-framework-by-vue-argon/"><u>Creative Tim's Premium ASP.NET & Vue.js Admin Dashboard: A Complimentary Bootstrap Framework by Vue Argon</u></a></li>
-<li><a href="https://win-webster.techidaily.com/creative-tims-premium-bootstrap-4-admin-template-angular-material-dashboard-version-14/"><u>Creative Tim's Premium Bootstrap 4 Admin Template - Angular Material Dashboard, Version 14</u></a></li>
-<li><a href="https://win-webster.techidaily.com/creative-tims-ultimate-reactive-admin-panel-with-reactstrap-and-bootstrap-nvp-premium-version-of-argon-dashboard-pro/"><u>Creative Tim's Ultimate Reactive Admin Panel with Reactstrap & Bootstrap Nvp – Premium Version of Argon Dashboard PRO</u></a></li>
-<li><a href="https://win-webster.techidaily.com/elevate-your-projects-with-now-ui-pro-the-top-tier-react-native-design-suite-from-creative-tim/"><u>Elevate Your Projects with Now UI Pro - The Top-Tier React Native Design Suite From Creative Tim</u></a></li>
-<li><a href="https://win-webster.techidaily.com/enhance-your-web-projects-with-17plus-bespoke-tailwind-cssnextjs-themes-complimentary-download-options-by-creative-tim/"><u>Enhance Your Web Projects with 17+ Bespoke Tailwind CSS/NextJS Themes: Complimentary Download Options by Creative Tim</u></a></li>
-<li><a href="https://win-webster.techidaily.com/experience-modern-ui-with-bootstrap-5-and-material-themes-on-creative-tims-free-material-dashboard-for-admins/"><u>Experience Modern UI with Bootstrap 5 & Material Themes on Creative Tim’s Free Material Dashboard for Admins</u></a></li>
-<li><a href="https://win-webster.techidaily.com/explore-over-80-premium-react-designs-and-starter-kits-by-creativetim/"><u>Explore Over 80 Premium React Designs and Starter Kits by CreativeTim</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>In 2024, Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ultimate-chromebook-snapshot-tool-for-2024/"><u>Ultimate Chromebook Snapshot Tool for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unravel-the-complexity-of-background-removal-with-affinity-photo-for-2024/"><u>Unravel the Complexity of Background Removal with Affinity Photo for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722890183850-upcoming-android-16-release-leaked-details-on-pricing-launch-date-and-specs-stay-ahead-of-the-curve/"><u>Upcoming Android 16 Release: Leaked Details on Pricing, Launch Date & Specs - Stay Ahead of the Curve</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones/"><u>[New] 2024 Approved Crafting Captivating YouTube Presence The Ultimate Guide to Making Thumbnails on Phones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-pixel-perfect-memes-with-kinemaster/"><u>[New] 2024 Approved Pixel Perfect Memes with KineMaster</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-proven-paths-to-owning-successful-monetized-youtubes/"><u>[New] 2024 Approved Proven Paths to Owning Successful Monetized Youtubes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-az-screenscape-full-application-review-alternatives/"><u>[New] AZ Screenscape Full Application Review, Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-still-faces-picsarts-motion-blur-magic/"><u>[New] Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-animators-artistry-archives-for-2024/"><u>[Updated] Animator's Artistry Archives for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-discover-the-best-no-cost-soundtracks-for-video-production/"><u>[Updated] Discover the Best No-Cost Soundtracks for Video Production</u></a></li>
+<li><a href="https://win-webster.techidaily.com/breaking-news-paid-windows-10-patches-to-begin-in-upcoming-fiscal-year-estimated-fees-explained-digital-trends/"><u>Breaking News: Paid Windows 10 Patches to Begin in Upcoming Fiscal Year – Estimated Fees Explained | Digital Trends</u></a></li>
+<li><a href="https://win-webster.techidaily.com/celebrate-your-smart-choice-congratulations-on-buying-a-mirillis-masterpiece/"><u>Celebrate Your Smart Choice: Congratulations on Buying a Mirilli's Masterpiece!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/join-mirillis-social-circle-connect-with-us-on-facebook-and-twitter-today/"><u>Join Mirilli's Social Circle: Connect with Us on Facebook & Twitter Today!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/navigating-your-order-with-mirillis-complete-guide-to-transaction-steps-and-acceptable-currencies/"><u>Navigating Your Order with Mirillis: Complete Guide to Transaction Steps & Acceptable Currencies</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-saving-sky-sports-broadcasts-as-mp4-mov-avi-files-for-offline-viewing/"><u>Step-by-Step Tutorial on Saving Sky Sports Broadcasts as MP4, MOV, AVI Files for Offline Viewing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-behind-bingchatgpt-token-offers-a-comprehensive-look-at-spotting-deceptive-cryptocurrency-schemes/"><u>The Truth Behind BingChatGPT Token Offers: A Comprehensive Look at Spotting Deceptive Cryptocurrency Schemes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-the-practical-benefits-of-photo-stability-features-for-2024/"><u>Uncovering the Practical Benefits of Photo Stability Features for 2024</u></a></li>
 </ul></div>
 

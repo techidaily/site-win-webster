@@ -1,7 +1,7 @@
 ---
 title: "Mac Command Key Redefinition: A Step-by-Step Guide"
-date: 2024-09-23T07:05:25.796Z
-updated: 2024-09-30T07:48:17.339Z
+date: 2024-10-02T20:22:28.180Z
+updated: 2024-10-05T18:20:52.820Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,19 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-boosting-zoom-performance-on-chrome-devices/"><u>[New] Boosting Zoom Performance on Chrome Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-image-processes-with-polarrs-compreeved-tools/"><u>[Updated] Streamlining Image Processes with Polarr's Compreeved Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/discovering-the-artistic-works-of-daria-masson-on-movavi-platform/"><u>Discovering the Artistic Works of Daria Masson on Movavi Platform</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-methods-for-downloading-and-transforming-mahara-songs-to-various-videoaudio-formats/"><u>Easy Methods for Downloading and Transforming Mahara Songs to Various Video/Audio Formats</u></a></li>
-<li><a href="https://win-webster.techidaily.com/efficient-deezer-music-extractor-convert-your-deezer-tracks-to-high-quality-mp3-and-flac-formats/"><u>Efficient Deezer Music Extractor: Convert Your Deezer Tracks to High-Quality MP3 and FLAC Formats</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effortless-guide-convert-and-save-your-favorite-songs-the-complete-tutorial-on-downloading-taylor-swifts-music-as-mp3-and-aac/"><u>Effortless Guide: Convert and Save Your Favorite Songs - The Complete Tutorial on Downloading Taylor Swift's Music as MP3 & AAC</u></a></li>
-<li><a href="https://win-webster.techidaily.com/free-download-chill-out-zone-film-in-various-formats-mp4-wmv-mov-flv-avi-for-mac-and-windows-users/"><u>Free Download: Chill Out Zone Film in Various Formats (MP4, WMV, MOV, FLV, AVI) for Mac & Windows Users</u></a></li>
-<li><a href="https://win-webster.techidaily.com/free-video-downloads-from-oncourse-learning-platform-start-your-educational-journey-today/"><u>Free Video Downloads From OnCourse Learning Platform – Start Your Educational Journey Today!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/get-your-favorite-mybluprint-clips-fast-and-easy-with-our-guide/"><u>Get Your Favorite MyBluprint Clips Fast and Easy with Our Guide!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-hot-40i-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Hot 40i To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-leverage-llama-2s-power-tools/"><u>How to Leverage Llama 2'S Power Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-fit-review-a-wearable-for-your-active-lifestyle/"><u>Samsung Galaxy Fit Review: A Wearable for Your Active Lifestyle</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat/"><u>Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>[Updated] Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
+<li><a href="https://win-webster.techidaily.com/access-your-favorite-tunes-how-to-securely-save-8tracks-lists-for-offline-use/"><u>Access Your Favorite Tunes - How To Securely Save 8Tracks Lists for Offline Use</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-free-ocr-software-for-windows-top-picks-and-reviews/"><u>Best Free OCR Software for Windows : Top Picks and Reviews</u></a></li>
+<li><a href="https://win-webster.techidaily.com/convert-swf-files-to-avi-format-for-free-online-and-pc-methods/"><u>Convert SWF Files to AVI Format for Free – Online & PC Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-entry-to-next-gen-ai-gpt-4s-secrets-unveiled/"><u>Free Entry to Next-Gen AI: GPT-4's Secrets Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-subtitles-to-igtv-videos/"><u>How to Add Subtitles to IGTV Videos?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-vivo-s18-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo S18 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-webster.techidaily.com/quick-and-simple-method-for-consolidating-pdf-files-into-one-unified-document-tips-for-202n/"><u>Quick & Simple Method for Consolidating PDF Files Into One Unified Document – Tips for 202N</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-setup-guide-for-your-intel-centrino-n-6205-wireless-networking-card-drivers/"><u>Quick Setup Guide for Your Intel Centrino N 6205 Wireless Networking Card Drivers</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-platforms-and-applications-for-converting-signature-background-color-to-pure-white/"><u>Top Platforms and Applications for Converting Signature Background Color to Pure White</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-kobo-nia-is-it-a-strong-contender-in-the-kindle-arena/"><u>Unboxing the Kobo Nia - Is It a Strong Contender in the Kindle Arena?</u></a></li>
 </ul></div>
 

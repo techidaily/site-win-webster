@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Microsoft Account: Essential Strategies to Defend Against Cyber Threats - Insights From ZDNet"
-date: 2024-09-26T16:50:59.922Z
-updated: 2024-09-30T11:31:21.997Z
+date: 2024-09-30T22:45:35.912Z
+updated: 2024-10-05T16:15:53.389Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-smooth-operation-seamless-addition-of-linktree-to-tiktok-bios/"><u>[Updated] 2024 Approved Smooth Operation Seamless Addition of Linktree to TikTok Bios</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-free-tamil-music-downloader-convert-and-save-songs-in-various-formats-like-mp3-aac-and-more/"><u>1. Free Tamil Music Downloader - Convert and Save Songs in Various Formats Like MP3, AAC & More</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 6s</u></a></li>
-<li><a href="https://win-webster.techidaily.com/convert-and-save-your-favorite-vids-swift-transfer-from-mgoon-to-high-quality-mp4/"><u>Convert & Save Your Favorite Vids: Swift Transfer From MGoON to High-Quality MP4</u></a></li>
-<li><a href="https://win-webster.techidaily.com/convert-and-download-audio-files-as-mp3-wav-aac-and-more-on-windows-or-macos/"><u>Convert and Download Audio Files as MP3, WAV, AAC & More on Windows or macOS</u></a></li>
-<li><a href="https://win-webster.techidaily.com/convert-and-download-detective-movie-previews-in-various-formats-mp4-mov-avi-flv-wmv-mkv/"><u>Convert and Download Detective Movie Previews in Various Formats (MP4, MOV, AVI, FLV, WMV, MKV)</u></a></li>
-<li><a href="https://win-webster.techidaily.com/discover-the-ideal-replace-for-saveclipbro-across-macoswindows-platforms-choose-allavsoft/"><u>Discover the Ideal Replace for SaveClipBro Across macOS/Windows Platforms – Choose Allavsoft!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-audio-from-youtube-efficiently-the-ultimate-mp3-macwindows-rocket-player-alternative/"><u>Download Audio From YouTube Efficiently: The Ultimate MP3 Mac/Windows Rocket Player Alternative!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-audiovideo-content-with-ease-on-weibo-top-apps-and-methods-reviewed/"><u>Download Audio/Video Content with Ease on Weibo: Top Apps and Methods Reviewed</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-guide-to-downloading-content-from-hardsextube/"><u>Easy Guide to Downloading Content From HardSexTube</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-preserve-your-custom-audio-settings-on-windows/"><u>How to Preserve Your Custom Audio Settings on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-t2x-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo T2x 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/improving-recognition-of-rare-codings/"><u>Improving Recognition of Rare Codings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-lava-storm-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Lava Storm 5G Phone Screen?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/trouble-sharing-your-flipbook-creation-via-email-with-flash-learn-why-and-solutions-here/"><u>Trouble Sharing Your FlipBook Creation Via Email with Flash? Learn Why and Solutions Here!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-magic-6-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Magic 6 Pro.</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-captions-101-the-essential-guide-for-2024/"><u>Vimeo Captions 101 The Essential Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlocking-viral-potential-with-ai-driven-video-titles/"><u>[New] 2024 Approved Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-bebops-visionary-feathered-future-examined-for-2024/"><u>[New] Bebop's Visionary Feathered Future Examined for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-your-youtube-potential-try-these-proven-growth-strategies/"><u>[Updated] 2024 Approved Unlock Your YouTube Potential Try These Proven Growth Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima-for-2024/"><u>[Updated] Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-downloader-pro-mp4-archive-now-available/"><u>[Updated] FB Video Downloader Pro MP4 Archive Now Available</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comprehensive-user-manual-mastering-the-apowersoft-android-screen-recording-tool/"><u>Comprehensive User Manual: Mastering the Apowersoft Android Screen Recording Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/endless-loads-not-anymore-quick-solutions-for-madden-nfl-eborne-22s-stuck-screen/"><u>Endless Loads? Not Anymore! Quick Solutions for Madden NFL Eborne 22'S Stuck Screen</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exporting-your-ios-chat-history-converting-imessages-to-pc-with-options-for-csv-vcf-txt-and-pdf-formats/"><u>Exporting Your iOS Chat History: Converting iMessages to PC with Options for CSV, VCF, TXT & PDF Formats</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-illumination-best-covered-ig-highlights-on-the-move/"><u>In 2024, Instagram Illumination Best-Covered IG Highlights on the Move</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-windows-8-moviemaker-step-by-step-guide-for-2024/"><u>Mastering Windows 8 Moviemaker Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pioneering-sustainable-video-capturing-techniques/"><u>Pioneering Sustainable Video Capturing Techniques</u></a></li>
+<li><a href="https://win-webster.techidaily.com/practical-methods-to-pair-your-mac-with-a-samsung-smart-television/"><u>Practical Methods to Pair Your Mac with a Samsung Smart Television</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-guide-effortless-precise-mobile-hair-trimming-and-top-rated/"><u>Ultimate Guide, Effortless, Precise Mobile Hair Trimming, and Top-Rated.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lip-Reading Tech Shakes Up the Market: The Game-Changing Competitor to Zoom and MS Teams Unveiled on ZDNet"
-date: 2024-09-24T17:15:37.827Z
-updated: 2024-09-29T16:14:37.745Z
+date: 2024-09-29T21:11:57.658Z
+updated: 2024-10-05T19:23:48.295Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-extract-youtube-trailers-and-more/"><u>[New] 2024 Approved How to Extract YouTube Trailers & More</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unleash-creative-potential-with-free-effs/"><u>[New] 2024 Approved Unleash Creative Potential with Free Effs!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-unlocking-iphone-shot-potential-adopt-these-10-principles/"><u>[New] In 2024, Unlocking iPhone Shot Potential Adopt These 10 Principles</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-storage-galore-selecting-top-ps5-hddsssds/"><u>[Updated] Storage Galore Selecting Top PS5 HDDs/SSDs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-ultimate-guide-5-top-earning-instagram-strategies-for-2024/"><u>[Updated] Ultimate Guide 5 Top-Earning Instagram Strategies for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286316163-dvddvd/"><u>DVDコピー保護解除レシピ：合法的にDVD抄き込みテクニック</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-efficient-mac-screenshotting-via-keyboard/"><u>In 2024, The Ultimate Guide to Efficient Mac Screenshotting via Keyboard</u></a></li>
-<li><a href="https://win-webster.techidaily.com/integrating-a-dynamic-toc-in-your-ebooks-with-flipbuilder/"><u>Integrating a Dynamic TOC in Your eBooks with FlipBuilder</u></a></li>
-<li><a href="https://win-webster.techidaily.com/integrating-audio-content-into-your-language-learning-books-with-flipbuilder/"><u>Integrating Audio Content Into Your Language Learning Books with FlipBuilder</u></a></li>
-<li><a href="https://win-webster.techidaily.com/integrating-youtube-videos-into-your-flippingbook-ebooks-with-simple-steps/"><u>Integrating YouTube Videos Into Your FlippingBook Ebooks with Simple Steps</u></a></li>
-<li><a href="https://win-webster.techidaily.com/introducing-flipbuilders-multilingual-feature-build-and-publish-in-german-easily/"><u>Introducing FlipBuilder's Multilingual Feature: Build and Publish in German Easily!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-uploading-files-to-the-web-using-ftp-on-flipbuilder/"><u>Step-by-Step Guide: Uploading Files to the Web Using FTP on FlipBuilder</u></a></li>
-<li><a href="https://win-webster.techidaily.com/the-ultimate-guide-to-creating-attractive-button-fonts-for-flipbook-design-using-flipoffice-pro-techniques/"><u>The Ultimate Guide to Creating Attractive Button Fonts for FlipBook Design Using FlipOffice Pro Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-mac-users-rejoice-download-splice-video-editor-today/"><u>Updated Mac Users Rejoice Download Splice Video Editor Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevating-youtube-prominence-with-expert-use-of-the-hub/"><u>[New] 2024 Approved Elevating Youtube Prominence with Expert Use of the Hub</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevating-your-ppt-experience-tips-for-gmeet-users-laptopstablets-for-2024/"><u>[New] Elevating Your PPT Experience Tips for GMeet Users, Laptops/Tablets for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/year-get-ready-as-microsoft-shifts-to-a-fee-based-system-for-future-windows-update-services-insights-and-pricing-details/"><u>[Year]: Get Ready as Microsoft Shifts to a Fee-Based System for Future Windows Update Services | Insights & Pricing Details</u></a></li>
+<li><a href="https://win-webster.techidaily.com/11-trick-for-rapidly-ending-lagging-applications-as-revealed-by-zdnet/"><u>11 Trick for Rapidly Ending Lagging Applications, as Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-videos-to-youtube-playlist-for-2024/"><u>Add Videos to YouTube Playlist for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-practices-for-setting-up-a-secure-and-efficient-user-account-in-windows-11-expert-advice/"><u>Best Practices for Setting Up a Secure and Efficient User Account in Windows 11 - Expert Advice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-down-lg-27ud88-uhd-tv-with-usb-type-c-for-2024/"><u>Breaking Down LG 27UD88-UHD TV with USB Type-C for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-the-ultimate-2023-selection-of-premium-standing-desks-experts-choice-cnet/"><u>Discover the Ultimate 2023 Selection of Premium Standing Desks - Experts' Choice | CNET</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-unique-content-with-our-easy-to-use-flipbooks-at-flipbuildercom/"><u>Discover Unique Content with Our Easy-to-Use Flipbooks at FlipBuilder.com!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-blaze-2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Blaze 2 is off? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/kaiser-3-bike-seat-evaluation-andaseats-latest-model-a-comprehensive-guide-tech-insights/"><u>Kaiser 3 Bike Seat Evaluation: AndaSeat's Latest Model - A Comprehensive Guide | Tech Insights</u></a></li>
+<li><a href="https://win-webster.techidaily.com/microsoft-demonstrates-windows-role-in-shaping-the-future-of-blended-remote-and-office-work-environments-zdnet/"><u>Microsoft Demonstrates Windows' Role in Shaping the Future of Blended Remote and Office Work Environments | ZDNet</u></a></li>
+<li><a href="https://win-webster.techidaily.com/secure-your-ultimate-savings-the-most-exclusive-prime-day-deals-for-high-quality-wall-mount-monitors-available-now-dont-miss-out/"><u>Secure Your Ultimate Savings: The Most Exclusive Prime Day Deals for High-Quality Wall Mount Monitors Available Now - Don't Miss Out!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/securing-your-microsoft-account-essential-strategies-to-defend-against-cyber-threats-insights-from-zdnet/"><u>Securing Your Microsoft Account: Essential Strategies to Defend Against Cyber Threats - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-to-recover-disappeared-gpu-drivers-on-windows-10-platforms/"><u>Step-by-Step Tutorial to Recover Disappeared GPU Drivers on Windows 10 Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-seize-and-setup-your-mc-mapping-adventures/"><u>Steps to Seize & Setup Your MC Mapping Adventures</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/telechargez-et-convertissez-automatiquement-vos-fichiers-m4b-en-aac-version-livre-de-trouvez-moi-gratuite-a-moovvi/"><u>Téléchargez Et Convertissez Automatiquement Vos Fichiers M4B en AAC, Version Livre De Trouvez-Moi Gratuite À Moovvi</u></a></li>
+<li><a href="https://win-webster.techidaily.com/urgent-fix-needed-microsofts-challenge-with-windows-11-looms-as-deadline-approaches-insights-from-zdnet/"><u>Urgent Fix Needed: Microsoft's Challenge with Windows 11 Looms as Deadline Approaches - Insights From ZDNet</u></a></li>
 </ul></div>
 

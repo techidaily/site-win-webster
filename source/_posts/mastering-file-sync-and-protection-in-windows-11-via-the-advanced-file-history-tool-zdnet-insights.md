@@ -1,7 +1,7 @@
 ---
 title: Mastering File Sync & Protection in Windows 11 via the Advanced File History Tool | ZDNET Insights
-date: 2024-09-23T06:18:36.982Z
-updated: 2024-09-29T23:55:26.876Z
+date: 2024-10-02T16:08:16.159Z
+updated: 2024-10-06T00:11:49.795Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-crafting-winning-twitter-sponsored-content/"><u>[New] 2024 Approved Crafting Winning Twitter Sponsored Content</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-online-onyx-the-monetary-meaningfulness-of-pewdiepies-earnings-for-2024/"><u>[New] Online Onyx The Monetary Meaningfulness of Pewdiepie's Earnings for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-androids-step-by-step-to-rotate-and-unite-video-files-for-2024/"><u>[Updated] Android's Step-by-Step to Rotate & Unite Video Files for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/boost-creativity-explore-more-than-5-dynamic-js-theme-options-for-web-design-using-tailwind-and-creative-tim-templates/"><u>Boost Creativity: Explore More than 5 Dynamic Js Theme Options for Web Design Using Tailwind & Creative Tim Templates</u></a></li>
-<li><a href="https://win-webster.techidaily.com/bootstrap-4-material-design-admin-interface-get-your-free-project-from-material-dashboard-by-creative-tim/"><u>Bootstrap 4 Material Design Admin Interface - Get Your Free Project From Material Dashboard by Creative Tim</u></a></li>
-<li><a href="https://win-webster.techidaily.com/creative-tims-black-dashboard-enhanced-django-admin-with-bootstrap-n4/"><u>Creative Tim's Black Dashboard: Enhanced Django Admin with Bootstrap N4</u></a></li>
-<li><a href="https://win-webster.techidaily.com/creative-tims-impact-the-premier-bootstrap-4-based-pro-ui-kit/"><u>Creative Tim's Impact - The Premier Bootstrap 4-Based Pro UI Kit</u></a></li>
-<li><a href="https://win-webster.techidaily.com/creative-tims-premium-argon-a-complimentary-and-community-driven-bootstrap-4-suite/"><u>Creative Tim's Premium Argon: A Complimentary & Community-Driven Bootstrap 4 Suite</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdipad/"><u>DVDコンテンツをiPadに移行して安全に表示する手順</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-block-spontaneous-youtube-video-triggers/"><u>[New] In 2024, Block Spontaneous YouTube Video Triggers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users/"><u>[Updated] 2024 Approved Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-5-best-ps2-emulators-android-for-2024/"><u>[Updated] 5 Best PS2 Emulators Android for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-understanding-facebooks-policy-on-media-content-sharing/"><u>[Updated] Understanding Facebook's Policy on Media Content Sharing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/404-error-page-missing-expert-solutions-by-allavsoft/"><u>404 Error: Page Missing - Expert Solutions by Allavsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-steam-content-unavailable-glitches/"><u>Bypassing Steam Content Unavailable Glitches</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-multiformat-earthcam-footage-in-mp4-wmv-mov-avi-and-more/"><u>Download Multiformat EarthCam Footage in MP4, WMV, MOV, AVI, and More</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-videography-hits-at-no-cost-with-the-latest-cliphunter-extension-tool/"><u>Download Videography Hits at No Cost with the Latest ClipHunter Extension Tool</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easyxtraction-utility-get-premium-xxx-films-directly-from-xxxymovies/"><u>EasyXtraction Utility: Get Premium XXX Films Directly From XXXYMovies</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effective-substitutes-for-video-grabber-when-it-fails/"><u>Effective Substitutes for Video Grabber When It Fails</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-hashtags-to-happiness-posting-less-living-more/"><u>From Hashtags to Happiness: Posting Less, Living More</u></a></li>
+<li><a href="https://win-webster.techidaily.com/get-the-tunes-you-love-seamlessly-transfer-music-from-jango-to-portable-files-like-mp3-wav-or-aac-using-our-reliable-downloader-tool/"><u>Get the Tunes You Love - Seamlessly Transfer Music From Jango to Portable Files Like MP3, WAV, or AAC Using Our Reliable Downloader Tool</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-convert-and-save-your-favorite-msn-video-content-in-various-formats-like-mp4-mov-etc/"><u>Guide: Convert and Save Your Favorite MSN Video Content in Various Formats Like MP4, MOV, Etc.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-14-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi 14 without App | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-crystalvision-pro-screen-capturing-101/"><u>In 2024, CrystalVision Pro Screen Capturing 101</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-vlog-like-a-pro-10-essential-editing-apps-for-ios-and-android/"><u>New 2024 Approved Vlog Like a Pro 10 Essential Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>Ultimate Filmmaker's Choice Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-tutorial-on-downloading-and-saving-musically-clips-in-various-video-file-types/"><u>Ultimate Tutorial on Downloading and Saving Musical.ly Clips in Various Video File Types</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unleash-the-power-of-live-content-with-rtsp-video-extractor-masterful-media-download/"><u>Unleash the Power of Live Content with RTSP Video Extractor - Masterful Media Download</u></a></li>
 </ul></div>
 

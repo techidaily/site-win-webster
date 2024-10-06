@@ -1,7 +1,7 @@
 ---
 title: "Great Updates From Southwest Airlines: What's Not So Great for Mr. Gates? - An In-Depth Analysis"
-date: 2024-09-23T07:38:20.804Z
-updated: 2024-09-29T17:20:53.044Z
+date: 2024-10-03T17:26:35.858Z
+updated: 2024-10-06T00:04:57.350Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +147,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,24 +202,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-innovative-approaches-to-nba-game-broadcasting/"><u>[Updated] In 2024, Innovative Approaches to NBA Game Broadcasting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-to-a-tailored-facebook-memory-reel/"><u>[Updated] Step-by-Step to a Tailored Facebook Memory Reel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/code-competition-assessing-the-best-of-ai-chatgpt-against-gemini/"><u>Code Competition: Assessing the Best of AI – ChatGPT Against Gemini</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dell-advancements-updating-and-tuning-the-smart-media-bus-controller-software/"><u>Dell Advancements: Updating and Tuning the Smart Media Bus Controller Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/elevate-your-command-mastering-the-art-of-god-mode-on-windows-11-essential-tips-and-motivations-explained-by-zdnet/"><u>Elevate Your Command: Mastering the Art of God Mode on Windows 11 – Essential Tips and Motivations Explained by ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/expert-roundup-of-ultimate-computer-picks-for-202n4-spotlight-on-apple-vs-dell-with-industry-insights-from-zdnet/"><u>Expert Roundup of Ultimate Computer Picks for 202N4: Spotlight on Apple Vs. Dell with Industry Insights From ZDNET</u></a></li>
-<li><a href="https://win-webster.techidaily.com/google-worker-advocates-why-macbook-beats-windows-laptop-insight-from-the-inside/"><u>Google Worker Advocates: Why MacBook Beats Windows Laptop - Insight From the Inside</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-laughlinelab-picchuckleworkshop/"><u>In 2024, LaughLineLab PicChuckleWorkshop</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-switching-to-android-compatible-windows-11-a-smart-move-insights-and-analysis-techdigest/"><u>Is Switching to Android-Compatible Windows 11 a Smart Move? Insights & Analysis | TechDigest</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-key-locators-of-the-year-2024-edition/"><u>Leading Key Locators of the Year: 2024 Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-g29-driver-setup-installation-tutorials-for-windows-users-versions-11107/"><u>Logitech G29 Driver Setup: Installation Tutorials for Windows Users (Versions 11/10/7)</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-edit-vob-files-for-free-top-5-video-editor-recommendations/"><u>New In 2024, Edit VOB Files for Free Top 5 Video Editor Recommendations</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-file-errors-of-movmp4-videos-with-quicktime/"><u>Repairing File Errors of MOV/MP4 Videos with QuickTime</u></a></li>
-<li><a href="https://win-webster.techidaily.com/simplifying-pc-maintenance-tame-window-updates-with-simple-tricks/"><u>Simplifying PC Maintenance: Tame Window Updates with Simple Tricks!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-tpm-essential-security-hardware-every-computer-needs-insights-and-explanation/"><u>Understanding TPM: Essential Security Hardware Every Computer Needs - Insights & Explanation</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unlocking-productivity-the-best-7-microsoft-powertoys-for-enhanced-windows-experience-find-out-now/"><u>Unlocking Productivity: The Best 7 Microsoft PowerToys for Enhanced Windows Experience - Find Out Now!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unlocking-the-past-a-guide-to-access-and-backup-files-on-outdated-computers-without-knowing-the-password/"><u>Unlocking the Past: A Guide to Access and Backup Files on Outdated Computers Without Knowing the Password.</u></a></li>
-<li><a href="https://win-webster.techidaily.com/urgent-challenge-microsofts-race-against-time-to-fix-windows-10-issues-before-deadline/"><u>Urgent Challenge: Microsoft's Race Against Time to Fix Windows 10 Issues Before Deadline</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-cut-to-the-chase-boosting-your-instagram-with-content/"><u>[New] Cut to the Chase - Boosting Your Instagram with Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-prime-10-terraria-game-enhancements/"><u>[New] Prime 10 Terraria Game Enhancements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-guide-reestablishing-inbuilt-printer-and-scanning-functions-in-windows-10-os/"><u>Fix Guide: Reestablishing Inbuilt Printer and Scanning Functions in Windows 10 OS</u></a></li>
+<li><a href="https://win-webster.techidaily.com/free-download-chill-out-zone-film-in-various-formats-mp4-wmv-mov-flv-avi-for-mac-and-windows-users/"><u>Free Download: Chill Out Zone Film in Various Formats (MP4, WMV, MOV, FLV, AVI) for Mac & Windows Users</u></a></li>
+<li><a href="https://win-webster.techidaily.com/free-video-downloads-from-oncourse-learning-platform-start-your-educational-journey-today/"><u>Free Video Downloads From OnCourse Learning Platform – Start Your Educational Journey Today!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/get-your-favorite-mybluprint-clips-fast-and-easy-with-our-guide/"><u>Get Your Favorite MyBluprint Clips Fast and Easy with Our Guide!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-to-downloading-and-converting-varzesh-3-shows-into-common-video-file-types-such-as-mov-mp4/"><u>Guide to Downloading & Converting Varzesh 3 Shows Into Common Video File Types Such as MOV, MP4</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-seamlessly-download-youtube-thumbnails-online/"><u>In 2024, Seamlessly Download YouTube Thumbnails Online</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/is-audible-home-to-any-mandarin-or-cantonese-spoken-word-titles/"><u>Is Audible Home to Any Mandarin or Cantonese Spoken-Word Titles?</u></a></li>
 </ul></div>
 
