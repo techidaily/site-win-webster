@@ -1,7 +1,7 @@
 ---
 title: Identifying Today's Top Web Browsers - Insights From ZDNet
-date: 2024-10-02T16:56:43.801Z
-updated: 2024-10-05T17:05:28.775Z
+date: 2024-10-09T23:36:01.903Z
+updated: 2024-10-10T23:35:21.518Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,16 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +202,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-first-steps-in-gopro-gear-selection/"><u>[New] 2024 Approved First Steps in GoPro Gear Selection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-record-mov-files-on-windows-11-for-2024/"><u>[New] How to Record MOV Files on Windows 11 for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/efficient-transition-mac-users-on-the-verge-of-macos-11-big-sur/"><u>Efficient Transition Mac Users on the Verge of macOS 11 Big Sur</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-leading-social-networks-and-video-sharing-sites-facebook-to-youtube-coverage/"><u>Exploring Leading Social Networks & Video Sharing Sites: Facebook to YouTube Coverage</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-save-noco-tv-shows-and-movies-effortlessly-on-your-pc-or-mac/"><u>How to Save Noco TV Shows & Movies Effortlessly on Your PC or Mac</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-broadcast-your-music-mp3-conversion-and-upload-on-youtube/"><u>In 2024, Broadcast Your Music MP3 Conversion and Upload on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-obs-clash-livestream-prodigies/"><u>In 2024, OBS Clash - LiveStream Prodigies</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-itel-p40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Itel P40 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-digital-practice-techniques-for-retrieving-yoga-tutorials-from-premier-online-classes/"><u>Mastering Digital Practice: Techniques for Retrieving Yoga Tutorials From Premier Online Classes</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-putlocker-video-downloads-a-comprehensive-tutorial-for-pc-and-mac-enthusiasts/"><u>Mastering PutLocker Video Downloads: A Comprehensive Tutorial for PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/maximize-your-youtube-experience-top-services-for-easy-video-and-music-extraction-through-smart-subscriptions/"><u>Maximize Your YouTube Experience: Top Services for Easy Video and Music Extraction Through Smart Subscriptions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/offline-anime-bliss-how-to-save-crunchyroll-shows-for-later-on-your-computer-or-mac/"><u>Offline Anime Bliss: How To Save Crunchyroll Shows For Later On Your Computer Or Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-the-persistent-windows-update-error-code-0x80070652/"><u>Quick Solutions: Resolve the Persistent Windows Update Error Code 0X80070652</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>Reimagined Analysis New Developments in Sony's S6500 BD/HD</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-downloading-videos-from-acorntv-onto-your-pc-or-mac/"><u>Step-by-Step Guide: Downloading Videos From AcornTV Onto Your PC or Mac</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-for-seamlessly-integrating-spotify-content-into-musicbee-library/"><u>Step-by-Step Tutorial for Seamlessly Integrating Spotify Content Into MusicBee Library</u></a></li>
-<li><a href="https://win-webster.techidaily.com/transferring-your-spotify-playlists-to-deezer-a-step-by-step-guide/"><u>Transferring Your Spotify Playlists to Deezer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ultimate-guide-to-choosing-a-superior-youtube-playlist-downloader-for-macwindows-users/"><u>Ultimate Guide to Choosing a Superior YouTube Playlist Downloader for Mac/Windows Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-flight-finesse-and-colorful-charm-bebop-2s-parrot-showcase/"><u>[Updated] Flight Finesse and Colorful Charm – Bebop 2’S Parrot Showcase</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-spark-creativity-with-costless-auditory-extras/"><u>[Updated] In 2024, Spark Creativity with Costless Auditory Extras</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-dota-2-visual-glitch-with-ease-a-quickfix-for-the-rendapi-error-2025/"><u>Fix Your Dota 2 Visual Glitch with Ease: A Quickfix for the RendAPI Error #2025</u></a></li>
+<li><a href="https://win-webster.techidaily.com/great-updates-from-southwest-airlines-whats-not-so-great-for-mr-gates-an-in-depth-analysis/"><u>Great Updates From Southwest Airlines: What's Not So Great for Mr. Gates? - An In-Depth Analysis</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-file-sync-and-protection-in-windows-11-via-the-advanced-file-history-tool-zdnet-insights/"><u>Mastering File Sync & Protection in Windows 11 via the Advanced File History Tool | ZDNET Insights</u></a></li>
+<li><a href="https://win-webster.techidaily.com/microsoft-pouring-half-a-billion-dollars-into-lanzajets-green-aviation-fuels-project-revolutionizing-data-center-energy-the-inside-story/"><u>Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-gameplay-fixing-lag-fps-drops-and-crashes-in-outriders-pc-edition/"><u>Optimizing Gameplay: Fixing Lag, FPS Drops, and Crashes in Outriders PC Edition</u></a></li>
+<li><a href="https://win-webster.techidaily.com/the-future-of-cloud-gaming-unveiled-microsofts-collaboration-with-samsung-promises-a-new-era/"><u>The Future of Cloud Gaming Unveiled: Microsoft's Collaboration with Samsung Promises a New Era</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-finest-4-sites-for-tones/"><u>Unveiling the Finest 4 Sites for Tones</u></a></li>
 </ul></div>
 

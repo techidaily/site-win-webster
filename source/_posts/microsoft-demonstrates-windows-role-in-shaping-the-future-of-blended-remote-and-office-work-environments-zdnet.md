@@ -1,7 +1,7 @@
 ---
 title: Microsoft Demonstrates Windows' Role in Shaping the Future of Blended Remote and Office Work Environments | ZDNet
-date: 2024-10-04T23:45:04.492Z
-updated: 2024-10-05T21:41:53.466Z
+date: 2024-10-10T03:07:37.291Z
+updated: 2024-10-10T21:19:23.861Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-high-end-asus-monitor-4k-precision-hdr-mastery/"><u>[New] High-End ASUS Monitor 4K Precision, HDR Mastery</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-techniques-to-remove-black-screen-glitches-in-youtube/"><u>[Updated] In 2024, Techniques to Remove Black Screen Glitches in YouTube</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-ultimate-guide-mastering-johnny-trigger-gameplay-on-your-computer/"><u>1. Ultimate Guide: Mastering Johnny Trigger Gameplay on Your Computer</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-pro-level-phone-and-camera-gimbal-tracking-systems/"><u>2024 Approved Pro-Level Phone & Camera Gimbal Tracking Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unraveling-youtubes-platform-for-content-crafting/"><u>2024 Approved Unraveling YouTube’s Platform for Content Crafting</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-effective-is-the-video-conferencing-function-in-wechat-an-unbiased-examination-and-user-guide/"><u>How Effective Is the Video Conferencing Function in WeChat? An Unbiased Examination and User Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-11-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 11 Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-rule-book-on-instagram-video-length/"><u>In 2024, The Ultimate Rule Book on Instagram Video Length</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mp3-conversion-for-ios-devices-adding-music-to-your-iphone-using-itunes-and-alternative-methods/"><u>MP3 Conversion for iOS Devices: Adding Music to Your iPhone Using iTunes & Alternative Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-amd-ryzen-driver-installation-and-updates/"><u>Simple Steps to AMD Ryzen Driver Installation and Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-resolving-non-functional-keyboard-issue-during-system-startup/"><u>Solved! Resolving Non-Functional Keyboard Issue During System Startup</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-images-from-your-sd-card-on-a-pc/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Images From Your SD Card on a PC</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-transforming-wmv-videos-to-mp3-playlists/"><u>Step-by-Step Tutorial on Transforming WMV Videos to MP3 Playlists</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-cloud-storage-options-for-android-devices-beyond-icloud/"><u>Top Cloud Storage Options for Android Devices: Beyond iCloud</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ultimate-walkthrough-effortless-facetime-broadcast-from-phone-to-tv/"><u>Ultimate Walkthrough: Effortless Facetime Broadcast From Phone to TV</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unrivaled-handwear-elevate-your-vr-world/"><u>[New] 2024 Approved Unrivaled Handwear Elevate Your VR World</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-make-good-youtube-banner-dos-and-donts/"><u>[New] How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones/"><u>[New] Mastering Google Meet Easy Backdrop Swap for PC & Phones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-leveraging-ios-11-for-professional-level-iphone-shots-for-2024/"><u>[Updated] Leveraging iOS 11 for Professional-Level iPhone Shots for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/customize-book-covers-with-flipbuilders-easy-background-editing-techniques/"><u>Customize Book Covers with FlipBuilder's Easy Background Editing Techniques</u></a></li>
+<li><a href="https://win-webster.techidaily.com/designing-miniature-flipbooks-for-limited-space-display-on-websites-a-guide-by-flipbuilder/"><u>Designing Miniature Flipbooks for Limited Space Display on Websites - A Guide by FlipBuilder</u></a></li>
+<li><a href="https://win-webster.techidaily.com/diy-android-book-creator-by-flipbuilder-effortlessly-convert-your-content-into-engaging-mobile-apps-flipbuildercom/"><u>DIY Android Book Creator by FlipBuilder: Effortlessly Convert Your Content Into Engaging Mobile Apps [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-webster.techidaily.com/downsizing-your-flipbook-design-on-flipbuildercom-step-by-step-guide/"><u>Downsizing Your FlipBook Design on FlipBuilder.com - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-overcome-common-directx-errors-in-the-classic-strategy-of-anno-1800/"><u>How to Overcome Common DirectX Errors in the Classic Strategy of Anno 1800</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/selecting-superior-free-srt-translation-apps-today/"><u>Selecting Superior Free SRT Translation Apps Today</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-a05-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy A05</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-reasons-i-made-the-switch-away-from-apple-podcasts/"><u>The Ultimate Reasons I Made the Switch Away From Apple Podcasts</u></a></li>
 </ul></div>
 

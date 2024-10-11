@@ -1,7 +1,7 @@
 ---
 title: "Charting the Path Ahead: Microsoft's Strategic Overhaul in Cloud Services, Devices, and Ad Revenue Expansion | Exclusive Analysis by ZDNet"
-date: 2024-10-02T22:35:38.166Z
-updated: 2024-10-05T16:14:06.367Z
+date: 2024-10-10T01:42:13.490Z
+updated: 2024-10-10T21:26:49.976Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ssential-mobile-media-creation-tools-iphone-vs-android-review-for-2024/"><u>[New] Essential Mobile Media Creation Tools IPhone vs Android Review for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-alternative-game-capture-software-no-more-fbx-dependence/"><u>[New] In 2024, Alternative Game Capture Software No More FBX Dependence</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder/"><u>[Updated] Empower Yourself Learning the Ins and Outs of IO Screen Recorder</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-inconspicuous-storywatchers-choice-apps/"><u>[Updated] Inconspicuous Storywatcher's Choice Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highest-qp-for-gradual-video-playback/"><u>2024 Approved Highest QP for Gradual Video Playback</u></a></li>
-<li><a href="https://win-webster.techidaily.com/designing-miniature-flipbooks-for-limited-space-display-on-websites-a-guide-by-flipbuilder/"><u>Designing Miniature Flipbooks for Limited Space Display on Websites - A Guide by FlipBuilder</u></a></li>
-<li><a href="https://win-webster.techidaily.com/diy-android-book-creator-by-flipbuilder-effortlessly-convert-your-content-into-engaging-mobile-apps-flipbuildercom/"><u>DIY Android Book Creator by FlipBuilder: Effortlessly Convert Your Content Into Engaging Mobile Apps [FlipBuilder.com]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dont-download-the-google-bard-appits-malware/"><u>Don't Download the Google Bard App—It's Malware</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/downsizing-your-flipbook-design-on-flipbuildercom-step-by-step-guide/"><u>Downsizing Your FlipBook Design on FlipBuilder.com - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/edit-and-enhance-your-pdfs-to-professional-ppt-format-for-free-discover-the-power-of-flipbuilder-converter/"><u>Edit and Enhance Your PDFs to Professional PPT Format for Free - Discover the Power of FlipBuilder Converter!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effective-image-seo-strategies-for-building-engaging-flip-galleries-on-flipbuilder/"><u>Effective Image SEO Strategies for Building Engaging Flip Galleries on FlipBuilder</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-adjust-mobile-version-output-quality-settings-on-flipbook-a-complete-guide/"><u>How to Adjust Mobile Version Output Quality Settings on FlipBook: A Complete Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-craft-a-dynamic-online-flipbook-using-flipbuilder-enhance-your-web-content-delivery/"><u>How to Craft a Dynamic Online Flipbook Using FlipBuilder - Enhance Your Web Content Delivery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-walkthrough-for-linking-playstation-vr-with-your-personal-computer/"><u>Ultimate Walkthrough for Linking PlayStation VR with Your Personal Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-powers-of-co-pilot-in-chatgpt-applications/"><u>Unveiling the Powers of Co-Pilot in ChatGPT Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-youtube-audio-extractors-free-easy-download-and-convert/"><u>[New] In 2024, Best YouTube Audio Extractors Free, Easy Download & Convert</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pull-off-professional-video-edits-with-ken-burns-effect-for-2024/"><u>[New] Pull Off Professional Video Edits with Ken Burns Effect for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-advanced-pip-setup-elevating-your-visual-presentations-on-macos/"><u>[Updated] In 2024, Advanced PIP Setup Elevating Your Visual Presentations on macOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ranked-slideshow-creation-software-on-latest-iphones/"><u>[Updated] In 2024, Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/5-proven-techniques-for-live-streaming-on-tiktok-desktop-for-2024/"><u>5 Proven Techniques for Live Streaming on TikTok Desktop for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/celebrate-your-smart-choice-congratulations-on-buying-a-mirillis-masterpiece/"><u>Celebrate Your Smart Choice: Congratulations on Buying a Mirilli's Masterpiece!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easyxtraction-utility-get-premium-xxx-films-directly-from-xxxymovies/"><u>EasyXtraction Utility: Get Premium XXX Films Directly From XXXYMovies</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effective-substitutes-for-video-grabber-when-it-fails/"><u>Effective Substitutes for Video Grabber When It Fails</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-chaos-to-order-using-gpt-3-in-repairs/"><u>From Chaos to Order: Using GPT-3 in Repairs</u></a></li>
+<li><a href="https://win-webster.techidaily.com/get-the-tunes-you-love-seamlessly-transfer-music-from-jango-to-portable-files-like-mp3-wav-or-aac-using-our-reliable-downloader-tool/"><u>Get the Tunes You Love - Seamlessly Transfer Music From Jango to Portable Files Like MP3, WAV, or AAC Using Our Reliable Downloader Tool</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-convert-and-save-your-favorite-msn-video-content-in-various-formats-like-mp4-mov-etc/"><u>Guide: Convert and Save Your Favorite MSN Video Content in Various Formats Like MP4, MOV, Etc.</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-computers-small-smart-and-windows/"><u>Innovative Computers: Small, Smart, and Windows</u></a></li>
+<li><a href="https://win-webster.techidaily.com/join-mirillis-social-circle-connect-with-us-on-facebook-and-twitter-today/"><u>Join Mirilli's Social Circle: Connect with Us on Facebook & Twitter Today!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-saving-sky-sports-broadcasts-as-mp4-mov-avi-files-for-offline-viewing/"><u>Step-by-Step Tutorial on Saving Sky Sports Broadcasts as MP4, MOV, AVI Files for Offline Viewing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-collection-of-festive-season-songs-highest-quality-mp3s-available-for-free/"><u>Ultimate Collection of Festive Season Songs - Highest Quality MP3s Available for Free</u></a></li>
 </ul></div>
 

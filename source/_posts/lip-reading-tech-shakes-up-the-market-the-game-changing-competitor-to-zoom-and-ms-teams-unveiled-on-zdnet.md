@@ -1,7 +1,7 @@
 ---
 title: "Lip-Reading Tech Shakes Up the Market: The Game-Changing Competitor to Zoom and MS Teams Unveiled on ZDNet"
-date: 2024-09-29T21:11:57.658Z
-updated: 2024-10-05T19:23:48.295Z
+date: 2024-10-05T18:29:10.245Z
+updated: 2024-10-10T16:12:17.547Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-elevating-youtube-prominence-with-expert-use-of-the-hub/"><u>[New] 2024 Approved Elevating Youtube Prominence with Expert Use of the Hub</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-elevating-your-ppt-experience-tips-for-gmeet-users-laptopstablets-for-2024/"><u>[New] Elevating Your PPT Experience Tips for GMeet Users, Laptops/Tablets for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/year-get-ready-as-microsoft-shifts-to-a-fee-based-system-for-future-windows-update-services-insights-and-pricing-details/"><u>[Year]: Get Ready as Microsoft Shifts to a Fee-Based System for Future Windows Update Services | Insights & Pricing Details</u></a></li>
-<li><a href="https://win-webster.techidaily.com/11-trick-for-rapidly-ending-lagging-applications-as-revealed-by-zdnet/"><u>11 Trick for Rapidly Ending Lagging Applications, as Revealed by ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/add-videos-to-youtube-playlist-for-2024/"><u>Add Videos to YouTube Playlist for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/best-practices-for-setting-up-a-secure-and-efficient-user-account-in-windows-11-expert-advice/"><u>Best Practices for Setting Up a Secure and Efficient User Account in Windows 11 - Expert Advice</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-lg-27ud88-uhd-tv-with-usb-type-c-for-2024/"><u>Breaking Down LG 27UD88-UHD TV with USB Type-C for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/discover-the-ultimate-2023-selection-of-premium-standing-desks-experts-choice-cnet/"><u>Discover the Ultimate 2023 Selection of Premium Standing Desks - Experts' Choice | CNET</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-unique-content-with-our-easy-to-use-flipbooks-at-flipbuildercom/"><u>Discover Unique Content with Our Easy-to-Use Flipbooks at FlipBuilder.com!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-blaze-2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Blaze 2 is off? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/kaiser-3-bike-seat-evaluation-andaseats-latest-model-a-comprehensive-guide-tech-insights/"><u>Kaiser 3 Bike Seat Evaluation: AndaSeat's Latest Model - A Comprehensive Guide | Tech Insights</u></a></li>
-<li><a href="https://win-webster.techidaily.com/microsoft-demonstrates-windows-role-in-shaping-the-future-of-blended-remote-and-office-work-environments-zdnet/"><u>Microsoft Demonstrates Windows' Role in Shaping the Future of Blended Remote and Office Work Environments | ZDNet</u></a></li>
-<li><a href="https://win-webster.techidaily.com/secure-your-ultimate-savings-the-most-exclusive-prime-day-deals-for-high-quality-wall-mount-monitors-available-now-dont-miss-out/"><u>Secure Your Ultimate Savings: The Most Exclusive Prime Day Deals for High-Quality Wall Mount Monitors Available Now - Don't Miss Out!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/securing-your-microsoft-account-essential-strategies-to-defend-against-cyber-threats-insights-from-zdnet/"><u>Securing Your Microsoft Account: Essential Strategies to Defend Against Cyber Threats - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-to-recover-disappeared-gpu-drivers-on-windows-10-platforms/"><u>Step-by-Step Tutorial to Recover Disappeared GPU Drivers on Windows 10 Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-seize-and-setup-your-mc-mapping-adventures/"><u>Steps to Seize & Setup Your MC Mapping Adventures</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/telechargez-et-convertissez-automatiquement-vos-fichiers-m4b-en-aac-version-livre-de-trouvez-moi-gratuite-a-moovvi/"><u>Téléchargez Et Convertissez Automatiquement Vos Fichiers M4B en AAC, Version Livre De Trouvez-Moi Gratuite À Moovvi</u></a></li>
-<li><a href="https://win-webster.techidaily.com/urgent-fix-needed-microsofts-challenge-with-windows-11-looms-as-deadline-approaches-insights-from-zdnet/"><u>Urgent Fix Needed: Microsoft's Challenge with Windows 11 Looms as Deadline Approaches - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-perfect-crossfading-techniques-using-audacity/"><u>[New] In 2024, Perfect Crossfading Techniques Using Audacity</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-seamlessly-integrate-into-others-tiktok-livestreams-for-2024/"><u>[New] Seamlessly Integrate Into Others’ TikTok Livestreams for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stability-showcase-premium-phone-compatible-tripods/"><u>[New] Stability Showcase Premium Phone-Compatible Tripods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-finest-free-iphone-composition-and-photo-editing-tools-reviewed/"><u>[New] The Finest FREE iPhone Composition and Photo Editing Tools Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-screen-saga-a-thousand-stories-one-channel-at-a-time/"><u>[Updated] Screen Saga A Thousand Stories, One Channel at a Time</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-unleash-your-creativity-with-the-ultimate-free-argon-dashboard-template-powered-by-aspnet-core/"><u>1. Unleash Your Creativity with the Ultimate Free Argon Dashboard Template - Powered by ASP.NET Core</u></a></li>
+<li><a href="https://win-webster.techidaily.com/and-vuejs-enhanced-template-by-creativetim/"><u>And Vue.js Enhanced Template by @CreativeTim</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-free-audio-editing-apps-for-android-devices-top-10-picks/"><u>Best FREE Audio Editing Apps for Android Devices: Top 10 Picks</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-creativity-explore-more-than-5-dynamic-js-theme-options-for-web-design-using-tailwind-and-creative-tim-templates/"><u>Boost Creativity: Explore More than 5 Dynamic Js Theme Options for Web Design Using Tailwind & Creative Tim Templates</u></a></li>
+<li><a href="https://win-webster.techidaily.com/bootstrap-4-material-design-admin-interface-get-your-free-project-from-material-dashboard-by-creative-tim/"><u>Bootstrap 4 Material Design Admin Interface - Get Your Free Project From Material Dashboard by Creative Tim</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ting-video-experience-best-youtube-to-avi-companions-for-2024/"><u>Elevating Video Experience Best YouTube-to-AVI Companions for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-down-complex-gif-concepts-for-beginners/"><u>In 2024, Breaking Down Complex GIF Concepts for Beginners</u></a></li>
+<li><a href="https://win-webster.techidaily.com/practical-ways-to-change-video-object-bitstream-vob-files-into-windows-media-video-wmv/"><u>Practical Ways to Change Video Object Bitstream (VOB) Files Into Windows Media Video (WMV)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/revive-your-files-with-apowerrecover-the-ultimate-tool-for-restoring-missing-data/"><u>Revive Your Files with ApowerRecover: The Ultimate Tool for Restoring Missing Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-z-flip-6-unveiling-the-costs-launch-timeline-latest-updates-and-key-attributes/"><u>Samsung Galaxy Z Flip 6 - Unveiling the Costs, Launch Timeline, Latest Updates & Key Attributes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-crafting-an-engaging-commercial-film/"><u>Step-by-Step Guide: Crafting an Engaging Commercial Film</u></a></li>
 </ul></div>
 

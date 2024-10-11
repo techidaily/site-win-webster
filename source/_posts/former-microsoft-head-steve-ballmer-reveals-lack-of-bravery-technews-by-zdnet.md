@@ -1,7 +1,7 @@
 ---
 title: Former Microsoft Head Steve Ballmer Reveals Lack of Bravery | TechNews by ZDNet
-date: 2024-10-01T22:12:31.931Z
-updated: 2024-10-05T20:19:26.403Z
+date: 2024-10-04T08:24:09.858Z
+updated: 2024-10-10T20:06:37.708Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-going-bold-on-instagram-techniques-to-trend-worldwide/"><u>[Updated] In 2024, Going Bold on Instagram Techniques to Trend Worldwide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-a-closer-look-at-stale-vr-landscapes-what-changes/"><u>2024 Approved A Closer Look at Stale VR Landscapes What Changes?</u></a></li>
-<li><a href="https://solve-info.techidaily.com/driven-by-advanced-cookie-tracking-meet-the-powerhouse-behind-digital-marketing/"><u>Driven by Advanced Cookie Tracking: Meet the Powerhouse Behind Digital Marketing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-non-windows-apps-for-modern-computing/"><u>Essential Non-Windows Apps For Modern Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/great-updates-from-southwest-airlines-whats-not-so-great-for-mr-gates-an-in-depth-analysis/"><u>Great Updates From Southwest Airlines: What's Not So Great for Mr. Gates? - An In-Depth Analysis</u></a></li>
-<li><a href="https://win-webster.techidaily.com/identifying-todays-top-web-browsers-insights-from-zdnet/"><u>Identifying Today's Top Web Browsers - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-youtube-success-with-tubebuddy/"><u>In 2024, The Ultimate Guide to YouTube Success with TubeBuddy</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-file-sync-and-protection-in-windows-11-via-the-advanced-file-history-tool-zdnet-insights/"><u>Mastering File Sync & Protection in Windows 11 via the Advanced File History Tool | ZDNET Insights</u></a></li>
-<li><a href="https://win-webster.techidaily.com/microsoft-pouring-half-a-billion-dollars-into-lanzajets-green-aviation-fuels-project-revolutionizing-data-center-energy-the-inside-story/"><u>Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-evaluating-professional-filmmaking-tools-filmora-and-democreator/"><u>[New] 2024 Approved Evaluating Professional Filmmaking Tools Filmora & Democreator</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-apex-athletes-snowspeedcross-22-recaps/"><u>[New] In 2024, Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-premium-video-guide-top-15-youtube-channels-for-ultimate-product-reviews/"><u>[New] In 2024, Premium Video Guide Top 15 YouTube Channels for Ultimate Product Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-screen-recording-tools-a-comprehensive-educators-guide/"><u>[Updated] 2024 Approved Essential Screen Recording Tools A Comprehensive Educator's Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-zoom-sessions-utilizing-filters-effectively-for-2024/"><u>[Updated] Elevate Your Zoom Sessions Utilizing Filters Effectively for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-a-comprehensive-guide-to-mastering-vivocuts-new-capabilities/"><u>[Updated] In 2024, A Comprehensive Guide to Mastering VivoCut's New Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-easy-guide-to-see-youtube-liked-comments/"><u>2024 Approved Easy Guide to See YouTube Liked Comments</u></a></li>
+<li><a href="https://win-webster.techidaily.com/access-your-favorite-tunes-how-to-securely-save-8tracks-lists-for-offline-use/"><u>Access Your Favorite Tunes - How To Securely Save 8Tracks Lists for Offline Use</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-free-ocr-software-for-windows-top-picks-and-reviews/"><u>Best Free OCR Software for Windows : Top Picks and Reviews</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comprehensive-user-manual-mastering-the-apowersoft-android-screen-recording-tool/"><u>Comprehensive User Manual: Mastering the Apowersoft Android Screen Recording Tool</u></a></li>
+<li><a href="https://win-webster.techidaily.com/convert-swf-files-to-avi-format-for-free-online-and-pc-methods/"><u>Convert SWF Files to AVI Format for Free – Online & PC Methods</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exporting-your-ios-chat-history-converting-imessages-to-pc-with-options-for-csv-vcf-txt-and-pdf-formats/"><u>Exporting Your iOS Chat History: Converting iMessages to PC with Options for CSV, VCF, TXT & PDF Formats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-sierra-mastering-icloud-drives-accessibility/"><u>In 2024, Navigating Sierra Mastering iCloud Drives' Accessibility</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mp3-conversion-for-ios-devices-adding-music-to-your-iphone-using-itunes-and-alternative-methods/"><u>MP3 Conversion for iOS Devices: Adding Music to Your iPhone Using iTunes & Alternative Methods</u></a></li>
+<li><a href="https://win-webster.techidaily.com/practical-methods-to-pair-your-mac-with-a-samsung-smart-television/"><u>Practical Methods to Pair Your Mac with a Samsung Smart Television</u></a></li>
+<li><a href="https://win-webster.techidaily.com/quick-and-simple-method-for-consolidating-pdf-files-into-one-unified-document-tips-for-202n/"><u>Quick & Simple Method for Consolidating PDF Files Into One Unified Document – Tips for 202N</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-guide-effortless-precise-mobile-hair-trimming-and-top-rated/"><u>Ultimate Guide, Effortless, Precise Mobile Hair Trimming, and Top-Rated.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-perfecting-youtube-ready-outputs-with-premiere-pros-advanced-export-options/"><u>Ultimate Guide: Perfecting YouTube-Ready Outputs with Premiere Pro's Advanced Export Options</u></a></li>
 </ul></div>
 

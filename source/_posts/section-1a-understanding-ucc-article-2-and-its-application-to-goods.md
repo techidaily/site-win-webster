@@ -1,7 +1,7 @@
 ---
 title: "Section 1A: Understanding UCC Article 2 and Its Application to Goods"
-date: 2024-10-03T18:55:47.851Z
-updated: 2024-10-05T16:45:07.560Z
+date: 2024-10-07T10:59:32.022Z
+updated: 2024-10-10T17:06:03.233Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/150327f2d987016a4ee34ba4bcfca25233b747d04
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,20 +54,18 @@ thumbnail: https://thmb.techidaily.com/150327f2d987016a4ee34ba4bcfca25233b747d04
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-engagement-enhancers-trending-stories-filters/"><u>[New] Engagement Enhancers Trending Stories Filters</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-drones-unveiled-a-comprehensive-buyers-preparation-plan/"><u>[New] In 2024, Drones Unveiled A Comprehensive Buyer’s Preparation Plan</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-uncover-top-11-effective-video-size-slashers-for-your-phone/"><u>[New] Uncover Top 11 Effective Video Size Slashers for Your Phone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-harmonized-technology-judgments-by-experts-for-2024/"><u>[Updated] Harmonized Technology Judgments by Experts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ethereal-escapes-slick-action-recorders/"><u>2024 Approved Ethereal Escapes Slick Action Recorders</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-multiformat-earthcam-footage-in-mp4-wmv-mov-avi-and-more/"><u>Download Multiformat EarthCam Footage in MP4, WMV, MOV, AVI, and More</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-videography-hits-at-no-cost-with-the-latest-cliphunter-extension-tool/"><u>Download Videography Hits at No Cost with the Latest ClipHunter Extension Tool</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easyxtraction-utility-get-premium-xxx-films-directly-from-xxxymovies/"><u>EasyXtraction Utility: Get Premium XXX Films Directly From XXXYMovies</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effective-substitutes-for-video-grabber-when-it-fails/"><u>Effective Substitutes for Video Grabber When It Fails</u></a></li>
-<li><a href="https://win-webster.techidaily.com/get-the-tunes-you-love-seamlessly-transfer-music-from-jango-to-portable-files-like-mp3-wav-or-aac-using-our-reliable-downloader-tool/"><u>Get the Tunes You Love - Seamlessly Transfer Music From Jango to Portable Files Like MP3, WAV, or AAC Using Our Reliable Downloader Tool</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-samsung-m2n070fw-up-to-date-with-a-fast-driver-download/"><u>Get Your Samsung M2n070FW Up-to-Date with a Fast Driver Download!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-convert-and-save-your-favorite-msn-video-content-in-various-formats-like-mp4-mov-etc/"><u>Guide: Convert and Save Your Favorite MSN Video Content in Various Formats Like MP4, MOV, Etc.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tailoring-rss-files-for-impact-a-podcasters-blueprint/"><u>In 2024, Tailoring RSS Files for Impact A Podcaster's Blueprint</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-small-companys-guide-to-the-safest-online-chat-services/"><u>[New] 2024 Approved Small Company's Guide to the Safest Online Chat Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syma-x8c-for-beginner-pilots/"><u>[New] Syma X8C for Beginner Pilots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-perfect-playback-overcoming-mutes-on-linkedin-video-posts/"><u>[Updated] 2024 Approved Perfect Playback Overcoming Mutes on LinkedIn Video Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-the-potential-of-your-itunes-recordings-for-2024/"><u>[Updated] Unlocking the Potential of Your iTunes Recordings for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/best-free-audio-editing-apps-for-android-devices-top-10-picks/"><u>Best FREE Audio Editing Apps for Android Devices: Top 10 Picks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2003-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2003 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-8-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your ZTE Blade A73 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-10-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 10 5G Phones</u></a></li>
+<li><a href="https://win-webster.techidaily.com/practical-ways-to-change-video-object-bitstream-vob-files-into-windows-media-video-wmv/"><u>Practical Ways to Change Video Object Bitstream (VOB) Files Into Windows Media Video (WMV)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/revive-your-files-with-apowerrecover-the-ultimate-tool-for-restoring-missing-data/"><u>Revive Your Files with ApowerRecover: The Ultimate Tool for Restoring Missing Data</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-crafting-an-engaging-commercial-film/"><u>Step-by-Step Guide: Crafting an Engaging Commercial Film</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win-7-microphone-troubles-discover-simple-solutions-here/"><u>Win 7 Microphone Troubles? Discover Simple Solutions Here</u></a></li>
 </ul></div>
 
