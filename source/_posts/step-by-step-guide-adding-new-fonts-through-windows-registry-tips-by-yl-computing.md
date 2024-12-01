@@ -1,0 +1,79 @@
+---
+title: "Step-by-Step Guide: Adding New Fonts Through Windows Registry - Tips by YL Computing"
+date: 2024-11-24T18:04:17.003Z
+updated: 2024-12-01T02:46:26.017Z
+tags:
+  - product
+categories:
+  - pcclean
+thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25aa15518d2e331ff9c28e273.jpg
+---
+
+## \[\Frac{b}{6} = 9 \
+
+The Windows 10 display settings allow you to change the appearance of your desktop and customize it to your liking. There are many different display settings you can adjust, from adjusting the brightness of your screen to choosing the size of text and icons on your monitor. Here is a step-by-step guide on how to adjust your Windows 10 display settings. 
+
+1\. Find the Start button located at the bottom left corner of your screen. Click on the Start button and then select Settings.
+
+2\. In the Settings window, click on System.
+
+3\. On the left side of the window, click on Display. This will open up the display settings options. 
+
+4\. You can adjust the brightness of your screen by using the slider located at the top of the page. You can also change the scaling of your screen by selecting one of the preset sizes or manually adjusting the slider.
+
+5\. To adjust the size of text and icons on your monitor, scroll down to the Scale and layout section. Here you can choose between the recommended size and manually entering a custom size. Once you have chosen the size you would like, click the Apply button to save your changes.
+
+6\. You can also adjust the orientation of your display by clicking the dropdown menu located under Orientation. You have the options to choose between landscape, portrait, and rotated.
+
+7\. Next, scroll down to the Multiple displays section. Here you can choose to extend your display or duplicate it onto another monitor.
+
+8\. Finally, scroll down to the Advanced display settings section. Here you can find more advanced display settings such as resolution and color depth. 
+
+By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Post navigation
+
+[What type of maintenance tasks should I be performing on my PC to keep it running efficiently?](https://tools.techidaily.com/pcclean/products/)
+
+[What is the best way to clean my computer’s registry?](https://tools.techidaily.com/pcclean/products/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-redefining-schooling-with-virtual-reality/"><u>[New] 2024 Approved Redefining Schooling with Virtual Reality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-strategies-for-professional-gif-craftsmanship/"><u>[New] Advanced Strategies for Professional GIF Craftsmanship</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-recover-deleted-vscode-files-why-they-arent-showing-up-in-the-recycle-bin-and-how-to-fix-it/"><u>1. 'Recover Deleted VSCode Files: Why They Aren't Showing Up in the Recycle Bin & How to Fix It!'</u></a></li>
+<li><a href="https://win-hot.techidaily.com/defis-et-performances-xcopy-par-rapport-a-robocopy-un-guide-complet-pour-les-utilisateurs-dos-windows/"><u>Défis Et Performances : Xcopy Par Rapport À Robocopy - Un Guide Complet Pour Les Utilisateurs D'OS Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-guide-to-why-you-need-an-apple-watch-now-discover-6-key-motivators-tech-trends-today/"><u>Expert's Guide to Why You Need an Apple Watch Now - Discover 6 Key Motivators | Tech Trends Today</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guida-rapida-e-facile-per-eseguire-il-backup-del-sistema-operativo-windows-1187/"><u>Guida Rapida E Facile per Eseguire Il Backup Del Sistema Operativo Windows 11/8/7</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-detaille-pour-la-suppression-des-fichiers-backup-dans-le-systeme-dexploitation-windows-11/"><u>Guide Détaillé Pour La Suppression Des Fichiers Backup Dans Le Système D'Exploitation Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-se-2020-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone SE (2020) Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-virtual-reality-potential/"><u>In 2024, Maximizing Virtual Reality Potential</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>In 2024, The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
+<li><a href="https://win-webster.techidaily.com/microsoft-teams-effiziente-moglichkeiten-zur-wiederherstellung-geloschter-chatnachrichten/"><u>Microsoft Teams: Effiziente Möglichkeiten Zur Wiederherstellung Gelöschter Chatnachrichten</u></a></li>
+<li><a href="https://win-webster.techidaily.com/moving-vmware-virtual-systems-seamlessly-to-amazon-web-services/"><u>Moving VMware Virtual Systems Seamlessly to Amazon Web Services</u></a></li>
+<li><a href="https://win-webster.techidaily.com/perso-excel-disperso-scopri-i-5-metodi-per-rintracciarlo-sul-tuo-computer/"><u>Perso Excel Disperso: Scopri I 5 Metodi per Rintracciarlo Sul Tuo Computer!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-ghostwire-tokyo-pc-malfunction-problems-for-smoother-gameplay/"><u>Solving the Ghostwire: Tokyo PC Malfunction Problems for Smoother Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-palworld-session-search-issue/"><u>Troubleshooting Steps: Resolving 'PalWorld' Session Search Issue</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728486938019-windows-1110/"><u>Windows 11/10における画像ファイルのバックアップと同期手順</u></a></li>
+<li><a href="https://win-webster.techidaily.com/word5word/"><u>Word文件不見？5种簡单办法保存丢失的Word文档！</u></a></li>
+<li><a href="https://win-webster.techidaily.com/44oe44kr44ov44kj44o844gm5ymk6zmk44gx44gf44ov44kh44kk44or44gu5b6p5ywd5oml6acg44gr44gk44ge44gm5a2m44g2/"><u>マカフィーが削除したファイルの復元手順について学ぶ</u></a></li>
+</ul></div>
+
