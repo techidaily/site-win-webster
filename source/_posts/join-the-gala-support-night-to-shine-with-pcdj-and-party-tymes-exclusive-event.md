@@ -1,7 +1,7 @@
 ---
 title: Join the Gala! Support Night To Shine with PCDJ & Party Tyme's Exclusive Event
-date: 2024-11-24T23:35:03.312Z
-updated: 2024-11-30T23:25:26.967Z
+date: 2024-12-03T17:21:29.083Z
+updated: 2024-12-09T07:11:43.364Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Here are a few pictures they shared with us from the event:
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?fit=1030%2C687&ssl=1 "blog1")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?fit=1030%2C687&ssl=1 "blog2")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762%5F2877084325672602%5F3631167855451439104%5Fo.jpg?fit=768%2C960&ssl=1 "84437762_2877084325672602_3631167855451439104_o")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924%5F2877919342255767%5F1686493271838162944%5Fo.jpg?fit=960%2C957&ssl=1 "84716924_2877919342255767_1686493271838162944_o")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579%5F2878081612239540%5F2710465826560933888%5Fo.jpg?fit=768%2C960&ssl=1 "84996579_2878081612239540_2710465826560933888_o")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,17 +48,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-perfecting-live-social-media-facebook-livestream-tutorials-for-tech/"><u>[New] 2024 Approved Perfecting Live Social Media Facebook Livestream Tutorials for Tech</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-doubled-surface-capture-method/"><u>[Updated] Doubled Surface Capture Method</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728508834207-ssd-windows/"><u>如何通过 SSD 轻松及保密地切换到 Windows 的新版本</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728506449380-m2-ssd/"><u>這是你需要知道：如何在不改裝的前提下更新M.2 SSD</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-7-complimentary-online-fax-service-options/"><u>Explore These 7 Complimentary Online Fax Service Options</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-magic-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Magic 5 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/schritt-fur-schritt-anleitung-zum-transfer-von-medien-aus-dem-windows-media-player-zu-itunes/"><u>Schritt-Für-Schritt-Anleitung Zum Transfer Von Medien Aus Dem Windows Media Player Zu iTunes</u></a></li>
-<li><a href="https://win-webster.techidaily.com/seamlessly-transform-a-dynamic-disk-into-basic-format-using-top-ranking-cloning-software/"><u>Seamlessly Transform a Dynamic Disk Into Basic Format Using Top-Ranking Cloning Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-tutorial-sharing-your-laptops-screen-on-the-big-screen-with-an-hdmi-cable-hookup/"><u>Simple Tutorial: Sharing Your Laptop's Screen on the Big Screen with an HDMI Cable Hookup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-removing-background-from-images-in-windows-11/"><u>Step-by-Step Guide: Removing Background From Images in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlined-qanda-list-to-attract-podcast-audience-for-2024/"><u>Streamlined Q&A List to Attract Podcast Audience for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-insightful-recap-updated-sony-bdp-s3700-features/"><u>[New] Insightful Recap Updated Sony BDP-S3700 Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-innovation-in-viewing-top-5-webcams-recommended-for-gamers/"><u>[Updated] Innovation in Viewing Top 5 Webcams Recommended for Gamers</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1732511029824-yl/"><u>阵阵数字战略：即时市场网格机制 -YL计算机专业解读</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-htc-u23-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on HTC U23 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/diagnosing-and-fixing-ram-errors-on-your-pc-with-help-from-yl-software-experts/"><u>Diagnosing & Fixing RAM Errors on Your PC with Help From YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/handling-recurrent-hardware-lockups-in-your-pc-with-tips-from-yl-software-solutions/"><u>Handling Recurrent Hardware Lockups in Your PC with Tips From YL Software Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-iptv-recording-on-various-platforms/"><u>In 2024, IPTV Recording on Various Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>In 2024, Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-artillery-essential-online-fps-browser-gaming-tips/"><u>Master the Artillery: Essential Online FPS Browser Gaming Tips</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-motorola-razr-40-ultra-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-pcs-bluish-nightmares-comprehensive-guide-by-yl-computing/"><u>Resolving PC's Bluish Nightmares: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-solution-for-addressing-wobbly-interior-hardware-connections-by-yl-computing/"><u>Step-by-Step Solution for Addressing Wobbly Interior Hardware Connections by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-adjusting-display-preferences-in-microsoft-windows-with-help-from-yl-computing/"><u>Step-by-Step Tutorial: Adjusting Display Preferences in Microsoft Windows with Help From YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mline-free-webinar-organizing-with-youtube-help/"><u>Streamline Free Webinar Organizing with YouTube Help</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-camon-20-premier-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 20 Premier 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-your-crypto-assets-a-guide-to-using-balance-verification-tools-for-specific-wallet-addresses-by-yl-computing/"><u>Understanding Your Crypto Assets: A Guide to Using Balance Verification Tools for Specific Wallet Addresses by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unveiling-the-power-of-yl-web-scraper-seamless-harvesting-of-twitter-information-the-innovation-from-yl-computing/"><u>Unveiling the Power of YL Web Scraper: Seamless Harvesting of Twitter Information - The Innovation From YL Computing</u></a></li>
 </ul></div>
 

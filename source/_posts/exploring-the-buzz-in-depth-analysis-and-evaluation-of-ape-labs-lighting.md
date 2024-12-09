@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Buzz: In-Depth Analysis & Evaluation of Ape Labs Lighting"
-date: 2024-11-24T17:03:51.847Z
-updated: 2024-11-30T16:08:32.689Z
+date: 2024-12-04T20:47:47.004Z
+updated: 2024-12-09T04:25:45.006Z
 tags:
   - product
 categories:
@@ -32,10 +32,6 @@ While China is known as a world-wide manufacturing powerhouse, they aren’t exa
 
 [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) started producing wireless, battery powered LED lights in 2008\. Originally, they were made in China (like all of the other popular lighting brands). However, they moved the entire manufacturing operation to their home country of Germany in 2015 after several different Chinese factories failed to produce to German standards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #2 – Their Sound Active Feature is Mesmerizing.
 
 Before [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80), most lighting pros stayed away from the sound active feature….especially with wash lights. With most other brands, it’s typically just a stobe effect that changes colors on some low frequency notes.
@@ -47,6 +43,10 @@ The internal microphones on each light are unique. They automatically adjust to 
 Also, the sound active feature can be set so all Ape Labs products are triggered by one centralized microphone….or, for a (subjectively) cooler effect, they can be set to all use their own. When they use their own microphones, all of the lights react the same across major beats, but lighter notes are interpreted differently with each light. This semi-random looking effect is very unique and intriguing to watch.
 
 **Check out this clip which is displaying (10) ApeStick 4’s and (4) LightCan’s:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## #3 – They Take Wireless Control & Battery Power to the Next Level.
 
@@ -73,7 +73,11 @@ EXPAND IMAGE
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #5 – Size & Weight.
@@ -83,7 +87,7 @@ All [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products are 
 The most popular Ape Labs product in the USA is their traditional uplight called the ApeLight Maxi. This unit is 3.3lbs. A case of six is only 34lbs, including the weight of the charging case. **To put that into perspective, check out this video:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #6 – 3-Year Warranty, European Build Quality, but Same Pricing.
@@ -95,7 +99,7 @@ Fortunately, [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) prod
 [EXPAND IMAGE ![Ape Labs Comparison Chart](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1 "Ape Labs Comparison Chart")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You may have noticed that the ApeLight Maxi is listed as “water resistant” but doesn’t actually give an official IP rating in the specs. **To help you understand what they mean by “water resistant”, check out:**
@@ -111,10 +115,6 @@ You may have noticed that the ApeLight Maxi is listed as “water resistant” b
 We hope you enjoyed the review and run down on Ape Labs lighting. For more information and to review all Ape Labs products please visit KPODJ by clicking the button below.
 
 [VIEW APE LABS LIGHTING PRODUCTS](https://www.apelabsusa.com/product/maxi#9fb11cfd80)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -135,24 +135,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-visual-branding-mastery-implementing-watermarks-and-logos-into-video-content/"><u>[New] Visual Branding Mastery Implementing Watermarks & Logos Into Video Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-best-in-class-8-webcams-perfect-for-streaming-professionals/"><u>[Updated] 2024 Approved Best-in-Class 8 Webcams Perfect For Streaming Professionals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-buying-cutting-edge-360cams/"><u>[Updated] Mastering the Art of Buying Cutting-Edge 360Cams</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sony-xperia-xz-premium-high-res-video-capabilities-analyzed/"><u>[Updated] Sony Xperia XZ Premium High-Res Video Capabilities Analyzed</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-pasos-faciles-para-mover-archivos-de-windows-a-macos-sin-usar-migration-assistant/"><u>1. 'Pasos Fáciles Para Mover Archivos De Windows a macOS Sin Usar Migration Assistant'</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-effervescent-emotions-on-iphone/"><u>2024 Approved Effervescent Emotions on IPhone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-video-storage-in-24-hours/"><u>2024 Approved Understanding Video Storage in 24-Hours</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728501401757-windows-10-usb/"><u>適用於Windows 10的外置 USB 自動儲存便攜解決方案</u></a></li>
-<li><a href="https://win-webster.techidaily.com/discover-the-power-of-emeditor-a-comprehensive-review-and-tutorial/"><u>Discover the Power of EmEditor: A Comprehensive Review and Tutorial</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-instructions-for-reverting-lenovo-g50-back-to-its-default-manufacturer-settings/"><u>Easy Instructions for Reverting Lenovo G50 Back to Its Default Manufacturer Settings</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g-stylus-2023-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G Stylus (2023) for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a25-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A25 5G Easily?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-no-budget-big-fun-youtube-vids-as-tweets-gifs/"><u>In 2024, No Budget, Big Fun YouTube Vids as Tweets' GIFs</u></a></li>
-<li><a href="https://win-webster.techidaily.com/instructions-simplifiees-sur-comment-rendre-une-cle-usb-solitaire-assistance-au-formatage/"><u>Instructions Simplifiées Sur Comment Rendre Une Clé USB Solitaire - Assistance Au Formatage</u></a></li>
-<li><a href="https://win-webster.techidaily.com/les-3-meilleurs-metodos-simples-pour-fabriquer-un-hdd-extern-seuil-amovible/"><u>Les 3 Meilleurs Métodos Simples Pour Fabriquer Un HDD Extern Seuil Amovible</u></a></li>
-<li><a href="https://win-webster.techidaily.com/overcoming-file-migration-challenges-on-a-mac-to-usb-step-by-step-correction-guide/"><u>Overcoming File Migration Challenges on a Mac to USB – Step-by-Step Correction Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/sauvegarde-et-stockage-de-fichiers-sous-windows-11-guide-complet-pour-les-lecteurs-reseau/"><u>Sauvegarde Et Stockage De Fichiers Sous Windows 11 : Guide Complet Pour Les Lecteurs Réseau</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-s17t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo S17t without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/win10-drawer-gone-crisis-solution-unlocked-free-detailed-recovery-manual/"><u>Win10 Drawer Gone? Crisis Solution Unlocked! Free Detailed Recovery Manual</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-prime-guidelines-youtube-respect-and-usage/"><u>2024 Approved Prime Guidelines YouTube Respect & Usage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-steam-hurdles-effective-fixes-for-helldivers-2-not-launching/"><u>Bypassing Steam Hurdles - Effective Fixes for Helldivers 2 Not Launching</u></a></li>
+<li><a href="https://win-help.techidaily.com/comment-exporter-les-sauvegardes-de-votre-ps4-vers-un-ordinateur-portable/"><u>Comment Exporter Les Sauvegardes De Votre PS4 Vers Un Ordinateur Portable</u></a></li>
+<li><a href="https://win-webster.techidaily.com/expert-tips-for-diagnosing-and-fixing-pc-hardware-glitches-with-yl-software-solutions/"><u>Expert Tips for Diagnosing and Fixing PC Hardware Glitches with YL Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-brightness-functionality-on-your-windows-11-system/"><u>Guide to Restore Brightness Functionality on Your Windows 11 System</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-bentley-graphics-wallpapers-backgrounds-and-photos-powered-by-yl-computing/"><u>High-Definition Bentley Graphics: WALLPAPERS, BACKGROUNDS & PHOTOS - Powered by YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-xs-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone XS Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinterest-vid-extractor-guide-top-5-free-tools-summary/"><u>In 2024, Pinterest Vid Extractor Guide Top 5 FREE Tools Summary</u></a></li>
+<li><a href="https://win-webster.techidaily.com/latest-songbookdb-guides-and-how-to-videos-your-ultimate-digital-dj-resource/"><u>Latest SongbookDB Guides and How-To Videos: Your Ultimate Digital DJ Resource</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-360-streaming-landscape-with-ease-on-youtube/"><u>Navigating the 360° Streaming Landscape with Ease on Youtube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-15-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 15 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://win-webster.techidaily.com/revamp-your-computers-performance-with-updated-graphics-card-drivers-tips-from-yl-software-experts/"><u>Revamp Your Computer's Performance with Updated Graphics Card Drivers - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/safe-storage-techniques-for-your-digital-assets-learn-with-yl-computings-guide/"><u>Safe Storage Techniques for Your Digital Assets - Learn with YL Computing's Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/spacious-mini-cities-with-oriental-flair-for-2024/"><u>Spacious Mini Cities with Oriental Flair for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-printing-your-files-with-ease-yl-computings-comprehensive-tutorial/"><u>Step-by-Step Guide: Printing Your Files with Ease - YL Computing's Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-audio-device-issues-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Audio Device Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-guide-to-enhancing-computer-speed-and-stability-using-yl-software-settings-optimization-techniques/"><u>Ultimate Guide to Enhancing Computer Speed and Stability Using YL Software Settings Optimization Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-top-rated-gaming-audio-setup-now-discounted-by-nearly-a-third-on-amazon-insights-review/"><u>Unbeatable Deal: Top-Rated Gaming Audio Setup Now Discounted by Nearly a Third on Amazon - Insights Review</u></a></li>
+<li><a href="https://win-webster.techidaily.com/yl-softwares-guide-effective-methods-to-cool-down-and-fix-an-overheated-laptop/"><u>YL Software's Guide: Effective Methods to Cool Down and Fix an Overheated Laptop</u></a></li>
 </ul></div>
 

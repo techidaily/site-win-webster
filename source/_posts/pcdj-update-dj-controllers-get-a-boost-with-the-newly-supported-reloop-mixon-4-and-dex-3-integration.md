@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2024-11-28T20:05:12.909Z
-updated: 2024-12-01T02:10:02.126Z
+date: 2024-12-07T08:01:16.511Z
+updated: 2024-12-09T09:33:47.384Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
@@ -100,7 +100,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -122,16 +122,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-check-what-youve-liked-on-facebook-lately/"><u>[New] How To Check What You've Liked on Facebook Lately</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-reversal-a-guide-to-rewinding-your-youtube-sequence-for-2024/"><u>[Updated] Mastering Reversal A Guide to Rewinding Your YouTube Sequence for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-tailoring-game-sounds-to-stand-out-in-the-virtual-arena-of-free-fire/"><u>2024 Approved Expert Advice on Tailoring Game Sounds to Stand Out in the Virtual Arena of Free Fire</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-zoom-in-on-minecraft/"><u>2024 Approved How to Zoom in on Minecraft</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insider-guide-to-simplifying-character-voice-modification-pubg/"><u>2024 Approved The Insider Guide to Simplifying Character Voice Modification (PUBG)</u></a></li>
-<li><a href="https://win-webster.techidaily.com/outlook-save-as-attachment/"><u>方法介紹：如何使用 Outlook Save as Attachment 功能以複製郵件檔案?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728505991810-dropbox/"><u>失われたDropboxフォルダを取り戻す：消えてしまったデータの復元手順</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-huawei-p60-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-non-sync-errors-with-dropbox-in-windows-11-tips-for-a-smooth-recovery-or-upgrade-options/"><u>Resolving Non-Sync Errors with Dropbox in Windows 11: Tips for a Smooth Recovery or Upgrade Options</u></a></li>
-<li><a href="https://win-webster.techidaily.com/solving-iphone-activation-problems-post-ios-1718-updates/"><u>Solving iPhone Activation Problems Post-iOS 17/18 Updates</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2023-in-review-social-medias-viral-videos-on-twitter-for-2024/"><u>[New] 2023 in Review Social Media's Viral Videos on Twitter for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-selection-of-androids-most-innovative-music-videography-tools/"><u>[New] In 2024, The Ultimate Selection of Android's Most Innovative Music Videography Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>2024 Approved The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://win-webster.techidaily.com/hardware-and-windows-sync-up-verifying-system-compatibility-with-new-devices-tips-from-yl-software-experts/"><u>Hardware and Windows Sync-Up: Verifying System Compatibility with New Devices – Tips From YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-marketing-havens-for-youtube-videos/"><u>Ideal Marketing Havens for YouTube Videos</u></a></li>
+<li><a href="https://win-webster.techidaily.com/latest-songbookdb-guides-and-how-to-videos-your-ultimate-digital-dj-resource/"><u>Latest SongbookDB Guides and How-To Videos: Your Ultimate Digital DJ Resource</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-graphics-problems-in-windows-11-a-comprehensive-guide-by-yl-software/"><u>Resolving Graphics Problems in Windows 11: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/solving-your-scanners-low-quality-image-dilemma-expert-advice-from-yl-computing/"><u>Solving Your Scanner's Low-Quality Image Dilemma: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-printing-your-files-with-ease-yl-computings-comprehensive-tutorial/"><u>Step-by-Step Guide: Printing Your Files with Ease - YL Computing's Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-not-found-d3dx924dll-errors-solutions-unveiled/"><u>The Ultimate Fix for Not Found d3dx9_2‍​4.dll Errors: Solutions Unveiled</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-chargetechs-27000mah-battery-backup-solution/"><u>The Ultimate Guide to ChargeTech's 27000mAh Battery Backup Solution</u></a></li>
 </ul></div>
 

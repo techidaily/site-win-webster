@@ -1,7 +1,7 @@
 ---
 title: Download Latest Release - Free PCDJ Compatible
-date: 2024-11-25T18:49:37.416Z
-updated: 2024-12-01T05:01:05.813Z
+date: 2024-12-07T08:47:04.791Z
+updated: 2024-12-08T23:58:42.894Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,22 +69,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-game-on-with-these-5-must-have-broadcast-cams/"><u>[Updated] In 2024, Game on with These 5 Must-Have Broadcast Cams</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-snap-your-next-podcast-pick-for-sharing/"><u>[Updated] In 2024, Snap Your Next Podcast Pick for Sharing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximizing-instagram-accessing-free-filters-via-searches/"><u>2024 Approved Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024flt5-flv/"><u>2024年のベストFLT再生ソフト:無料版パワーアップ5推薦 - FLV動画鑑賞快適化</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aesthetic-adjustments-for-windows-11-wallpaper-wisdom/"><u>Aesthetic Adjustments for Windows 11 Wallpaper Wisdom</u></a></li>
-<li><a href="https://win-guides.techidaily.com/aomei-backup-discover-your-data-protection-hero/"><u>AOMEI Backup: Discover Your Data Protection Hero</u></a></li>
-<li><a href="https://win-webster.techidaily.com/come-aumentare-la-durata-e-le-prestazioni-del-tuo-pc-sostituendo-lssd-xps-con-un-modello-di-capacita-maggiore/"><u>Come Aumentare La Durata E Le Prestazioni Del Tuo PC Sostituendo L'SSD XPS Con Un Modello Di Capacità Maggiore</u></a></li>
-<li><a href="https://win-webster.techidaily.com/detailed-tutorial-on-creating-and-configuring-networks-using-vmwares-vcenter-software/"><u>Detailed Tutorial on Creating and Configuring Networks Using VMware's vCenter Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/diverse-iptv-content-distribution/"><u>Diverse IPTV Content Distribution</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-complet-passer-de-windows-11-base-sur-32-bits-a-un-modele-64-bits/"><u>Guide Complet: Passer De Windows 11 Basé Sur 32 Bits À Un Modèle 64 Bits</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/locating-the-timestamp-of-your-latest-iphone-icloud-sync-a-comprehensive-tutorial-for-users-and-administrators/"><u>Locating the Timestamp of Your Latest iPhone iCloud Sync: A Comprehensive Tutorial for Users and Administrators</u></a></li>
-<li><a href="https://win-webster.techidaily.com/navigating-system-preparation-with-sysprep-a-comprehensive-tutorial-for-windows-1011-users/"><u>Navigating System Preparation with Sysprep: A Comprehensive Tutorial for Windows 10/11 Users</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-retrieving-accidentally-deleted-rmvb-videos/"><u>Step-by-Step Tutorial on Retrieving Accidentally Deleted RMVB Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/switched-up-choices-evaluating-the-nintendo-switch-lite-versus-the-switch-oled/"><u>Switched-Up Choices: Evaluating The Nintendo Switch Lite Versus The Switch OLED</u></a></li>
-<li><a href="https://win-webster.techidaily.com/tips-mudah-untuk-menyelesaikan-problem-memulihkan-data-dengan-volume-terhubung/"><u>Tips Mudah Untuk Menyelesaikan Problem Memulihkan Data Dengan Volume Terhubung</u></a></li>
-<li><a href="https://win-webster.techidaily.com/trovare-lesattore-oscurato-su-desktop-technique-a-5-maniere-potenziate-dal-seo/"><u>Trovare L'Esattore Oscurato Su Desktop: Technique a 5 Maniere Potenziate Dal SEO!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-alter-macs-screen-capture-store-path/"><u>[Updated] Alter Mac's Screen Capture Store Path</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-audiovisual-synergy-infusing-music-into-vimeo-creations-for-2024/"><u>[Updated] Audiovisual Synergy Infusing Music Into Vimeo Creations for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-discover-top-rated-cryptocurrency-trading-platforms-insights-by-yl-computing/"><u>1. Discover Top-Rated Cryptocurrency Trading Platforms - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-pro-level-7-dslrs-that-transform-your-digital-storytelling/"><u>2024 Approved Pro-Level 7 DSLRs That Transform Your Digital Storytelling</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-keeping-your-amd-hardware-updated-across-various-windows-editions/"><u>Comprehensive Guide: Keeping Your AMD Hardware Updated Across Various Windows Editions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-a60-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel A60 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-your-gpu-lagging-uncover-how-inadequate-vram-affects-performance-insights-by-yl-computing/"><u>Is Your GPU Lagging? Uncover How Inadequate VRAM Affects Performance - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-comprehensive-overview-of-dji-phantom-4-for-2024/"><u>Masterclass Comprehensive Overview of DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnacle-5-frame-timelapse-recorder-for-2024/"><u>Pinnacle 5-Frame Timelapse Recorder for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/power-failure-in-scanners-understanding-and-fixing-the-no-response-to-power-button-issue-insights-from-yl-software-experts/"><u>Power Failure in Scanners: Understanding and Fixing the 'No Response to Power Button' Issue - Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/professional-quality-tiktok-backgrounds-and-hd-photo-pack-yl-software-solutions/"><u>Professional Quality TikTok Backgrounds & HD Photo Pack - YL Software Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-to-secure-your-firestick-with-a-reliable-vpn-setup/"><u>Simple Steps to Secure Your Firestick with a Reliable VPN Setup</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-recovering-data-from-deleted-disk-partitions-expert-tips-by-yl-computing/"><u>Step-by-Step Guide: Recovering Data From Deleted Disk Partitions - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-setting-up-parent-safety-tools-with-windows-control-panel-expert-advice-from-yl-software/"><u>Step-by-Step Tutorial on Setting Up Parent Safety Tools with Windows Control Panel - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-your-cddvd-disc-reader-issues-expert-tips-and-solutions-by-yl-computing/"><u>Troubleshooting Your CD/DVD Disc Reader Issues: Expert Tips and Solutions by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/updating-your-windows-device-drivers-a-simple-guide-tips-and-tricks-by-yl-computing/"><u>Updating Your Windows Device Drivers: A Simple Guide - Tips & Tricks by YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/zerocomplicationlivecast-your-simple-pathway-to-livestreaming-a-podcast/"><u>ZeroComplicationLivecast Your Simple Pathway to Livestreaming a Podcast</u></a></li>
 </ul></div>
 
