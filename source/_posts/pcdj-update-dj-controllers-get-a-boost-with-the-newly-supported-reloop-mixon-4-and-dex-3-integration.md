@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2024-12-07T08:01:16.511Z
-updated: 2024-12-09T09:33:47.384Z
+date: 2024-12-11T16:18:05.427Z
+updated: 2024-12-15T02:14:31.762Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
@@ -100,7 +100,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -122,16 +122,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023-in-review-social-medias-viral-videos-on-twitter-for-2024/"><u>[New] 2023 in Review Social Media's Viral Videos on Twitter for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-selection-of-androids-most-innovative-music-videography-tools/"><u>[New] In 2024, The Ultimate Selection of Android's Most Innovative Music Videography Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>2024 Approved The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
-<li><a href="https://win-webster.techidaily.com/hardware-and-windows-sync-up-verifying-system-compatibility-with-new-devices-tips-from-yl-software-experts/"><u>Hardware and Windows Sync-Up: Verifying System Compatibility with New Devices – Tips From YL Software Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-marketing-havens-for-youtube-videos/"><u>Ideal Marketing Havens for YouTube Videos</u></a></li>
-<li><a href="https://win-webster.techidaily.com/latest-songbookdb-guides-and-how-to-videos-your-ultimate-digital-dj-resource/"><u>Latest SongbookDB Guides and How-To Videos: Your Ultimate Digital DJ Resource</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-graphics-problems-in-windows-11-a-comprehensive-guide-by-yl-software/"><u>Resolving Graphics Problems in Windows 11: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/solving-your-scanners-low-quality-image-dilemma-expert-advice-from-yl-computing/"><u>Solving Your Scanner's Low-Quality Image Dilemma: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-printing-your-files-with-ease-yl-computings-comprehensive-tutorial/"><u>Step-by-Step Guide: Printing Your Files with Ease - YL Computing's Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-not-found-d3dx924dll-errors-solutions-unveiled/"><u>The Ultimate Fix for Not Found d3dx9_2‍​4.dll Errors: Solutions Unveiled</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-chargetechs-27000mah-battery-backup-solution/"><u>The Ultimate Guide to ChargeTech's 27000mAh Battery Backup Solution</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-virtual-masterclass-for-aspiring-filmmakers-on-youtube/"><u>[Updated] 2024 Approved Virtual Masterclass for Aspiring Filmmakers on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-crafting-cinematic-images-on-iphone-8-advanced-techniques-for-2024/"><u>[Updated] Crafting Cinematic Images on iPhone 8 Advanced Techniques for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-prime-microphones-for-high-resolution-4k-video-shooting-for-2024/"><u>[Updated] Prime Microphones for High-Resolution 4K Video Shooting for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1732513825402-yl/"><u>发起者是谁？深入研究新时代民主革命—YL计算与软件产品介绍</u></a></li>
+<li><a href="https://win-webster.techidaily.com/configure-your-pcs-static-ip-with-ease-expert-advice-by-yl-software-solutions/"><u>Configure Your PC's Static IP with Ease - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/dual-av-protection-can-you-operate-windows-defender-with-an-additional-antivirus-on-your-pc/"><u>Dual AV Protection: Can You Operate Windows Defender with an Additional Antivirus on Your PC?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exploring-how-chinas-historic-conflict-came-to-an-end-with-analysis-by-yl-computing-and-yl-software/"><u>Exploring How China's Historic Conflict Came to an End with Analysis by YL Computing and YL Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-usbhdmi-compatibility-drivers-here/"><u>Get the Newest USB/HDMI Compatibility Drivers Here!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/get-your-karaoke-fix-join-our-party-tyme-subscription-plan-and-sing-hits-on-april-16th/"><u>Get Your Karaoke Fix: Join Our Party Tyme Subscription Plan & Sing Hits on April 16Th!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-mini-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 mini Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-agni-2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Agni 2 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-webster.techidaily.com/lyrx-karaoke-and-djing-app-for-mac-users-a-comprehensive-guide-2018/"><u>LYRX Karaoke & DJing App for Mac Users: A Comprehensive Guide (2018)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-system-protection-how-to-monitor-and-optimize-windows-defender-performance-insights-by-yl-software-experts/"><u>Mastering System Protection: How to Monitor and Optimize Windows Defender Performance – Insights by YL Software Experts</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-revolutionize-your-gameplay-videos-top-free-editing-tools/"><u>New 2024 Approved Revolutionize Your Gameplay Videos Top Free Editing Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-connectivity-w11plus-windows-compatible-drivers-from-asus/"><u>Seamless Connectivity: W11+ Windows Compatible Drivers From Asus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-launchpad-experience-with-top-techniques-for-windows-11/"><u>Transforming Launchpad Experience with Top Techniques for Windows 11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-solving-internal-cooling-system-issues-with-yl-computings-expert-advice/"><u>Troubleshooting Guide: Solving Internal Cooling System Issues with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-why-your-computer-ignores-usb-connected-gadgets-with-expert-insights-from-yl-software/"><u>Understanding Why Your Computer Ignores USB-Connected Gadgets with Expert Insights From YL Software</u></a></li>
 </ul></div>
 

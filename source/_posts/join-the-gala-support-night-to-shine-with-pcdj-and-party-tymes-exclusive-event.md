@@ -1,7 +1,7 @@
 ---
 title: Join the Gala! Support Night To Shine with PCDJ & Party Tyme's Exclusive Event
-date: 2024-12-03T17:21:29.083Z
-updated: 2024-12-09T07:11:43.364Z
+date: 2024-12-11T10:00:32.795Z
+updated: 2024-12-15T11:05:18.056Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Here are a few pictures they shared with us from the event:
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?fit=1030%2C687&ssl=1 "blog1")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?fit=1030%2C687&ssl=1 "blog2")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762%5F2877084325672602%5F3631167855451439104%5Fo.jpg?fit=768%2C960&ssl=1 "84437762_2877084325672602_3631167855451439104_o")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924%5F2877919342255767%5F1686493271838162944%5Fo.jpg?fit=960%2C957&ssl=1 "84716924_2877919342255767_1686493271838162944_o")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579%5F2878081612239540%5F2710465826560933888%5Fo.jpg?fit=768%2C960&ssl=1 "84996579_2878081612239540_2710465826560933888_o")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-insightful-recap-updated-sony-bdp-s3700-features/"><u>[New] Insightful Recap Updated Sony BDP-S3700 Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-innovation-in-viewing-top-5-webcams-recommended-for-gamers/"><u>[Updated] Innovation in Viewing Top 5 Webcams Recommended for Gamers</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1732511029824-yl/"><u>阵阵数字战略：即时市场网格机制 -YL计算机专业解读</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-htc-u23-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on HTC U23 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/diagnosing-and-fixing-ram-errors-on-your-pc-with-help-from-yl-software-experts/"><u>Diagnosing & Fixing RAM Errors on Your PC with Help From YL Software Experts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-to-control-speed-of-instagram-videos-effortlessly-for-2024/"><u>[New] How To Control Speed of Instagram Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-hero-5-black-evaluated-against-nikkors-km-170/"><u>[Updated] In 2024, HERO 5 Black Evaluated Against Nikkor's KM-170</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-video-conferencing-on-chrome-os/"><u>[Updated] Streamlining Video Conferencing on Chrome OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mystic-mastery-in-minimalist-photo-manipulations/"><u>2024 Approved Mystic Mastery in Minimalist Photo Manipulations</u></a></li>
+<li><a href="https://win-webster.techidaily.com/backup-beats-on-the-go-mastering-mobile-phones-and-ipads-for-unplanned-pcdj-performances/"><u>Backup Beats on the Go: Mastering Mobile Phones and iPads for Unplanned PCDJ Performances</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comprehensive-guide-understanding-the-various-cybersecurity-dangers-blocked-by-microsoft-defender-insights-from-yl-computing/"><u>Comprehensive Guide: Understanding the Various Cybersecurity Dangers Blocked by Microsoft Defender - Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/conceptualists-engineering-marvel-online-worlds/"><u>Conceptualists Engineering Marvel Online Worlds</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-the-luminous-durable-apple-watch-sport-band-from-nomad-the-ultimate-guide/"><u>Experience the Luminous, Durable Apple Watch Sport Band From Nomad – The Ultimate Guide!</u></a></li>
 <li><a href="https://win-webster.techidaily.com/handling-recurrent-hardware-lockups-in-your-pc-with-tips-from-yl-software-solutions/"><u>Handling Recurrent Hardware Lockups in Your PC with Tips From YL Software Solutions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-iptv-recording-on-various-platforms/"><u>In 2024, IPTV Recording on Various Platforms</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>In 2024, Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-artillery-essential-online-fps-browser-gaming-tips/"><u>Master the Artillery: Essential Online FPS Browser Gaming Tips</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-motorola-razr-40-ultra-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-s24plus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy S24+ Phone Now with These Tips</u></a></li>
 <li><a href="https://win-webster.techidaily.com/resolving-pcs-bluish-nightmares-comprehensive-guide-by-yl-computing/"><u>Resolving PC's Bluish Nightmares: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/serene-strums-and-dance-steps-tiktoks-country-playlist-for-2024/"><u>Serene Strums and Dance Steps TikTok's Country Playlist for 2024</u></a></li>
 <li><a href="https://win-webster.techidaily.com/step-by-step-solution-for-addressing-wobbly-interior-hardware-connections-by-yl-computing/"><u>Step-by-Step Solution for Addressing Wobbly Interior Hardware Connections by YL Computing</u></a></li>
 <li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-adjusting-display-preferences-in-microsoft-windows-with-help-from-yl-computing/"><u>Step-by-Step Tutorial: Adjusting Display Preferences in Microsoft Windows with Help From YL Computing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mline-free-webinar-organizing-with-youtube-help/"><u>Streamline Free Webinar Organizing with YouTube Help</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-camon-20-premier-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 20 Premier 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-your-crypto-assets-a-guide-to-using-balance-verification-tools-for-specific-wallet-addresses-by-yl-computing/"><u>Understanding Your Crypto Assets: A Guide to Using Balance Verification Tools for Specific Wallet Addresses by YL Computing</u></a></li>
 <li><a href="https://win-webster.techidaily.com/unveiling-the-power-of-yl-web-scraper-seamless-harvesting-of-twitter-information-the-innovation-from-yl-computing/"><u>Unveiling the Power of YL Web Scraper: Seamless Harvesting of Twitter Information - The Innovation From YL Computing</u></a></li>
 </ul></div>
 

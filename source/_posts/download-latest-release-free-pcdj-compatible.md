@@ -1,7 +1,7 @@
 ---
 title: Download Latest Release - Free PCDJ Compatible
-date: 2024-12-07T08:47:04.791Z
-updated: 2024-12-08T23:58:42.894Z
+date: 2024-12-09T09:26:58.766Z
+updated: 2024-12-15T02:13:40.764Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,22 +69,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-alter-macs-screen-capture-store-path/"><u>[Updated] Alter Mac's Screen Capture Store Path</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-audiovisual-synergy-infusing-music-into-vimeo-creations-for-2024/"><u>[Updated] Audiovisual Synergy Infusing Music Into Vimeo Creations for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-discover-top-rated-cryptocurrency-trading-platforms-insights-by-yl-computing/"><u>1. Discover Top-Rated Cryptocurrency Trading Platforms - Insights by YL Computing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-pro-level-7-dslrs-that-transform-your-digital-storytelling/"><u>2024 Approved Pro-Level 7 DSLRs That Transform Your Digital Storytelling</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-guide-keeping-your-amd-hardware-updated-across-various-windows-editions/"><u>Comprehensive Guide: Keeping Your AMD Hardware Updated Across Various Windows Editions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-a60-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel A60 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-your-gpu-lagging-uncover-how-inadequate-vram-affects-performance-insights-by-yl-computing/"><u>Is Your GPU Lagging? Uncover How Inadequate VRAM Affects Performance - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterclass-comprehensive-overview-of-dji-phantom-4-for-2024/"><u>Masterclass Comprehensive Overview of DJI Phantom 4 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pinnacle-5-frame-timelapse-recorder-for-2024/"><u>Pinnacle 5-Frame Timelapse Recorder for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/power-failure-in-scanners-understanding-and-fixing-the-no-response-to-power-button-issue-insights-from-yl-software-experts/"><u>Power Failure in Scanners: Understanding and Fixing the 'No Response to Power Button' Issue - Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/professional-quality-tiktok-backgrounds-and-hd-photo-pack-yl-software-solutions/"><u>Professional Quality TikTok Backgrounds & HD Photo Pack - YL Software Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-to-secure-your-firestick-with-a-reliable-vpn-setup/"><u>Simple Steps to Secure Your Firestick with a Reliable VPN Setup</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-recovering-data-from-deleted-disk-partitions-expert-tips-by-yl-computing/"><u>Step-by-Step Guide: Recovering Data From Deleted Disk Partitions - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-setting-up-parent-safety-tools-with-windows-control-panel-expert-advice-from-yl-software/"><u>Step-by-Step Tutorial on Setting Up Parent Safety Tools with Windows Control Panel - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/troubleshooting-your-cddvd-disc-reader-issues-expert-tips-and-solutions-by-yl-computing/"><u>Troubleshooting Your CD/DVD Disc Reader Issues: Expert Tips and Solutions by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/updating-your-windows-device-drivers-a-simple-guide-tips-and-tricks-by-yl-computing/"><u>Updating Your Windows Device Drivers: A Simple Guide - Tips & Tricks by YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/zerocomplicationlivecast-your-simple-pathway-to-livestreaming-a-podcast/"><u>ZeroComplicationLivecast Your Simple Pathway to Livestreaming a Podcast</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-essential-list-of-macs-top-snipping-apps/"><u>[New] 2024 Approved The Essential List of Mac's Top Snipping Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-video-experience-with-advanced-vlc-techniques-macos/"><u>[New] Streamline Your Video Experience with Advanced VLC Techniques (macOS)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-freely-stream-your-films-easy-to-use-mov-player-software/"><u>2024 Approved Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/expert-tips-for-resolving-driver-issues-with-yl-software-support/"><u>Expert Tips for Resolving Driver Issues with YL Software Support</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fix-your-graphics-card-drivers-easily-with-yl-computings-expert-advice/"><u>Fix Your Graphics Card Drivers Easily with YL Computing's Expert Advice!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/keeping-your-pc-running-efficiently-expert-tips-from-yl-computing-and-software/"><u>Keeping Your PC Running Efficiently: Expert Tips From YL Computing and Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-covid-19-vaccine-scheduling-solutions-reviewed-and-compared-itadvisor/"><u>Leading COVID-19 Vaccine Scheduling Solutions Reviewed & Compared - ITAdvisor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g04-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Motorola Moto G04 won’t play MKV movies</u></a></li>
+<li><a href="https://win-webster.techidaily.com/optimizing-your-computers-capacity-advanced-techniques-from-yl-computing/"><u>Optimizing Your Computer's Capacity - Advanced Techniques From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-computer-hardware-issues-when-its-not-detected-expert-advice-from-yl-software/"><u>Resolving Computer Hardware Issues When It's Not Detected: Expert Advice From YL Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-rise-of-chromecast-with-google-tv-is-it-time-for-firetv-users-to-switch/"><u>The Rise of Chromecast with Google TV - Is It Time for FireTV Users to Switch?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 6s</u></a></li>
 </ul></div>
 

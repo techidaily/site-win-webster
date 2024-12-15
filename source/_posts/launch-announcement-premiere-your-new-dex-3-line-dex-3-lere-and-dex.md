@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2024-12-01T22:02:03.393Z
-updated: 2024-12-08T20:05:30.056Z
+date: 2024-12-09T21:53:30.395Z
+updated: 2024-12-14T23:33:27.435Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,18 +99,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-video-chatting-tools-for-remote-team-interactions-for-2024/"><u>[New] Best Video Chatting Tools for Remote Team Interactions for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-efficient-path-to-time-stamped-image-documentation/"><u>[New] In 2024, The Efficient Path to Time-Stamped Image Documentation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-dissecting-youtubes-activities-post-uploading-videos/"><u>[Updated] 2024 Approved Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-switching-picture-in-picture-on-macios-effortlessly/"><u>[Updated] Switching Picture-in-Picture on Mac/iOS Effortlessly</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1732515666672-yl-computing-yl-software/"><u>探究武则天作为“女杰”至高点：一个创新者和统治者的故事 - YL Computing | YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-steps-to-set-up-latest-apps-on-your-pc-with-windows-10-a-guide-by-yl-tech-solutions/"><u>Easy Steps to Set Up Latest Apps on Your PC with Windows 10 - A Guide by YL Tech Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/hd-naruto-wallpapers-set-download-ultra-high-definition-imagery-by-yl-studios/"><u>HD Naruto Wallpapers Set Download - Ultra-High Definition Imagery by YL Studios</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-regularly-should-you-tidy-your-system-insights-from-yl-software-expertise/"><u>How Regularly Should You Tidy Your System? Insights From YL Software Expertise</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-speech-to-text-magic-free-edition/"><u>In 2024, Speech-to-Text Magic Free Edition</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-eliminating-malware-from-your-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Eliminating Malware From Your PC - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ucretsiz-indirme-ile-movaviden-video-altyapilarina-donus-turdur-turist-haftasi-konverteri/"><u>Ücretsiz Indirme Ile Movavi'den Video Altyapılarına Dönüş Türdür - Turist Haftası Konverteri</u></a></li>
-<li><a href="https://win-webster.techidaily.com/yl-software-guide-streamlining-your-system-by-deleting-superfluous-programs/"><u>YL Software Guide: Streamlining Your System by Deleting Superfluous Programs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-content-youtube-to-dailymotion-shift-for-2024/"><u>[Updated] Streamline Your Content YouTube to Dailymotion Shift for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>2024 Approved The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/alternative-methods-for-full-screen-recording-on-windows-nx-11-excluding-xbox-game-bar-tools/"><u>Alternative Methods for Full-Screen Recording on Windows nX 11 Excluding Xbox Game Bar Tools</u></a></li>
+<li><a href="https://win-webster.techidaily.com/chinas-strategic-response-during-the-1950-1953-korean-conflict-insights-from-yl-computing-and-yl-software/"><u>China's Strategic Response During the 1950-1953 Korean Conflict: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-13-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 13 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957695826-get-the-most-up-to-date-realtek-card-software-for-windows-10-free/"><u>Get the Most Up-to-Date Realtek Card Software for Windows 10 Free!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-can-older-video-card-drivers-impact-system-speed-and-efficiency-exploring-the-truth-with-yl-solutions/"><u>How Can Older Video Card Drivers Impact System Speed and Efficiency? - Exploring the Truth with YL Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-rainbow-six-sieges-server-linkage-hurdles/"><u>Mastering the Fix for Rainbow Six Siege's Server Linkage Hurdles</u></a></li>
+<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>New In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://win-webster.techidaily.com/transition-your-settings-a-simple-guide-for-upgrading-from-older-windows-editions-to-windows-11-advice-from-yl-software/"><u>Transition Your Settings: A Simple Guide for Upgrading From Older Windows Editions to Windows 11 – Advice From YL Software</u></a></li>
 </ul></div>
 
