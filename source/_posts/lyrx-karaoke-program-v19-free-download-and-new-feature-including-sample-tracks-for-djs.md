@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Program v1.9: Free Download & New Feature - Including Sample Tracks for DJs"
-date: 2024-12-12T23:24:08.406Z
-updated: 2024-12-15T00:07:49.566Z
+date: 2024-12-22T00:38:30.546Z
+updated: 2024-12-24T09:14:59.998Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,14 +73,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/209636294-9781633411142-astrology-for-real-life/"><u>Astrology for Real Life | Free Book</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-can-older-video-card-drivers-impact-system-speed-and-efficiency-exploring-the-truth-with-yl-solutions/"><u>How Can Older Video Card Drivers Impact System Speed and Efficiency? - Exploring the Truth with YL Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-asus-rog-phone-7-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Asus ROG Phone 7 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-top-notch-video-editing-and-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Notch Video Editing and Virtual Webcam Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
-<li><a href="https://win-webster.techidaily.com/setting-up-correct-file-access-rights-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Correct File Access Rights: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-adjusting-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-glow-up-the-best-three-highlight-ideas/"><u>[Updated] 2024 Approved Instagram Glow Up The Best Three Highlight Ideas</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-snapchat-flipping-videos-backwards/"><u>[Updated] In 2024, Mastering Snapchat Flipping Videos Backwards</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-clips-to-tunes-explained-in-detail-for-2024/"><u>[Updated] Instagram Clips to Tunes Explained in Detail for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/detailed-insights-into-access-points-working-mechanism-unveiled-with-yl-software-expertise/"><u>Detailed Insights Into Access Points: Working Mechanism Unveiled with YL Software Expertise</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exploring-the-transformative-effects-of-the-sino-japanese-war-on-chinas-development-with-insights-from-yl-technology-solutions/"><u>Exploring the Transformative Effects of the Sino-Japanese War on China's Development with Insights From YL Technology Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-the-upgrade-your-ultimate-guide-to-downloading-ios-18-on-supported-iphones-exclusive-info-from-zdnet/"><u>Get Ready for the Upgrade! Your Ultimate Guide to Downloading IOS 18 on Supported iPhones - Exclusive Info From ZDNET</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-bmw-i8-convertible-desktop-scenery-premium-walls-and-screensavers-download-now-from-yl-tech-solutions/"><u>High-Definition BMW I8 Convertible Desktop Scenery: Premium Walls & Screensavers - Download Now From YL Tech Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/impact-of-mongol-conquest-on-traditional-chinese-cultural-practices-insights-by-yl-computing/"><u>Impact of Mongol Conquest on Traditional Chinese Cultural Practices - Insights by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlock-audio-content-in-vimeo-using-mp3-technology/"><u>In 2024, Unlock Audio Content in Vimeo Using MP3 Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-logitech-c525-webcam-driver-on-a-windows-pc/"><u>Installing the Latest Logitech C525 Webcam Driver on a Windows PC</u></a></li>
+<li><a href="https://win-webster.techidaily.com/premium-sports-backgrounds-imagery-and-digital-artwork-for-enthusiasts-powered-by-yl-software-solutions/"><u>Premium Sports Backgrounds, Imagery and Digital Artwork for Enthusiasts - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-setting-up-new-user-profiles-via-windows-control-panel-insights-by-yl-computing/"><u>Step-by-Step Guide: Setting Up New User Profiles via Windows Control Panel - Insights by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-slow-internet-speeds-insights-from-yl-computings-expert-guide/"><u>Troubleshooting Slow Internet Speeds: Insights From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-the-hottest-youtube-music-playback-vids-2023/"><u>Unboxing the Hottest YouTube Music Playback Vids, 2023</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unleash-your-mixing-potential-secure-your-official-pcdj-dex-software-update-v31020-today/"><u>Unleash Your Mixing Potential: Secure Your Official PCDJ DEX Software Update v3.10.2.0 Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-immersion-the-lg-360-virtual-reality-experience-for-2024/"><u>Unveiling Immersion The LG 360 Virtual Reality Experience for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Join the Gala! Support Night To Shine with PCDJ & Party Tyme's Exclusive Event
-date: 2024-12-11T10:00:32.795Z
-updated: 2024-12-15T11:05:18.056Z
+date: 2024-12-20T18:44:54.335Z
+updated: 2024-12-24T06:33:33.705Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Here are a few pictures they shared with us from the event:
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?fit=1030%2C687&ssl=1 "blog1")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?fit=1030%2C687&ssl=1 "blog2")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762%5F2877084325672602%5F3631167855451439104%5Fo.jpg?fit=768%2C960&ssl=1 "84437762_2877084325672602_3631167855451439104_o")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924%5F2877919342255767%5F1686493271838162944%5Fo.jpg?fit=960%2C957&ssl=1 "84716924_2877919342255767_1686493271838162944_o")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579%5F2878081612239540%5F2710465826560933888%5Fo.jpg?fit=768%2C960&ssl=1 "84996579_2878081612239540_2710465826560933888_o")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,21 +48,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-how-to-control-speed-of-instagram-videos-effortlessly-for-2024/"><u>[New] How To Control Speed of Instagram Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-hero-5-black-evaluated-against-nikkors-km-170/"><u>[Updated] In 2024, HERO 5 Black Evaluated Against Nikkor's KM-170</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-video-conferencing-on-chrome-os/"><u>[Updated] Streamlining Video Conferencing on Chrome OS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mystic-mastery-in-minimalist-photo-manipulations/"><u>2024 Approved Mystic Mastery in Minimalist Photo Manipulations</u></a></li>
-<li><a href="https://win-webster.techidaily.com/backup-beats-on-the-go-mastering-mobile-phones-and-ipads-for-unplanned-pcdj-performances/"><u>Backup Beats on the Go: Mastering Mobile Phones and iPads for Unplanned PCDJ Performances</u></a></li>
-<li><a href="https://win-webster.techidaily.com/comprehensive-guide-understanding-the-various-cybersecurity-dangers-blocked-by-microsoft-defender-insights-from-yl-computing/"><u>Comprehensive Guide: Understanding the Various Cybersecurity Dangers Blocked by Microsoft Defender - Insights From YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/conceptualists-engineering-marvel-online-worlds/"><u>Conceptualists Engineering Marvel Online Worlds</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-the-luminous-durable-apple-watch-sport-band-from-nomad-the-ultimate-guide/"><u>Experience the Luminous, Durable Apple Watch Sport Band From Nomad – The Ultimate Guide!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/handling-recurrent-hardware-lockups-in-your-pc-with-tips-from-yl-software-solutions/"><u>Handling Recurrent Hardware Lockups in Your PC with Tips From YL Software Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-s24plus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy S24+ Phone Now with These Tips</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-pcs-bluish-nightmares-comprehensive-guide-by-yl-computing/"><u>Resolving PC's Bluish Nightmares: Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/serene-strums-and-dance-steps-tiktoks-country-playlist-for-2024/"><u>Serene Strums and Dance Steps TikTok's Country Playlist for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-solution-for-addressing-wobbly-interior-hardware-connections-by-yl-computing/"><u>Step-by-Step Solution for Addressing Wobbly Interior Hardware Connections by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-adjusting-display-preferences-in-microsoft-windows-with-help-from-yl-computing/"><u>Step-by-Step Tutorial: Adjusting Display Preferences in Microsoft Windows with Help From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unveiling-the-power-of-yl-web-scraper-seamless-harvesting-of-twitter-information-the-innovation-from-yl-computing/"><u>Unveiling the Power of YL Web Scraper: Seamless Harvesting of Twitter Information - The Innovation From YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-music-livestream-providers-for-2024/"><u>[New] Top Music Livestream Providers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximize-marketing-magic-ranking-of-8-facebook-friendly-apps-for-2024/"><u>[Updated] Maximize Marketing Magic Ranking of 8 Facebook-Friendly Apps for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-best-practices-for-storing-your-digital-coins-safely-with-yl-computing-expert-advice/"><u>1. Best Practices for Storing Your Digital Coins Safely with YL Computing - Expert Advice</u></a></li>
+<li><a href="https://win-webster.techidaily.com/challenges-in-upgrading-your-system-how-outdated-hardware-affects-performance-insights-by-yl-computing/"><u>Challenges in Upgrading Your System: How Outdated Hardware Affects Performance - Insights by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-guide-setting-up-parental-controls-via-control-panel-tips-from-yl-software-solutions/"><u>Easy Guide: Setting Up Parental Controls via Control Panel - Tips From YL Software Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-the-misery-of-dragons-dogma-2-collapsing-on-windows-optimization-techniques-revealed/"><u>End the Misery of Dragon's Dogma 2 Collapsing on Windows - Optimization Techniques Revealed</u></a></li>
+<li><a href="https://win-top.techidaily.com/guia-para-liberar-espacio-borrando-copias-completas-de-respaldo-en-windows-11/"><u>Guía Para Liberar Espacio Borrando Copias Completas De Respaldo en Windows 11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-can-i-verify-scanner-os-compatibility-a-comprehensive-guide-by-yl-computing/"><u>How Can I Verify Scanner OS Compatibility? A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-turning-video-tutorials-into-virtual-income/"><u>In 2024, Turning Video Tutorials Into Virtual Income</u></a></li>
+<li><a href="https://win-webster.techidaily.com/quick-solutions-accelerate-your-pc-with-ease-insights-from-yl-computing-and-software/"><u>Quick Solutions: Accelerate Your PC with Ease – Insights From YL Computing & Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revisiting-the-classics-the-samsung-galaxy-tab-s3-review/"><u>Revisiting the Classics: The Samsung Galaxy Tab S3 Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-your-video-experience-with-advanced-vlc-techniques-macos/"><u>Streamline Your Video Experience with Advanced VLC Techniques (macOS)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/the-top-internet-browsers-of-2023-insights-from-yl-computings-expert-analysis/"><u>The Top Internet Browsers of 2023: Insights From YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://win-webster.techidaily.com/the-ultimate-guide-to-fixing-pcs-unresponsive-disk-drive-recognition-solutions-by-yl-software-experts/"><u>The Ultimate Guide to Fixing PC's Unresponsive Disk Drive Recognition - Solutions by YL Software Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-picks-unmissable-black-friday-bargains-on-tribit-sound-gear/"><u>Top Picks: Unmissable Black Friday Bargains on Tribit Sound Gear</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unleash-your-creativity-with-ava-sharpe-designs-professional-imagery-and-digital-wallpaper-by-yl-software/"><u>Unleash Your Creativity with Ava Sharpe Designs: Professional Imagery and Digital Wallpaper by YL Software</u></a></li>
 </ul></div>
 

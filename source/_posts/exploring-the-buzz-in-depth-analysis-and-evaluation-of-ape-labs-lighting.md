@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Buzz: In-Depth Analysis & Evaluation of Ape Labs Lighting"
-date: 2024-12-14T02:41:28.905Z
-updated: 2024-12-14T20:29:56.782Z
+date: 2024-12-22T16:49:35.991Z
+updated: 2024-12-24T11:10:49.877Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ This small company is disrupting the professional lighting industry in six major
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #1 – They are made in Germany, not China.
@@ -35,10 +35,6 @@ This small company is disrupting the professional lighting industry in six major
 While China is known as a world-wide manufacturing powerhouse, they aren’t exactly known for producing quality products. Germany, on the other hand, is known for percision engineering and quality merchandise.
 
 [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) started producing wireless, battery powered LED lights in 2008\. Originally, they were made in China (like all of the other popular lighting brands). However, they moved the entire manufacturing operation to their home country of Germany in 2015 after several different Chinese factories failed to produce to German standards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## #2 – Their Sound Active Feature is Mesmerizing.
 
@@ -53,7 +49,7 @@ Also, the sound active feature can be set so all Ape Labs products are triggered
 **Check out this clip which is displaying (10) ApeStick 4’s and (4) LightCan’s:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #3 – They Take Wireless Control & Battery Power to the Next Level.
@@ -67,7 +63,7 @@ Ape Labs fixtures all use the same softare and comminute with eachother. This me
 **And this battery life test:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #4 – Eveything is Simple & Easy.
@@ -84,15 +80,19 @@ EXPAND IMAGE
 
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #5 – Size & Weight.
 
 All [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products are extremely small and light-weight. The most popular Ape Labs product in the world is the LightCan, which is exactly the size of a RedBull can.
 
 The most popular Ape Labs product in the USA is their traditional uplight called the ApeLight Maxi. This unit is 3.3lbs. A case of six is only 34lbs, including the weight of the charging case. **To put that into perspective, check out this video:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## #6 – 3-Year Warranty, European Build Quality, but Same Pricing.
 
@@ -135,14 +135,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/fixed-crackdown-3-crashing-issues-on-pc/"><u>[Fixed] Crackdown 3 Crashing Issues on PC</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>[Updated] 2024 Approved Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1732513921365-yl-software/"><u>在武则天的时代，有多少政令违背其初心？ YL Software的专业解构</u></a></li>
-<li><a href="https://win-webster.techidaily.com/elegant-gold-digital-artwork-for-screens-professional-image-collection-from-yl-software/"><u>Elegant Gold Digital Artwork for Screens: Professional Image Collection From YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-absent-media-device-driver-issue/"><u>How to Resolve the Absent Media Device Driver Issue</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-fcpx-skin-smoother-a-comprehensive-guide/"><u>New The Ultimate FCPX Skin Smoother A Comprehensive Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unlock-greater-sound-quality-expert-guide-to-boosting-your-sound-cards-performance-with-yl-software-solutions/"><u>Unlock Greater Sound Quality: Expert Guide to Boosting Your Sound Card's Performance with YL Software Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unveiling-hidden-threats-how-to-identify-viruses-and-malware-in-your-computer-system-tips-from-yl-software-experts/"><u>Unveiling Hidden Threats: How to Identify Viruses & Malware in Your Computer System - Tips From YL Software Experts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-user-experience-combining-instagram-and-facebook/"><u>[New] 2024 Approved Enhancing User Experience Combining Instagram & Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-choose-right-gopro-hero5-vs-garmin-virb-updated-22/"><u>[New] In 2024, Choose Right GoPro Hero5 Vs. Garmin VIRB (Updated '22)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-unable-to-contact-your-dhcp-server/"><u>[SOLVED] Unable to Contact Your DHCP Server</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>2024 Approved Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-your-pcs-efficiency-advanced-techniques-by-yl-computing/"><u>Boost Your PC's Efficiency: Advanced Techniques by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensible-guide-restoring-synapse-control-in-pcs/"><u>Comprehensible Guide: Restoring Synapse Control in PCs</u></a></li>
+<li><a href="https://win-webster.techidaily.com/investors-guide-to-selecting-the-optimal-digital-coin-in-todays-market-expert-advice-from-yl-software/"><u>Investor's Guide to Selecting the Optimal Digital Coin in Today’s Market - Expert Advice From YL Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-best-free-dvd-player-for-windows-10-top-10-list/"><u>New Discover the Best Free DVD Player for Windows 10 Top 10 List</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-compromised-system-journals-expert-insights-from-yl-software/"><u>Resolving Compromised System Journals: Expert Insights From YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/secure-storage-strategies-for-your-digital-assets-a-guide-by-yl-computing/"><u>Secure Storage Strategies for Your Digital Assets: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-guide-setting-up-the-ultimate-grindhouse-wizard-addon-in-kodi-mastering-nexus-matrix-and-leia-configurations/"><u>Step-by-Step Guide: Setting Up the Ultimate Grindhouse Wizard Addon in Kodi - Mastering Nexus, Matrix & Leia Configurations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-evolution-of-a-franchise-in-depth-review-of-the-refreshed-ratchet-and-clank/"><u>The Evolution of a Franchise: In-Depth Review of the Refreshed Ratchet & Clank</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-videos-comprehensive-guide-to-video-enhancer-22-for-2024/"><u>Transform Your Videos Comprehensive Guide to Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-resolving-microphone-issues-on-windows-tips-from-yl-computing/"><u>Troubleshooting Guide: Resolving Microphone Issues on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-your-pcs-security-verifying-windows-defender-protection/"><u>Understanding Your PC's Security: Verifying Windows Defender Protection</u></a></li>
+<li><a href="https://win-webster.techidaily.com/verifying-your-graphics-cards-compatibility-with-windows-a-step-by-step-guide-yl-tech-solutions/"><u>Verifying Your Graphics Card's Compatibility With Windows: A Step-by-Step Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/warranty-guide-identifying-eligible-hardware-defects-for-coverage-insights-from-yl-computing-and-yl-software/"><u>Warranty Guide: Identifying Eligible Hardware Defects for Coverage - Insights From YL Computing and YL Software.</u></a></li>
+<li><a href="https://win-webster.techidaily.com/why-does-my-machine-keep-locking-up-solutions-and-analysis-by-yl-software-professionals/"><u>Why Does My Machine Keep Locking Up? Solutions & Analysis by YL Software Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/window-communication-apps-5-1-top-8-list-for-2024/"><u>Window Communication Apps #5-#1 Top 8 List for 2024</u></a></li>
 </ul></div>
 

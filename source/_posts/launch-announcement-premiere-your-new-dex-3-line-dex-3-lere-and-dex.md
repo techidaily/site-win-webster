@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2024-12-09T21:53:30.395Z
-updated: 2024-12-14T23:33:27.435Z
+date: 2024-12-20T09:06:18.662Z
+updated: 2024-12-23T21:19:30.994Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,16 +99,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-content-youtube-to-dailymotion-shift-for-2024/"><u>[Updated] Streamline Your Content YouTube to Dailymotion Shift for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>2024 Approved The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/alternative-methods-for-full-screen-recording-on-windows-nx-11-excluding-xbox-game-bar-tools/"><u>Alternative Methods for Full-Screen Recording on Windows nX 11 Excluding Xbox Game Bar Tools</u></a></li>
-<li><a href="https://win-webster.techidaily.com/chinas-strategic-response-during-the-1950-1953-korean-conflict-insights-from-yl-computing-and-yl-software/"><u>China's Strategic Response During the 1950-1953 Korean Conflict: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-13-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 13 to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722957695826-get-the-most-up-to-date-realtek-card-software-for-windows-10-free/"><u>Get the Most Up-to-Date Realtek Card Software for Windows 10 Free!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-can-older-video-card-drivers-impact-system-speed-and-efficiency-exploring-the-truth-with-yl-solutions/"><u>How Can Older Video Card Drivers Impact System Speed and Efficiency? - Exploring the Truth with YL Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-rainbow-six-sieges-server-linkage-hurdles/"><u>Mastering the Fix for Rainbow Six Siege's Server Linkage Hurdles</u></a></li>
-<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>New In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://win-webster.techidaily.com/transition-your-settings-a-simple-guide-for-upgrading-from-older-windows-editions-to-windows-11-advice-from-yl-software/"><u>Transition Your Settings: A Simple Guide for Upgrading From Older Windows Editions to Windows 11 – Advice From YL Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-avoid-unwanted-interrucier-top-7-selective-android-adblockers-reviewed-for-2024/"><u>[New] Avoid Unwanted Interrucier Top 7 Selective Android AdBlockers Reviewed for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unparalleled-8-webcams-elevate-your-livestream-experience/"><u>[Updated] 2024 Approved Unparalleled 8 Webcams Elevate Your Livestream Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-finding-the-right-mic-a-guide-for-multifaceted-yt-channels/"><u>[Updated] Finding the Right Mic A Guide for Multifaceted YT Channels</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95689312-9781440515286-angel-miracles/"><u>Angel Miracles | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-5-autoclickers-for-android-no-root-required/"><u>Discover the Leading 5 Autoclickers for Android: No Root Required</u></a></li>
+<li><a href="https://win-webster.techidaily.com/explore-the-world-of-djing-free-live-webinar-and-chat-session-master-your-mixes-with-jammtext-thursday-october-27th-at-8pm-est-on-facebook/"><u>Explore the World of DJing: Free Live Webinar & Chat Session - 'Master Your Mixes' With JammText | Thursday, October 27Th at 8PM EST on Facebook</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fix-your-graphics-card-drivers-easily-with-yl-computings-expert-advice/"><u>Fix Your Graphics Card Drivers Easily with YL Computing's Expert Advice!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/golds-resilience-underpinned-by-hedge-demand-despite-short-term-pressures-analysis-by-yl-software/"><u>Gold's Resilience Underpinned by Hedge Demand Despite Short-Term Pressures, Analysis by YL Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/illustration-insights-elevating-text-in-three-dimensions/"><u>Illustration Insights Elevating Text in Three Dimensions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-7frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 7FRP Lock</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-it-time-to-upgrade-your-graphics-card-insights-from-yl-computing-and-yl-software/"><u>Is It Time to Upgrade Your Graphics Card? Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximize-screen-size-for-youtube-videos/"><u>Maximize Screen Size for YouTube Videos</u></a></li>
+<li><a href="https://win-webster.techidaily.com/optimizing-your-computers-capacity-advanced-techniques-from-yl-computing/"><u>Optimizing Your Computer's Capacity - Advanced Techniques From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-ram-checklist-proven-strategies-from-yl-experts-to-test-your-computers-memory/"><u>Ultimate RAM Checklist: Proven Strategies From YL Experts to Test Your Computer’s Memory</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-windows-security-features-in-windows-11-an-overview-by-yl-computing/"><u>Understanding Windows Security Features in Windows 11: An Overview by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unseen-drives-solving-the-mystery-of-missing-hard-drives-in-windows-insights-by-yl-computing/"><u>Unseen Drives: Solving the Mystery of Missing Hard Drives in Windows - Insights by YL Computing</u></a></li>
 </ul></div>
 

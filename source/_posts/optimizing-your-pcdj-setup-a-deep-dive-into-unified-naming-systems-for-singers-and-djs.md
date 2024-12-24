@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your PCDJ Setup: A Deep Dive Into Unified Naming Systems for Singers & DJs"
-date: 2024-12-12T22:50:50.661Z
-updated: 2024-12-15T07:37:49.244Z
+date: 2024-12-21T17:39:43.877Z
+updated: 2024-12-24T08:26:16.782Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,14 +51,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quick-and-easy-guide-to-exquisite-collage-artistry/"><u>[New] Quick & Easy Guide to Exquisite Collage Artistry</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-broadcast-repeat-looping-youtube-video-magic-for-your-setup/"><u>[Updated] Broadcast Repeat Looping YouTube Video Magic for Your Setup</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-does-recording-your-viewed-youtube-content-violate-laws/"><u>[Updated] Does Recording Your Viewed YouTube Content Violate Laws?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavioggflac/"><u>「音質を上げるためのフリーコネクト: MovaviでOGG形式をFLACに簡単変換する方法」</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1732513825402-yl/"><u>发起者是谁？深入研究新时代民主革命—YL计算与软件产品介绍</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easy-guide-successfully-watching-dvd-movies-on-your-samsung-smart-television/"><u>Easy Guide: Successfully Watching DVD Movies on Your Samsung Smart Television</u></a></li>
-<li><a href="https://win-webster.techidaily.com/lyrx-karaoke-and-djing-app-for-mac-users-a-comprehensive-guide-2018/"><u>LYRX Karaoke & DJing App for Mac Users: A Comprehensive Guide (2018)</u></a></li>
-<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-solving-internal-cooling-system-issues-with-yl-computings-expert-advice/"><u>Troubleshooting Guide: Solving Internal Cooling System Issues with YL Computing's Expert Advice</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-why-your-computer-ignores-usb-connected-gadgets-with-expert-insights-from-yl-software/"><u>Understanding Why Your Computer Ignores USB-Connected Gadgets with Expert Insights From YL Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-embrace-evolution-from-paper-originals-to-digital-archives/"><u>[New] Embrace Evolution From Paper Originals to Digital Archives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-performers-top-10-innovative-4k-mirrorless-models/"><u>[Updated] Best Performers Top 10 Innovative 4K Mirrorless Models</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-list-10-text-effects-to-elevate-your-clips-for-2024/"><u>[Updated] The Ultimate List 10 Text Effects to Elevate Your Clips for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-from-novice-to-expert-a-compreenhensive-fcp-guide/"><u>2024 Approved From Novice to Expert A Compreenhensive FCP Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uniting-visuals-the-desktop-and-web-way/"><u>2024 Approved Uniting Visuals The Desktop & Web Way</u></a></li>
+<li><a href="https://article-tips.techidaily.com/compiling-ultimate-list-of-virtual-controls/"><u>Compiling Ultimate List of Virtual Controls</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-conceal-specific-features-within-your-admin-dashboard-insights-from-yl-computings-expertise/"><u>How to Conceal Specific Features Within Your Admin Dashboard - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-automatic-hibernation-keeping-your-computer-alert-and-active/"><u>No More Automatic Hibernation: Keeping Your Computer Alert and Active</u></a></li>
+<li><a href="https://win-webster.techidaily.com/setting-up-correct-file-access-rights-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Correct File Access Rights: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-adjusting-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-registry-cleaner-tools-a-comprehensive-guide-by-yl-computing/"><u>Top-Rated Registry Cleaner Tools: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-mp4-en-m4p-facilement-et-sans-frais-avec-movavicom/"><u>Transformez Votre Fichier MP4 en M4P Facilement Et Sans Frais Avec Movavi.com</u></a></li>
 </ul></div>
 
