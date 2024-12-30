@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2024-12-17T18:49:50.012Z
-updated: 2024-12-23T16:46:54.161Z
+date: 2024-12-26T18:39:06.534Z
+updated: 2024-12-30T01:51:36.470Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
@@ -100,7 +100,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -122,21 +122,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/levate-your-youtube-presence-with-studio-insights-for-2024/"><u>[New] Elevate Your YouTube Presence with Studio Insights for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[Updated] In 2024, TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-liberate-your-listening-experience-with-pazera-the-2024-review/"><u>[Updated] Liberate Your Listening Experience with Pazera The 2024 Review</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-unraveling-the-mystery-persistent-disconnection-issues-with-your-scanner-insights-from-yl-computing/"><u>1. Unraveling the Mystery: Persistent Disconnection Issues with Your Scanner - Insights From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/adjusting-screen-resolution-a-step-by-step-guide-tech-tips-by-yl-computing/"><u>Adjusting Screen Resolution: A Step-by-Step Guide - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
-<li><a href="https://win-webster.techidaily.com/can-you-tailor-your-own-windows-control-panel-settings-in-depth-guide-by-yl-computing/"><u>Can You Tailor Your Own Windows Control Panel Settings? - In-Depth Guide by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/customizing-your-pcs-display-with-windows-11-settings-expert-advice-from-digitalsolutions/"><u>Customizing Your PC's Display with Windows 11 Settings - Expert Advice From DigitalSolutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17e-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17e Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-decisions-critical-points-when-procuring-a-windows-pc/"><u>Navigating Decisions: Critical Points When Procuring a WIndows PC</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-pc-freeze-issues-following-new-graphics-card-upgrade-guidance-by-yl-computing/"><u>Resolving PC Freeze Issues Following New Graphics Card Upgrade - Guidance by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-problem-dealing-with-non-functional-winplusshiftpluss-in-windows-versions-11-and-10/"><u>Solve the Problem: Dealing With Non-Functional Win+Shift+S in Windows Versions 11 & 10</u></a></li>
-<li><a href="https://win-webster.techidaily.com/solving-display-issues-on-windows-pcs-a-comprehamatic-approach-to-updating-graphic-drivers-with-help-from-yl-software/"><u>Solving Display Issues on Windows PCs: A Comprehamatic Approach to Updating Graphic Drivers with Help From YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-magic-6-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor Magic 6 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ultimate-guide-solving-common-issues-with-your-windows-pc-hardware-by-yl-technology-experts/"><u>Ultimate Guide: Solving Common Issues with Your Windows PC Hardware by YL Technology Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-chronology-on-camera-best-practices-for-date-insertion-for-2024/"><u>[New] Chronology on Camera Best Practices for Date Insertion for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-create-a-personalized-internet-joke-today/"><u>[New] Create a Personalized Internet Joke Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>[New] In 2024, Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-harmonizing-youtube-content-with-audio-files/"><u>2024 Approved Harmonizing YouTube Content with Audio Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-ways-to-screen-record-on-android-for-2024/"><u>Best Ways to Screen Record on Android for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-your-pcs-efficiency-on-windows-11-with-these-simple-steps-insights-by-yl-software/"><u>Boost Your PC's Efficiency on Windows 11 with These Simple Steps - Insights by YL Software</u></a></li>
+<li><a href="https://fox-place.techidaily.com/customizing-your-workspace-a-detailed-walkthrough-for-desktop-background-tweaks-in-control-panel-by-yl-software-solutions/"><u>Customizing Your Workspace: A Detailed Walkthrough for Desktop Background Tweaks in Control Panel by YL Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exploring-potential-factors-in-recurrent-online-connectivity-issues-with-insights-from-yl-computing-and-yl-software/"><u>Exploring Potential Factors in Recurrent Online Connectivity Issues with Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-13-ultra-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi 13 Ultra in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/hardware-and-windows-sync-up-verifying-system-compatibility-with-new-devices-tips-from-yl-software-experts/"><u>Hardware and Windows Sync-Up: Verifying System Compatibility with New Devices – Tips From YL Software Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-motherboard-restoration-feasible-for-damaged-laptops-tips-by-yl-computing-professionals/"><u>Is Motherboard Restoration Feasible for Damaged Laptops? Tips by YL Computing Professionals</u></a></li>
+<li><a href="https://win-webster.techidaily.com/professional-karaoke-with-cloud-tech-unleash-a-spectrum-of-hit-songs-the-ultimate-dj-experience/"><u>Professional Karaoke with Cloud Tech: Unleash a Spectrum of Hit Songs - The Ultimate DJ Experience!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-graphics-problems-in-windows-11-a-comprehensive-guide-by-yl-software/"><u>Resolving Graphics Problems in Windows 11: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/solutions-for-when-windows-ignores-your-external-storage-advice-by-yl-software-experts/"><u>Solutions for When Windows Ignores Your External Storage: Advice by YL Software Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-gaming-interruptions-preventing-mid-game-pc-shutdowns-on-various-windows-editions/"><u>Solve Gaming Interruptions: Preventing Mid-Game PC Shutdowns on Various Windows Editions</u></a></li>
 </ul></div>
 

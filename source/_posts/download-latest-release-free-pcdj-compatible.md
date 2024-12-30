@@ -1,7 +1,7 @@
 ---
 title: Download Latest Release - Free PCDJ Compatible
-date: 2024-12-16T17:00:18.794Z
-updated: 2024-12-23T22:21:17.624Z
+date: 2024-12-27T17:16:37.133Z
+updated: 2024-12-29T21:48:10.008Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,17 +69,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>[New] YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-harmonizing-background-sounds-with-film-trailers/"><u>[Updated] 2024 Approved Harmonizing Background Sounds with Film Trailers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevating-your-igtv-presence-with-stunning-covers-for-2024/"><u>[Updated] Elevating Your IGTV Presence with Stunning Covers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>2024 Approved Selecting Superior Free Online SRT Translation Services Tips & Tricks</u></a></li>
-<li><a href="https://win-webster.techidaily.com/boost-your-pcs-efficiency-on-windows-11-with-these-simple-steps-insights-by-yl-software/"><u>Boost Your PC's Efficiency on Windows 11 with These Simple Steps - Insights by YL Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo .</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-moto-g73-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola Moto G73 5G without App | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/professional-karaoke-with-cloud-tech-unleash-a-spectrum-of-hit-songs-the-ultimate-dj-experience/"><u>Professional Karaoke with Cloud Tech: Unleash a Spectrum of Hit Songs - The Ultimate DJ Experience!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-graphics-problems-in-windows-11-a-comprehensive-guide-by-yl-software/"><u>Resolving Graphics Problems in Windows 11: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/solutions-for-when-windows-ignores-your-external-storage-advice-by-yl-software-experts/"><u>Solutions for When Windows Ignores Your External Storage: Advice by YL Software Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/title-ais-role-in-streamlining-healthcare-operations-efficiency-meets-innovation/"><u>Title: AI's Role in Streamlining Healthcare Operations - Efficiency Meets Innovation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[New] The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-boost-connectivity-discover-the-best-5-chrome-tools-for-facebook-videos-for-2024/"><u>[Updated] Boost Connectivity Discover the Best 5 Chrome Tools for Facebook Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-the-pros-screening-your-switch-games/"><u>[Updated] Secrets of the Pros Screening Your Switch Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-download-gif-from-facebook-on-pc-android-and-iphone/"><u>2024 Approved How to Download GIF From Facebook on PC, Android and iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pioneering-scripts-reflecting-diverse-genre-themes/"><u>2024 Approved Pioneering Scripts Reflecting Diverse Genre Themes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/explore-the-world-of-djing-free-live-webinar-and-chat-session-master-your-mixes-with-jammtext-thursday-october-27th-at-8pm-est-on-facebook/"><u>Explore the World of DJing: Free Live Webinar & Chat Session - 'Master Your Mixes' With JammText | Thursday, October 27Th at 8PM EST on Facebook</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fix-your-graphics-card-drivers-easily-with-yl-computings-expert-advice/"><u>Fix Your Graphics Card Drivers Easily with YL Computing's Expert Advice!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-it-time-to-upgrade-your-graphics-card-insights-from-yl-computing-and-yl-software/"><u>Is It Time to Upgrade Your Graphics Card? Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-windows-security-features-in-windows-11-an-overview-by-yl-computing/"><u>Understanding Windows Security Features in Windows 11: An Overview by YL Computing</u></a></li>
 </ul></div>
 
