@@ -1,7 +1,7 @@
 ---
 title: Join the Gala! Support Night To Shine with PCDJ & Party Tyme's Exclusive Event
-date: 2024-12-23T17:41:05.194Z
-updated: 2024-12-29T16:25:41.820Z
+date: 2025-01-02T04:28:45.326Z
+updated: 2025-01-09T06:48:12.389Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Here are a few pictures they shared with us from the event:
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?fit=1030%2C687&ssl=1 "blog1")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?fit=1030%2C687&ssl=1 "blog2")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762%5F2877084325672602%5F3631167855451439104%5Fo.jpg?fit=768%2C960&ssl=1 "84437762_2877084325672602_3631167855451439104_o")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924%5F2877919342255767%5F1686493271838162944%5Fo.jpg?fit=960%2C957&ssl=1 "84716924_2877919342255767_1686493271838162944_o")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579%5F2878081612239540%5F2710465826560933888%5Fo.jpg?fit=768%2C960&ssl=1 "84996579_2878081612239540_2710465826560933888_o")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tailored-instagram-filters-a-step-by-step-process/"><u>[New] 2024 Approved Tailored Instagram Filters A Step-by-Step Process</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-photoshop-curves-decoded-a-beginners-guide/"><u>[Updated] 2024 Approved Photoshop Curves Decoded A Beginner's Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-download-your-favorite-videos-without-limits-for-2024/"><u>[Updated] Download Your Favorite Videos Without Limits for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-understanding-facebooks-new-ranking-system-for-2024/"><u>[Updated] Understanding Facebook's New Ranking System for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-premier-suggestions-top-10-sports-binge-watching-apps-soccer-focus/"><u>2024 Approved Premier Suggestions Top 10 Sports Binge-Watching Apps, Soccer Focus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-13-pro-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 13 Pro for Free</u></a></li>
-<li><a href="https://win-webster.techidaily.com/building-a-successful-cryptocurrency-exchange-with-yl-computings-comprehensive-strategies/"><u>Building a Successful Cryptocurrency Exchange with YL Computing's Comprehensive Strategies</u></a></li>
-<li><a href="https://win-webster.techidaily.com/diagnosing-and-fixing-pc-blue-screens-caused-by-hardware-a-guide-by-yl-software-experts/"><u>Diagnosing and Fixing PC Blue Screens Caused by Hardware - A Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-7-cameras-elevating-interactive-learning-vlogs-and-tutorials-for-2024/"><u>Elite 7 Cameras Elevating Interactive Learning Vlogs & Tutorials for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-aesthetics-customizing-your-windows-11-interface-tips-from-yl-computing/"><u>Mastering Aesthetics: Customizing Your Windows 11 Interface - Tips From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/optimizing-your-computers-performance-essential-tips-yl-solutions/"><u>Optimizing Your Computer's Performance: Essential Tips - YL Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-fixing-the-persistent-error-0x800f020b-after-xerox-software-update-on-windows-computers/"><u>Ultimate Solution: Fixing the Persistent Error 0X800f020b After Xerox Software Update on Windows Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-disabling-and-erasing-your-old-unused-linkedin-profile/"><u>[New] In 2024, Disabling and Erasing Your Old, Unused LinkedIn Profile</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-imagescope-critique-platform/"><u>[Updated] 2024 Approved ImageScope Critique Platform</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-whatsapp-transfers-broadcasting-twitter-videos-with-ease/"><u>[Updated] In 2024, WhatsApp Transfers Broadcasting Twitter Videos with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-summit-twitters-top-10-tweets-for-2024/"><u>[Updated] Social Media Summit Twitter’s Top 10 Tweets for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>2024 Approved Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
+<li><a href="https://win-webster.techidaily.com/captivating-elizabeth-olsen-portraits-for-desktop-and-mobile-professional-wallpapers-from-yl-software/"><u>Captivating Elizabeth Olsen Portraits for Desktop & Mobile - Professional Wallpapers From YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/configuring-network-options-in-yl-software-a-comprehensive-tutorial/"><u>Configuring Network Options in YL Software - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crypto-red-flags-how-to-detect-phony-bingcrypt-schemes/"><u>Crypto Red Flags: How to Detect Phony BingCrypt Schemes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-steps-to-set-up-latest-apps-on-your-pc-with-windows-10-a-guide-by-yl-tech-solutions/"><u>Easy Steps to Set Up Latest Apps on Your PC with Windows 10 - A Guide by YL Tech Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/essential-guide-navigating-and-controlling-device-drivers-via-windows-control-panel-expert-tips-from-yl-computing/"><u>Essential Guide: Navigating and Controlling Device Drivers via Windows Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-s23-ultra-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy S23 Ultra to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/hd-naruto-wallpapers-set-download-ultra-high-definition-imagery-by-yl-studios/"><u>HD Naruto Wallpapers Set Download - Ultra-High Definition Imagery by YL Studios</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-regularly-should-you-tidy-your-system-insights-from-yl-software-expertise/"><u>How Regularly Should You Tidy Your System? Insights From YL Software Expertise</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pova-6-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pova 6 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-video-quirks-a-guide-by-yl-software-on-fixing-artifacts-and-distortions/"><u>Resolving Video Quirks: A Guide by YL Software on Fixing Artifacts and Distortions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-eliminating-malware-from-your-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Eliminating Malware From Your PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmissable-savings-the-ultimate-list-of-active-prime-day-2024-tablet-specials/"><u>Unmissable Savings: The Ultimate List of Active Prime Day 2024 Tablet Specials</u></a></li>
 </ul></div>
 

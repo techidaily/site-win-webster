@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2024-12-22T18:18:06.792Z
-updated: 2024-12-30T01:36:32.862Z
+date: 2025-01-08T00:13:31.561Z
+updated: 2025-01-09T09:12:57.290Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,16 +99,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-h501x4-fpv-quadcopter-unveiled-review-breakdown/"><u>[New] In 2024, H501X4 FPV Quadcopter Unveiled - Review Breakdown</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-commercial-sky-data-haven-for-2024/"><u>[New] Premium Commercial Sky Data Haven for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-visual-vault-techniques-for-capturing-tweets-animated-content-for-2024/"><u>[New] The Visual Vault Techniques for Capturing Tweets’ Animated Content for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1732515666672-yl-computing-yl-software/"><u>探究武则天作为“女杰”至高点：一个创新者和统治者的故事 - YL Computing | YL Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/baldurs-gate-3-wont-launch-here-are-the-steps-for-a-smooth-installation/"><u>Baldur's Gate 3 Won’t Launch? Here Are the Steps for a Smooth Installation!</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-paths-to-iis-explorer-in-windows-web-services/"><u>Direct Paths to IIS Explorer in Windows Web Services</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-steps-to-set-up-latest-apps-on-your-pc-with-windows-10-a-guide-by-yl-tech-solutions/"><u>Easy Steps to Set Up Latest Apps on Your PC with Windows 10 - A Guide by YL Tech Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/hd-naruto-wallpapers-set-download-ultra-high-definition-imagery-by-yl-studios/"><u>HD Naruto Wallpapers Set Download - Ultra-High Definition Imagery by YL Studios</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-icloud-note-management-into-your-linux-system-expert-tips/"><u>Integrating iCloud Note Management Into Your Linux System - Expert Tips</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-eliminating-malware-from-your-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Eliminating Malware From Your PC - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/yl-software-guide-streamlining-your-system-by-deleting-superfluous-programs/"><u>YL Software Guide: Streamlining Your System by Deleting Superfluous Programs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-complete-survey-lightroom-app-unpacked-android/"><u>[New] 2024 Approved Complete Survey Lightroom App Unpacked (Android)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-dive-into-action-footage-selecting-top-notch-cams-addons/"><u>[New] 2024 Approved Dive Into Action Footage Selecting Top-Notch Cams Addons</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-perfect-your-online-storytelling-top-101-tips-for-facebook-biographies/"><u>[New] 2024 Approved Perfect Your Online Storytelling Top 101 Tips for Facebook Biographies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rank-your-download-preferences-with-our-top-5-list-for-2024/"><u>[New] Rank Your Download Preferences with Our Top 5 List for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-seamless-incorporation-of-text-overlays-for-vimeo-films/"><u>[Updated] In 2024, Seamless Incorporation of Text Overlays for Vimeo Films</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-11-os/"><u>無料最高のクローンソフトで Windows 11 にスムーズ移行: セキュアOS 変更ガイド</u></a></li>
+<li><a href="https://win-webster.techidaily.com/achetez-un-transfert-instantane-et-direct-dinformations-entre-ordinateurs-sans-utiliser-le-nuage-2-techniques-essentielles/"><u>Achetez Un Transfert Instantané Et Direct D’Informations Entre Ordinateurs Sans Utiliser Le Nuage : 2 Techniques Essentielles</u></a></li>
+<li><a href="https://win-webster.techidaily.com/come-creare-ed-effettuare-il-configurazione-della-tua-immagine-del-sistema-windows-11-con-facili-soluzioni-passo-passo/"><u>Come Creare Ed Effettuare Il Configurazione Della Tua Immagine Del Sistema Windows 11 Con Facili Soluzioni Passo-Passo</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guida-completa-alla-configurazione-dellesportazione-e-importazione-di-dati/"><u>Guida Completa Alla Configurazione Dell'esportazione E Importazione Di Dati</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-civi-3-disney-100th-anniversary-edition-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Civi 3 Disney 100th Anniversary Edition For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovative-approaches-for-unwavering-viewership-within-limit-for-2024/"><u>Innovative Approaches for Unwavering Viewership (Within Limit) for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/simplified-guide-on-expanding-nvme-storage-via-cloning-and-secure-boot-optimization/"><u>Simplified Guide on Expanding NVMe Storage via Cloning and Secure Boot Optimization</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-why-mcafee-may-erase-your-data-and-how-to-prevent-it/"><u>Understanding Why McAfee May Erase Your Data & How to Prevent It</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-software-similar-to-virtualdub-features-and-pricing/"><u>Updated Video Editing Software Similar to VirtualDub Features and Pricing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/verlorenes-schriftstuck-wiederfinden-vier-strategien-zur-datenwiederherstellung-unter-windows-und-macos/"><u>Verlorenes Schriftstück Wiederfinden: Vier Strategien Zur Datenwiederherstellung Unter Windows Und macOS</u></a></li>
+<li><a href="https://win-webster.techidaily.com/will-backing-up-and-restoring-iphone-erase-my-pictures-find-out-here/"><u>Will Backing Up and Restoring iPhone Erase My Pictures? Find Out Here</u></a></li>
 </ul></div>
 

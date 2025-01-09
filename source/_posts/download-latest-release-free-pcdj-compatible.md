@@ -1,7 +1,7 @@
 ---
 title: Download Latest Release - Free PCDJ Compatible
-date: 2024-12-27T17:16:37.133Z
-updated: 2024-12-29T21:48:10.008Z
+date: 2025-01-05T09:34:14.543Z
+updated: 2025-01-09T01:14:48.042Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,14 +69,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[New] The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-boost-connectivity-discover-the-best-5-chrome-tools-for-facebook-videos-for-2024/"><u>[Updated] Boost Connectivity Discover the Best 5 Chrome Tools for Facebook Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-the-pros-screening-your-switch-games/"><u>[Updated] Secrets of the Pros Screening Your Switch Games</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-download-gif-from-facebook-on-pc-android-and-iphone/"><u>2024 Approved How to Download GIF From Facebook on PC, Android and iPhone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-pioneering-scripts-reflecting-diverse-genre-themes/"><u>2024 Approved Pioneering Scripts Reflecting Diverse Genre Themes</u></a></li>
-<li><a href="https://win-webster.techidaily.com/explore-the-world-of-djing-free-live-webinar-and-chat-session-master-your-mixes-with-jammtext-thursday-october-27th-at-8pm-est-on-facebook/"><u>Explore the World of DJing: Free Live Webinar & Chat Session - 'Master Your Mixes' With JammText | Thursday, October 27Th at 8PM EST on Facebook</u></a></li>
-<li><a href="https://win-webster.techidaily.com/fix-your-graphics-card-drivers-easily-with-yl-computings-expert-advice/"><u>Fix Your Graphics Card Drivers Easily with YL Computing's Expert Advice!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-it-time-to-upgrade-your-graphics-card-insights-from-yl-computing-and-yl-software/"><u>Is It Time to Upgrade Your Graphics Card? Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-windows-security-features-in-windows-11-an-overview-by-yl-computing/"><u>Understanding Windows Security Features in Windows 11: An Overview by YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ableton-live-mastering-volume-dampening/"><u>[New] Ableton Live Mastering Volume Dampening</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-microdrama-writers-guide/"><u>[Updated] In 2024, Microdrama Writers Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>2024 Approved Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-note-12-4g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi Note 12 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/complete-alphabetical-emblem-set-in-stunning-hd-resolution-designed-for-efficiency-by-yl-software-solutions/"><u>Complete Alphabetical Emblem Set in Stunning HD Resolution - Designed for Efficiency by YL Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exploring-the-buzz-in-depth-analysis-and-evaluation-of-ape-labs-lighting/"><u>Exploring the Buzz: In-Depth Analysis & Evaluation of Ape Labs Lighting</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fixing-windows-scanner-drivers-a-comprehensive-guide-yl-computing/"><u>Fixing Windows Scanner Drivers: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-properly-access-a-prx-file-identifying-suitable-programs-for-execution/"><u>How To Properly Access a PRX File: Identifying Suitable Programs for Execution</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-vs-macbook-pro-in-depth-analysis-of-differences/"><u>IPad Pro Vs. MacBook Pro – In-Depth Analysis of Differences</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-issues-with-a-non-functional-gpu-cooling-fan-expert-advice-from-yl-computing/"><u>Resolving Issues with a Non-Functional GPU Cooling Fan: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-hardware-fault-diagnosis-tips-from-experts-at-yl-software/"><u>Step-by-Step Hardware Fault Diagnosis Tips From Experts at YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/yl-software-tutorial-how-to-disable-or-remove-windows-defender-on-your-computer-easily/"><u>YL Software Tutorial: How to Disable or Remove Windows Defender on Your Computer Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Program v1.9: Free Download & New Feature - Including Sample Tracks for DJs"
-date: 2024-12-22T23:57:09.018Z
-updated: 2024-12-30T00:30:49.351Z
+date: 2025-01-01T21:00:30.061Z
+updated: 2025-01-08T19:22:42.049Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,17 +73,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-student-potential-with-instructional-videos/"><u>[New] In 2024, Unlocking Student Potential with Instructional Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-steganography-in-videos-hiding-the-unseen/"><u>[Updated] 2024 Approved Advanced Steganography in Videos Hiding the Unseen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems/"><u>[Updated] Best Practices for Safe, No-Cost VLC Player Download on Apple Systems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-snap-and-save-the-ultimate-list-of-top-8-free-android-recorders/"><u>[Updated] Snap & Save The Ultimate List of Top 8 Free Android Recorders</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-steps-to-monitor-your-printers-ink-supply-a-guide-by-yl-computing/"><u>1. Steps to Monitor Your Printer's Ink Supply: A Guide by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/configuring-computer-hardware-in-the-control-panel-a-detailed-walkthrough-by-yl-software-experts/"><u>Configuring Computer Hardware in the Control Panel – A Detailed Walkthrough by YL Software Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-play-7t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Play 7T Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-most-advanced-screen-recording-tools-on-mac-excluding-bandicam/"><u>In 2024, The Most Advanced Screen Recording Tools on Mac (Excluding Bandicam)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/joining-the-twitter-community-from-scratch/"><u>Joining the Twitter Community From Scratch</u></a></li>
-<li><a href="https://win-webster.techidaily.com/looking-for-a-qa-pro-on-dextrose-3-and-soundcloud-apply-now-exciting-support-role-with-us/"><u>Looking for a QA PRO on Dextrose 3 and SoundCloud? Apply Now - Exciting Support Role with Us!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unveiling-system-settings-easy-steps-to-find-and-use-the-control-panel-with-expert-advice-from-yl-software/"><u>Unveiling System Settings: Easy Steps to Find and Use the Control Panel with Expert Advice From YL Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-hidden-trove-unseen-artifacts-and-auction-secrets-for-2024/"><u>[New] The Hidden Trove - Unseen Artifacts and Auction Secrets for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-google-meet-professionally-free-of-charge/"><u>[Updated] 2024 Approved Navigating Google Meet Professionally, Free of Charge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discover-these-must-try-iphone-vr-titles/"><u>[Updated] Discover These Must-Try iPhone VR Titles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive-for-2024/"><u>[Updated] Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>2024 Approved 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-blizzards-wow-lags-tips-for-a-smooth-gaming-experience/"><u>Beat Blizzard's WoW Lags: Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fixing-your-iphones-app-store-glitches-following-the-latest-ios-15-patch/"><u>Fixing Your iPhone's App Store Glitches Following the Latest iOS 15 Patch</u></a></li>
+<li><a href="https://win-webster.techidaily.com/gratis-prullenbak-makende-instructie-voor-windows-10-en-11/"><u>Gratis Prullenbak Makende Instructie Voor Windows 10 en 11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-sharing-itunes-purchased-tracks-with-your-windowsmac-desktop/"><u>Guide: Sharing iTunes-Purchased Tracks with Your Windows/Mac Desktop</u></a></li>
+<li><a href="https://win-webster.techidaily.com/iphone-itunes/"><u>IPhoneでメッセージバックアップ: ITunes以外の転送方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-task-manager-for-process-control-and-theme-personalization/"><u>Navigating Windows 11'S Task Manager for Process Control and Theme Personalization</u></a></li>
+<li><a href="https://win-webster.techidaily.com/success-story-overcoming-icloud-photo-sync-challenges-with-iphone-ipad-and-desktop-computers/"><u>Success Story: Overcoming iCloud Photo Sync Challenges with iPhone, iPad & Desktop Computers</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-5-best-free-software-applications-for-windows-nx-users-to-download-and-enjoy/"><u>Top 5 Best Free Software Applications for Windows nX Users to Download and Enjoy</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-no-cost-solutions-for-secure-system-images-on-any-version-of-windows/"><u>Top-Rated No-Cost Solutions for Secure System Images on Any Version of Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-multiplayer-mobile-experiences-unite-friends-anywhere/"><u>Ultimate Multiplayer Mobile Experiences: Unite Friends Anywhere</u></a></li>
+<li><a href="https://win-webster.techidaily.com/when-presenting-converted-temperatures-pair-them-with-the-sentence-they-were-found-in-from-the-document-and-denote-them-with-an-asterisk-for-example-origina34/"><u>When Presenting Converted Temperatures, Pair Them with the Sentence They Were Found in From the Document and Denote Them with an Asterisk (). For Example: Original Temperature Mention Within Context - Original: XX°C = YY.Y°C.</u></a></li>
 </ul></div>
 

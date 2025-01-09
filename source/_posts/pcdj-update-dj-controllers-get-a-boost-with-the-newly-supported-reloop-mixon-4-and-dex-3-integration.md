@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2024-12-26T18:39:06.534Z
-updated: 2024-12-30T01:51:36.470Z
+date: 2025-01-03T07:35:12.566Z
+updated: 2025-01-09T01:52:10.241Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
@@ -100,7 +100,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -122,21 +122,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-chronology-on-camera-best-practices-for-date-insertion-for-2024/"><u>[New] Chronology on Camera Best Practices for Date Insertion for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-create-a-personalized-internet-joke-today/"><u>[New] Create a Personalized Internet Joke Today</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>[New] In 2024, Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-harmonizing-youtube-content-with-audio-files/"><u>2024 Approved Harmonizing YouTube Content with Audio Files</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-ways-to-screen-record-on-android-for-2024/"><u>Best Ways to Screen Record on Android for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/boost-your-pcs-efficiency-on-windows-11-with-these-simple-steps-insights-by-yl-software/"><u>Boost Your PC's Efficiency on Windows 11 with These Simple Steps - Insights by YL Software</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-your-workspace-a-detailed-walkthrough-for-desktop-background-tweaks-in-control-panel-by-yl-software-solutions/"><u>Customizing Your Workspace: A Detailed Walkthrough for Desktop Background Tweaks in Control Panel by YL Software Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/exploring-potential-factors-in-recurrent-online-connectivity-issues-with-insights-from-yl-computing-and-yl-software/"><u>Exploring Potential Factors in Recurrent Online Connectivity Issues with Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-xiaomi-13-ultra-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi 13 Ultra in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/hardware-and-windows-sync-up-verifying-system-compatibility-with-new-devices-tips-from-yl-software-experts/"><u>Hardware and Windows Sync-Up: Verifying System Compatibility with New Devices – Tips From YL Software Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-motherboard-restoration-feasible-for-damaged-laptops-tips-by-yl-computing-professionals/"><u>Is Motherboard Restoration Feasible for Damaged Laptops? Tips by YL Computing Professionals</u></a></li>
-<li><a href="https://win-webster.techidaily.com/professional-karaoke-with-cloud-tech-unleash-a-spectrum-of-hit-songs-the-ultimate-dj-experience/"><u>Professional Karaoke with Cloud Tech: Unleash a Spectrum of Hit Songs - The Ultimate DJ Experience!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-graphics-problems-in-windows-11-a-comprehensive-guide-by-yl-software/"><u>Resolving Graphics Problems in Windows 11: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/solutions-for-when-windows-ignores-your-external-storage-advice-by-yl-software-experts/"><u>Solutions for When Windows Ignores Your External Storage: Advice by YL Software Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-gaming-interruptions-preventing-mid-game-pc-shutdowns-on-various-windows-editions/"><u>Solve Gaming Interruptions: Preventing Mid-Game PC Shutdowns on Various Windows Editions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-desactiver-onedrive-efficacement-les-5-meilleures-methodes/"><u>« Comment Désactiver OneDrive Efficacement : Les 5 Meilleures Méthodes »</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>[New] 2024 Approved Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-creating-a-unified-multimedia-experience-on-iphone/"><u>[Updated] 2024 Approved Creating a Unified Multimedia Experience on iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlining-screen-recording/"><u>[Updated] 2024 Approved Streamlining Screen Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ideal-fullscreen-recorder-with-macpc-support/"><u>[Updated] Ideal Fullscreen Recorder with Mac/PC Support</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-creative-edge-in-tiktok-two-effect-adding-methods/"><u>[Updated] In 2024, Creative Edge in TikTok Two Effect-Adding Methods</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-upgrading-with-ease-comprehensive-guide-from-vcenter-67-to-version-70/"><u>1. Upgrading with Ease: Comprehensive Guide From vCenter 6.7 to Version 7.0</u></a></li>
+<li><a href="https://win-webster.techidaily.com/create-your-own-digital-reflections-with-mirrorfolder-app-on-windows-10/"><u>Create Your Own Digital Reflections with MirrorFolder App on Windows 10</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effortless-steps-mastering-ipad-backups-using-itunes-a-comprehensive-manual/"><u>Effortless Steps: Mastering iPad Backups Using iTunes - A Comprehensive Manual</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-s23-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/page-missing-error-404-detected/"><u>Page Missing – Error 404 Detected</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>The Ultimate Link From Insta's Photos to Tik's Videos</u></a></li>
+<li><a href="https://win-webster.techidaily.com/videotransfer-vom-ipad-zu-pc-unter-windows-11-und-10-funf-effektive-tipps-und-tricks/"><u>Videotransfer Vom iPad Zu PC Unter Windows 11 Und 10: Fünf Effektive Tipps Und Tricks</u></a></li>
+<li><a href="https://win-webster.techidaily.com/was-machen-sollst-du-wenn-der-speicher-deines-iphone-allem-fassung-loss-einfache-schritte/"><u>Was Machen Sollst Du, Wenn Der Speicher Deines iPhone Allem Fassung Loss? - Einfache Schritte</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oneplus-12r-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus 12R Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 
