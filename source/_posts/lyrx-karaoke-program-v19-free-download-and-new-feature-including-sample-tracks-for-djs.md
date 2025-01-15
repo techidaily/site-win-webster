@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Program v1.9: Free Download & New Feature - Including Sample Tracks for DJs"
-date: 2025-01-01T21:00:30.061Z
-updated: 2025-01-08T19:22:42.049Z
+date: 2025-01-11T21:13:43.643Z
+updated: 2025-01-15T01:37:30.690Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Updated, and Fixed in LYRX 1.19
@@ -51,7 +51,7 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,22 +73,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-hidden-trove-unseen-artifacts-and-auction-secrets-for-2024/"><u>[New] The Hidden Trove - Unseen Artifacts and Auction Secrets for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-google-meet-professionally-free-of-charge/"><u>[Updated] 2024 Approved Navigating Google Meet Professionally, Free of Charge</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discover-these-must-try-iphone-vr-titles/"><u>[Updated] Discover These Must-Try iPhone VR Titles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive-for-2024/"><u>[Updated] Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>2024 Approved 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-blizzards-wow-lags-tips-for-a-smooth-gaming-experience/"><u>Beat Blizzard's WoW Lags: Tips for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-webster.techidaily.com/fixing-your-iphones-app-store-glitches-following-the-latest-ios-15-patch/"><u>Fixing Your iPhone's App Store Glitches Following the Latest iOS 15 Patch</u></a></li>
-<li><a href="https://win-webster.techidaily.com/gratis-prullenbak-makende-instructie-voor-windows-10-en-11/"><u>Gratis Prullenbak Makende Instructie Voor Windows 10 en 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-sharing-itunes-purchased-tracks-with-your-windowsmac-desktop/"><u>Guide: Sharing iTunes-Purchased Tracks with Your Windows/Mac Desktop</u></a></li>
-<li><a href="https://win-webster.techidaily.com/iphone-itunes/"><u>IPhoneでメッセージバックアップ: ITunes以外の転送方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-task-manager-for-process-control-and-theme-personalization/"><u>Navigating Windows 11'S Task Manager for Process Control and Theme Personalization</u></a></li>
-<li><a href="https://win-webster.techidaily.com/success-story-overcoming-icloud-photo-sync-challenges-with-iphone-ipad-and-desktop-computers/"><u>Success Story: Overcoming iCloud Photo Sync Challenges with iPhone, iPad & Desktop Computers</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-5-best-free-software-applications-for-windows-nx-users-to-download-and-enjoy/"><u>Top 5 Best Free Software Applications for Windows nX Users to Download and Enjoy</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-rated-no-cost-solutions-for-secure-system-images-on-any-version-of-windows/"><u>Top-Rated No-Cost Solutions for Secure System Images on Any Version of Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-multiplayer-mobile-experiences-unite-friends-anywhere/"><u>Ultimate Multiplayer Mobile Experiences: Unite Friends Anywhere</u></a></li>
-<li><a href="https://win-webster.techidaily.com/when-presenting-converted-temperatures-pair-them-with-the-sentence-they-were-found-in-from-the-document-and-denote-them-with-an-asterisk-for-example-origina34/"><u>When Presenting Converted Temperatures, Pair Them with the Sentence They Were Found in From the Document and Denote Them with an Asterisk (). For Example: Original Temperature Mention Within Context - Original: XX°C = YY.Y°C.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>[Updated] 2024 Approved Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastery-in-radio-theatre-craftsm-written/"><u>[Updated] 2024 Approved Mastery in Radio-Theatre Craftsm Written</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>[Updated] Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
+<li><a href="https://common-error.techidaily.com/amd-hd-audio-fix-problem-with-device-connection-resolved/"><u>AMD HD Audio Fix: Problem with Device Connection Resolved</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Media Giants: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/customer-expresses-frustration-with-intels-replacement-policy-allegations-that-recently-acquired-core-i9-cpus-were-fraudulent/"><u>Customer Expresses Frustration with Intel's Replacement Policy - Allegations That Recently Acquired Core I9 CPUs Were Fraudulent</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exploring-the-transformative-effects-of-the-sino-japanese-war-on-chinas-development-with-insights-from-yl-technology-solutions/"><u>Exploring the Transformative Effects of the Sino-Japanese War on China's Development with Insights From YL Technology Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-bmw-i8-convertible-desktop-scenery-premium-walls-and-screensavers-download-now-from-yl-tech-solutions/"><u>High-Definition BMW I8 Convertible Desktop Scenery: Premium Walls & Screensavers - Download Now From YL Tech Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-5-strikers-banish-your-pc-game-crashing-woes-for-an-uninterrupted-adventure/"><u>Persona 5 Strikers - Banish Your PC Game Crashing Woes for an Uninterrupted Adventure</u></a></li>
+<li><a href="https://win-webster.techidaily.com/premium-sports-backgrounds-imagery-and-digital-artwork-for-enthusiasts-powered-by-yl-software-solutions/"><u>Premium Sports Backgrounds, Imagery and Digital Artwork for Enthusiasts - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-slow-internet-speeds-insights-from-yl-computings-expert-guide/"><u>Troubleshooting Slow Internet Speeds: Insights From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unleash-your-mixing-potential-secure-your-official-pcdj-dex-software-update-v31020-today/"><u>Unleash Your Mixing Potential: Secure Your Official PCDJ DEX Software Update v3.10.2.0 Today!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-guide-to-affordable-quality-live-streaming-on-smartphones/"><u>Your Guide to Affordable, Quality Live Streaming on Smartphones</u></a></li>
 </ul></div>
 

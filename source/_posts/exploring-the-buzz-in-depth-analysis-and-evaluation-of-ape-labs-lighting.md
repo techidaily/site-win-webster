@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Buzz: In-Depth Analysis & Evaluation of Ape Labs Lighting"
-date: 2025-01-06T05:55:52.713Z
-updated: 2025-01-09T07:32:20.678Z
+date: 2025-01-07T21:22:32.045Z
+updated: 2025-01-15T01:21:13.625Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ This small company is disrupting the professional lighting industry in six major
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #1 – They are made in Germany, not China.
 
 While China is known as a world-wide manufacturing powerhouse, they aren’t exactly known for producing quality products. Germany, on the other hand, is known for percision engineering and quality merchandise.
@@ -44,10 +48,6 @@ Also, the sound active feature can be set so all Ape Labs products are triggered
 
 **Check out this clip which is displaying (10) ApeStick 4’s and (4) LightCan’s:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #3 – They Take Wireless Control & Battery Power to the Next Level.
 
 The DMX wireless range on [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products is rated at over 3,000 ft. The RF remote control range is rated at over 200 ft. And the battery life of their most popular uplight has been tested to run nearly 15 hours at full power. But that’s not all.
@@ -59,7 +59,7 @@ Ape Labs fixtures all use the same softare and comminute with eachother. This me
 **And this battery life test:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #4 – Eveything is Simple & Easy.
@@ -76,23 +76,11 @@ EXPAND IMAGE
 
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #5 – Size & Weight.
 
 All [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products are extremely small and light-weight. The most popular Ape Labs product in the world is the LightCan, which is exactly the size of a RedBull can.
 
 The most popular Ape Labs product in the USA is their traditional uplight called the ApeLight Maxi. This unit is 3.3lbs. A case of six is only 34lbs, including the weight of the charging case. **To put that into perspective, check out this video:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## #6 – 3-Year Warranty, European Build Quality, but Same Pricing.
 
@@ -102,7 +90,15 @@ Fortunately, [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) prod
 
 [EXPAND IMAGE ![Ape Labs Comparison Chart](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1 "Ape Labs Comparison Chart")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may have noticed that the ApeLight Maxi is listed as “water resistant” but doesn’t actually give an official IP rating in the specs. **To help you understand what they mean by “water resistant”, check out:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More questions? Check out these reviews:
 
@@ -115,6 +111,10 @@ You may have noticed that the ApeLight Maxi is listed as “water resistant” b
 We hope you enjoyed the review and run down on Ape Labs lighting. For more information and to review all Ape Labs products please visit KPODJ by clicking the button below.
 
 [VIEW APE LABS LIGHTING PRODUCTS](https://www.apelabsusa.com/product/maxi#9fb11cfd80)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -135,22 +135,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-revolutionize-tiktok-experience-with-personalized-numbers-for-2024/"><u>[New] Revolutionize TikTok Experience with Personalized Numbers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-microscopic-views-in-microsoft-teams-chat/"><u>[Updated] Mastering the Microscopic Views in Microsoft Teams Chat</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-storm-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Storm 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-c110-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia C110 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/awesome-igtv-channels-that-deliver-quality-content-for-2024/"><u>Awesome IGTV Channels That Deliver Quality Content for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/beyond-traditional-protection-discover-alternative-antivirus-options-from-yl-software/"><u>Beyond Traditional Protection: Discover Alternative Antivirus Options From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/enhance-your-dj-game-on-soundcloud-using-dex-3-mastering-the-art-of-gaining-likes-and-building-traction/"><u>Enhance Your DJ Game on SoundCloud Using DEX 3: Mastering the Art of Gaining Likes and Building Traction</u></a></li>
-<li><a href="https://win-webster.techidaily.com/exploring-the-role-of-control-panel-in-managing-your-windows-10-system-insights-from-yl-software/"><u>Exploring the Role of Control Panel in Managing Your Windows 10 System - Insights From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/high-definition-audi-s8-desktop-wallpaper-collection-premium-visuals-from-yl-software/"><u>High-Definition Audi S8 Desktop Wallpaper Collection: Premium Visuals From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-build-the-ultimate-gaming-rig-key-hardware-choices-explained-by-yl-experts/"><u>How to Build the Ultimate Gaming Rig: Key Hardware Choices Explained by YL Experts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-crypto-security-strategies-to-shield-your-bitcoin-and-altcoins-by-yl-computing/"><u>Mastering Crypto Security: Strategies to Shield Your Bitcoin and Altcoins by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-common-glitches-a-guide-to-fixing-your-iphone-13s-main-issues/"><u>Overcoming Common Glitches: A Guide to Fixing Your iPhone 13'S Main Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pause-the-tech-tussle-siri-vs-chatgpt-clarity/"><u>Pause the Tech Tussle: Siri Vs. ChatGPT Clarity</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-file-backup-techniques-for-your-windows-11-pc-yl-computing-solutions/"><u>Step-by-Step Guide: File Backup Techniques for Your Windows 11 PC - YL Computing Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/stepwise-approach-to-unleash-creativity-with-your-logitech-webcam-for-2024/"><u>Stepwise Approach to Unleash Creativity with Your Logitech Webcam for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/tech-sector-sees-software-automation-workforce-surge-up-50-within-next-24-months-predictions-for-future-growth/"><u>Tech Sector Sees Software Automation Workforce Surge up 50% Within Next 24 Months: Predictions for Future Growth</u></a></li>
-<li><a href="https://win-webster.techidaily.com/the-ultimate-techniques-for-hiding-data-in-windows-os-tips-from-yl-software-experts/"><u>The Ultimate Techniques for Hiding Data in Windows OS - Tips From YL Software Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-behind-the-scenes-how-ajey-monetizes-content/"><u>[Updated] 2024 Approved Behind the Scenes How Ajey Monetizes Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-full-screen-recorders-windows-and-macos-version/"><u>[Updated] Best Full-Screen Recorders - Windows & macOS Version</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4/"><u>[Updated] Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-decade-of-innovation-mondlybacks-filter-prowess/"><u>A Decade of Innovation: MondlyBack’s Filter Prowess</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-toy-story-4-wallpapers-ultimate-collection-by-yl-computing/"><u>High-Definition Toy Story 4 Wallpapers: Ultimate Collection by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/improving-pc-speed-is-a-hardware-upgrade-the-right-move-learn-how-with-experts-at-yl-software/"><u>Improving PC Speed: Is a Hardware Upgrade the Right Move? Learn How with Experts at YL Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastery-manual-downloading-hd-videos-on-todays-digital-landscapes-for-2024/"><u>Mastery Manual Downloading HD Videos on Today's Digital Landscapes for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/reconfigure-your-video-cards-settings-to-original-state-in-windows-10-with-help-from-yl-software-experts/"><u>Reconfigure Your Video Card's Settings to Original State in Windows 10 with Help From YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/scam-prevention-essentials-navigating-risks-with-yl-software-a-comprehensive-guide-to-online-safety/"><u>Scam Prevention Essentials: Navigating Risks with YL Software – A Comprehensive Guide to Online Safety</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ated-3d-tools-for-youtube-video-startups-for-2024/"><u>Top-Rated 3D Tools for YouTube Video Startups for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-defenders-active-surveillance-capabilities-unveiled-insights-from-experts-at-yl-software/"><u>Windows Defender's Active Surveillance Capabilities Unveiled – Insights From Experts at YL Software</u></a></li>
 </ul></div>
 

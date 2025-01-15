@@ -1,7 +1,7 @@
 ---
 title: Download Latest Release - Free PCDJ Compatible
-date: 2025-01-05T09:34:14.543Z
-updated: 2025-01-09T01:14:48.042Z
+date: 2025-01-11T21:39:33.478Z
+updated: 2025-01-14T18:06:51.606Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,18 +69,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-ableton-live-mastering-volume-dampening/"><u>[New] Ableton Live Mastering Volume Dampening</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-microdrama-writers-guide/"><u>[Updated] In 2024, Microdrama Writers Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>2024 Approved Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-note-12-4g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi Note 12 4G to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/complete-alphabetical-emblem-set-in-stunning-hd-resolution-designed-for-efficiency-by-yl-software-solutions/"><u>Complete Alphabetical Emblem Set in Stunning HD Resolution - Designed for Efficiency by YL Software Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/exploring-the-buzz-in-depth-analysis-and-evaluation-of-ape-labs-lighting/"><u>Exploring the Buzz: In-Depth Analysis & Evaluation of Ape Labs Lighting</u></a></li>
-<li><a href="https://win-webster.techidaily.com/fixing-windows-scanner-drivers-a-comprehensive-guide-yl-computing/"><u>Fixing Windows Scanner Drivers: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-properly-access-a-prx-file-identifying-suitable-programs-for-execution/"><u>How To Properly Access a PRX File: Identifying Suitable Programs for Execution</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-vs-macbook-pro-in-depth-analysis-of-differences/"><u>IPad Pro Vs. MacBook Pro – In-Depth Analysis of Differences</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-issues-with-a-non-functional-gpu-cooling-fan-expert-advice-from-yl-computing/"><u>Resolving Issues with a Non-Functional GPU Cooling Fan: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-hardware-fault-diagnosis-tips-from-experts-at-yl-software/"><u>Step-by-Step Hardware Fault Diagnosis Tips From Experts at YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/yl-software-tutorial-how-to-disable-or-remove-windows-defender-on-your-computer-easily/"><u>YL Software Tutorial: How to Disable or Remove Windows Defender on Your Computer Easily</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtubes-filmmaking-essentials-plus-invaluable-substitutes/"><u>[New] 2024 Approved YouTube's Filmmaking Essentials + Invaluable Substitutes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-guide-recording-google-meets-securely/"><u>[New] Essential Guide Recording Google Meets Securely</u></a></li>
+<li><a href="https://win-webster.techidaily.com/captivating-central-park-visuals-wallsandwallpapers-from-yl-software-enhance-your-digital-space-now/"><u>Captivating Central Park Visuals, Walls&Wallpapers From YL Software - Enhance Your Digital Space Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-dossiers-decoded-craft-your-signature-bio-with-stars/"><u>Digital Dossiers Decoded Craft Your Signature Bio with Stars</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-resolving-persistent-doom-eternal-crashes-quickly/"><u>Expert Advice: Resolving Persistent DOOM Eternal Crashes Quickly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5with/without a PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-night-mode-functionality-in-windows-11/"><u>How to Restore Night Mode Functionality in Windows 11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/improving-pc-efficiency-should-you-turn-off-specific-applications-insights-from-yl-software-experts/"><u>Improving PC Efficiency: Should You Turn Off Specific Applications? Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/investors-guide-to-selecting-the-optimal-digital-coin-in-todays-market-expert-advice-from-yl-software/"><u>Investor's Guide to Selecting the Optimal Digital Coin in Today’s Market - Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-defense-nightshade-for-authentic-art-preservation/"><u>Mastering AI Defense: Nightshade for Authentic Art Preservation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-free-media-transcoding-service-convert-mp4-avi-and-more-on-the-web/"><u>Movavi's Free Media Transcoding Service: Convert MP4, AVI & More on the Web</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2060-super-fresh-driver-packs-for-enhanced-gaming-on-win-10-and-win-11/"><u>NVIDIA RTX 2060 SUPER - Fresh Driver Packs for Enhanced Gaming on Win 10 & Win 11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-compromised-system-journals-expert-insights-from-yl-software/"><u>Resolving Compromised System Journals: Expert Insights From YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/secure-storage-strategies-for-your-digital-assets-a-guide-by-yl-computing/"><u>Secure Storage Strategies for Your Digital Assets: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/update-your-workspace-easy-desktop-personalization-tricks-for-windows-(span)users-expert-advice-by-yl-computing/"><u>Update Your Workspace: Easy Desktop Personalization Tricks for Windows <Span>Users | Expert Advice by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your PCDJ Setup: A Deep Dive Into Unified Naming Systems for Singers & DJs"
-date: 2025-01-08T08:35:17.814Z
-updated: 2025-01-08T17:54:56.322Z
+date: 2025-01-10T20:09:30.848Z
+updated: 2025-01-14T21:49:01.014Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,22 +51,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-the-finest-chromebook-pencil-stores-you-need-to-know-about-for-2024/"><u>[Updated] The Finest Chromebook Pencil Stores You Need to Know About for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unveiling-the-secret-how-to-disable-youtube-snippet-playback-for-2024/"><u>[Updated] Unveiling the Secret How to Disable YouTube Snippet Playback for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/captivating-central-park-visuals-wallsandwallpapers-from-yl-software-enhance-your-digital-space-now/"><u>Captivating Central Park Visuals, Walls&Wallpapers From YL Software - Enhance Your Digital Space Now!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-charms-of-the-samsung-galaxy-s20-fe-5g-the-next-big-thing-in-5g-technology/"><u>Discovering the Charms of the Samsung Galaxy S20 FE 5G - The Next Big Thing in 5G Technology</u></a></li>
-<li><a href="https://facebook.techidaily.com/engaging-users-the-art-of-a-captivating-timeline/"><u>Engaging Users: The Art of a Captivating Timeline</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/investors-guide-to-selecting-the-optimal-digital-coin-in-todays-market-expert-advice-from-yl-software/"><u>Investor's Guide to Selecting the Optimal Digital Coin in Today’s Market - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-compromised-system-journals-expert-insights-from-yl-software/"><u>Resolving Compromised System Journals: Expert Insights From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/secure-storage-strategies-for-your-digital-assets-a-guide-by-yl-computing/"><u>Secure Storage Strategies for Your Digital Assets: A Guide by YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782772-9781594776984-sex-and-the-intelligence-of-the-heart/"><u>Sex and the Intelligence of the Heart | Free Book</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-truth-behind-guilty-gear-strives-unreleased-status-what-you-need-to-know/"><u>The Truth Behind Guilty Gear Strive's Unreleased Status: What You Need to Know</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-note-13-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi Redmi Note 13 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-your-pcs-security-verifying-windows-defender-protection/"><u>Understanding Your PC's Security: Verifying Windows Defender Protection</u></a></li>
-<li><a href="https://win-webster.techidaily.com/verifying-your-graphics-cards-compatibility-with-windows-a-step-by-step-guide-yl-tech-solutions/"><u>Verifying Your Graphics Card's Compatibility With Windows: A Step-by-Step Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/warranty-guide-identifying-eligible-hardware-defects-for-coverage-insights-from-yl-computing-and-yl-software/"><u>Warranty Guide: Identifying Eligible Hardware Defects for Coverage - Insights From YL Computing and YL Software.</u></a></li>
-<li><a href="https://win-webster.techidaily.com/why-does-my-machine-keep-locking-up-solutions-and-analysis-by-yl-software-professionals/"><u>Why Does My Machine Keep Locking Up? Solutions & Analysis by YL Software Professionals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-simplified-screen-recording-for-gamers/"><u>[New] In 2024, Simplified Screen Recording for Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/antheon-of-youtubes-all-time-highest-views-for-2024/"><u>[New] Pantheon of YouTube's All-Time Highest Views for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-seo-guide-how-to-improve-youtube-videos-rankings/"><u>[Updated] 2024 Approved YouTube SEO Guide How to Improve YouTube Videos Rankings</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728508224028-sd/"><u>消えてしまったSDフォト画像復元の新しい方法三つ - ご利用さき推奨!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/decouvrez-les-createurs-derriere-linnovation-editoriale-chez-aomei-tech-equipe-specialisee-dans-le-savoir-faire-technique/"><u>Découvrez Les Créateurs Derrière L’innovation Éditoriale Chez AOMEI Tech - Équipe Spécialisée Dans Le Savoir-Faire Technique.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/examining-the-range-of-responses-from-pc-brands-to-intels-extended-processor-warranty-consumer-survey-insights/"><u>Examining the Range of Responses From PC Brands to Intel's Extended Processor Warranty – Consumer Survey Insights</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guida-passo-passo-crea-unimmagine-di-ripristino-system-backup-usando-wbadmin-in-windows-10/"><u>Guida Passo-Passo: Crea Un'Immagine Di Ripristino System Backup Usando WBadmin in Windows 10</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-dust-resistivity-can-lead-to-back-corona-effects-reducing-esp-efficiency/"><u>High Dust Resistivity Can Lead to Back Corona Effects, Reducing ESP Efficiency.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-newest-driver-update-for-canon-pixma-mx922-in-windows-108x7/"><u>How to Install the Newest Driver Update for Canon PIXMA MX922 in Windows 10/8.x/7</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-pxe-boot-techniques-an-experts-guide-to-preboot-execution-environment/"><u>Mastering PXE Boot Techniques: An Expert's Guide to Preboot eXecution Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-solution-for-0x80072af9-issue/"><u>Mastering Solution for 0X80072AF9 Issue</u></a></li>
+<li><a href="https://win-webster.techidaily.com/nikon-bildwiederherstellung-verlustierte-aufnahmen-mit-der-nikonsystemkamera-wiederherstellen/"><u>Nikon-Bildwiederherstellung: Verlustierte Aufnahmen Mit Der Nikonsystemkamera Wiederherstellen</u></a></li>
+<li><a href="https://win-webster.techidaily.com/original-filename-retention-feature-in-data-restoration-programs/"><u>Original Filename Retention Feature in Data Restoration Programs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/recover-and-fix-broken-pc-video-games-top-techniques-in-202n4/"><u>Recover and Fix Broken PC Video Games: Top Techniques in 202N4</u></a></li>
+<li><a href="https://win-webster.techidaily.com/reparieren-von-beschadigten-systemdateien-unter-windows-111087/"><u>Reparieren Von Beschädigten Systemdateien Unter Windows 11/10/8/7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shining-a-light-top-photo-illumination-hacks/"><u>Shining a Light Top Photo Illumination Hacks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 

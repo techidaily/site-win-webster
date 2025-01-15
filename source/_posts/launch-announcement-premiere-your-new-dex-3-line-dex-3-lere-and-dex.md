@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2025-01-08T00:13:31.561Z
-updated: 2025-01-09T09:12:57.290Z
+date: 2025-01-09T20:24:14.190Z
+updated: 2025-01-14T20:25:23.413Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,22 +99,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-complete-survey-lightroom-app-unpacked-android/"><u>[New] 2024 Approved Complete Survey Lightroom App Unpacked (Android)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-dive-into-action-footage-selecting-top-notch-cams-addons/"><u>[New] 2024 Approved Dive Into Action Footage Selecting Top-Notch Cams Addons</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-perfect-your-online-storytelling-top-101-tips-for-facebook-biographies/"><u>[New] 2024 Approved Perfect Your Online Storytelling Top 101 Tips for Facebook Biographies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-rank-your-download-preferences-with-our-top-5-list-for-2024/"><u>[New] Rank Your Download Preferences with Our Top 5 List for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-seamless-incorporation-of-text-overlays-for-vimeo-films/"><u>[Updated] In 2024, Seamless Incorporation of Text Overlays for Vimeo Films</u></a></li>
-<li><a href="https://win-webster.techidaily.com/windows-11-os/"><u>無料最高のクローンソフトで Windows 11 にスムーズ移行: セキュアOS 変更ガイド</u></a></li>
-<li><a href="https://win-webster.techidaily.com/achetez-un-transfert-instantane-et-direct-dinformations-entre-ordinateurs-sans-utiliser-le-nuage-2-techniques-essentielles/"><u>Achetez Un Transfert Instantané Et Direct D’Informations Entre Ordinateurs Sans Utiliser Le Nuage : 2 Techniques Essentielles</u></a></li>
-<li><a href="https://win-webster.techidaily.com/come-creare-ed-effettuare-il-configurazione-della-tua-immagine-del-sistema-windows-11-con-facili-soluzioni-passo-passo/"><u>Come Creare Ed Effettuare Il Configurazione Della Tua Immagine Del Sistema Windows 11 Con Facili Soluzioni Passo-Passo</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guida-completa-alla-configurazione-dellesportazione-e-importazione-di-dati/"><u>Guida Completa Alla Configurazione Dell'esportazione E Importazione Di Dati</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-civi-3-disney-100th-anniversary-edition-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Civi 3 Disney 100th Anniversary Edition For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/innovative-approaches-for-unwavering-viewership-within-limit-for-2024/"><u>Innovative Approaches for Unwavering Viewership (Within Limit) for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/simplified-guide-on-expanding-nvme-storage-via-cloning-and-secure-boot-optimization/"><u>Simplified Guide on Expanding NVMe Storage via Cloning and Secure Boot Optimization</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-why-mcafee-may-erase-your-data-and-how-to-prevent-it/"><u>Understanding Why McAfee May Erase Your Data & How to Prevent It</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-software-similar-to-virtualdub-features-and-pricing/"><u>Updated Video Editing Software Similar to VirtualDub Features and Pricing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/verlorenes-schriftstuck-wiederfinden-vier-strategien-zur-datenwiederherstellung-unter-windows-und-macos/"><u>Verlorenes Schriftstück Wiederfinden: Vier Strategien Zur Datenwiederherstellung Unter Windows Und macOS</u></a></li>
-<li><a href="https://win-webster.techidaily.com/will-backing-up-and-restoring-iphone-erase-my-pictures-find-out-here/"><u>Will Backing Up and Restoring iPhone Erase My Pictures? Find Out Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-desktop-tips-for-effortless-video-posts/"><u>[New] 2024 Approved Instagram Desktop Tips for Effortless Video Posts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-insight-triumph-in-transparency-with-3-techniques/"><u>[New] 2024 Approved Instagram Insight Triumph in Transparency with 3 Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-innovative-windows-podcast-solutions-top-8-cutting-edge-apps/"><u>2024 Approved Innovative Windows Podcast Solutions Top 8 Cutting-Edge Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-email-experience-the-ultimate-tutorial-for-using-google-duet-in-gmail/"><u>Enhancing Email Experience: The Ultimate Tutorial for Using Google Duet in Gmail</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-can-older-video-card-drivers-impact-system-speed-and-efficiency-exploring-the-truth-with-yl-solutions/"><u>How Can Older Video Card Drivers Impact System Speed and Efficiency? - Exploring the Truth with YL Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>In 2024, Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/porating-jump-cuts-for-smoother-edits/"><u>Incorporating Jump Cuts for Smoother Edits</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/major-asian-dialects-ranking-triad/"><u>Major Asian Dialects: Ranking Triad</u></a></li>
+<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
+<li><a href="https://win-webster.techidaily.com/setting-up-correct-file-access-rights-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Correct File Access Rights: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-adjusting-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-registry-cleaner-tools-a-comprehensive-guide-by-yl-computing/"><u>Top-Rated Registry Cleaner Tools: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/transition-your-settings-a-simple-guide-for-upgrading-from-older-windows-editions-to-windows-11-advice-from-yl-software/"><u>Transition Your Settings: A Simple Guide for Upgrading From Older Windows Editions to Windows 11 – Advice From YL Software</u></a></li>
 </ul></div>
 
