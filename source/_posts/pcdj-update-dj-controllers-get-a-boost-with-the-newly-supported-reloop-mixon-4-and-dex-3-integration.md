@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2025-01-07T16:24:43.171Z
-updated: 2025-01-14T17:15:01.979Z
+date: 2025-01-15T04:26:32.999Z
+updated: 2025-01-21T05:48:31.041Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
@@ -100,7 +100,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -122,24 +122,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-secrets-to-profitability-on-youtube-shorts-fundamentals-and-future-earnings/"><u>[New] Secrets to Profitability on YouTube Shorts Fundamentals & Future Earnings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unleash-potential-in-online-collaboration-using-snap-photography/"><u>[New] Unleash Potential in Online Collaboration Using Snap Photography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-the-field-a-complete-guide-to-srt-files/"><u>2024 Approved Expertise in the Field A Complete Guide to SRT Files</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/apple-id2/"><u>Apple IDで安全を強化する2段階認証方法</u></a></li>
-<li><a href="https://games-able.techidaily.com/chatgpt-for-dynamic-video-game-storytelling/"><u>ChatGPT for Dynamic Video Game Storytelling</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-link-between-twitter-and-tumblr-videos/"><u>Direct Link Between Twitter and Tumblr Videos</u></a></li>
-<li><a href="https://win-webster.techidaily.com/enhance-your-karaoke-business-using-karaoke-cloud-pro-subscription-a-must-read-for-kjs-and-performers/"><u>Enhance Your Karaoke Business Using Karaoke Cloud Pro Subscription - A Must-Read for KJs and Performers!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/exploring-possible-hazards-and-limitations-in-cryptocurrency-usage-insights-by-yl-computing-and-yl-software/"><u>Exploring Possible Hazards and Limitations in Cryptocurrency Usage: Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/exploring-potential-factors-in-recurrent-online-connectivity-issues-with-insights-from-yl-computing-and-yl-software/"><u>Exploring Potential Factors in Recurrent Online Connectivity Issues with Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guvenli-yazilim-movavi-hesapli-kultur-urunu-ingilizcese-fransizca-ve-turkceye-ait-sirketin-elektronik-bilgi-sunucusu/"><u>Güvenli Yazılım Movavi | Hesaplı Kültür Ürünü İngilizcese, Fransızca Ve Türkçeye Ait Şirketin Elektronik Bilgi Sunucusu</u></a></li>
-<li><a href="https://win-webster.techidaily.com/haunting-beats-ultimate-halloween-playlist-for-epic-parties-in-2018-curated-by-pro-cdjs/"><u>Haunting Beats: Ultimate Halloween Playlist for Epic Parties in 2018 - Curated by Pro CDJs</u></a></li>
-<li><a href="https://win-webster.techidaily.com/high-definition-dodge-demon-visuals-ultimate-walls-backgrounds-and-wallpaper-collections-by-yl-software/"><u>High-Definition Dodge Demon Visuals: Ultimate Walls, Backgrounds & Wallpaper Collections by YL Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-crafting-captivating-reels-musical-integration-strategies/"><u>In 2024, Crafting Captivating Reels Musical Integration Strategies</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-motherboard-restoration-feasible-for-damaged-laptops-tips-by-yl-computing-professionals/"><u>Is Motherboard Restoration Feasible for Damaged Laptops? Tips by YL Computing Professionals</u></a></li>
-<li><a href="https://win-webster.techidaily.com/solutions-for-when-windows-ignores-your-external-storage-advice-by-yl-software-experts/"><u>Solutions for When Windows Ignores Your External Storage: Advice by YL Software Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-18-premium-free-video-compression-tools-of-2024-compatible-with-windows-and-macos/"><u>Top 18 Premium Free Video Compression Tools of 2024 Compatible with Windows and macOS</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshooting-tips-effortless-solutions-for-windows-eos-boot-failures/"><u>Troubleshooting Tips: Effortless Solutions for Windows eOS Boot Failures</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unraveling-the-mystery-behind-windows-system-memory-issues-insights-from-yl-computing/"><u>Unraveling the Mystery Behind Windows System Memory Issues: Insights From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/yl-computings-moving-notes-hd-live-interactive-wallpaper-by-yl-software/"><u>YL Computing's Moving Notes HD - Live, Interactive Wallpaper by YL Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-reach-audience-zenith-peak-watch-timings-uncovered/"><u>[New] 2024 Approved Reach Audience Zenith - Peak Watch Timings Uncovered</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-low-cost-pc-screen-grabbing-options-ranked-for-2024/"><u>[Updated] Low-Cost PC Screen Grabbing Options Ranked for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/diagnosing-and-fixing-common-factors-for-poor-pc-speed-insights-by-yl-technical-experts/"><u>Diagnosing and Fixing Common Factors for Poor PC Speed: Insights by YL Technical Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-windows-webcam-compilation/"><u>In 2024, Ultimate Windows Webcam Compilation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-top-software-and-fake-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Top Software & Fake Webcam Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/lyrx-karaoke-program-v19-free-download-and-new-feature-including-sample-tracks-for-djs/"><u>LYRX Karaoke Program v1.9: Free Download & New Feature - Including Sample Tracks for DJs</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-crypto-chart-analysis-a-guide-from-yl-computing/"><u>Mastering Crypto Chart Analysis - A Guide From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-pc-sounds-a-step-by-step-walkthrough-to-reinstall-sound-drivers-in-windows-with-yl-software-expertise/"><u>Mastering PC Sounds: A Step-by-Step Walkthrough to Reinstall Sound Drivers in Windows with YL Software Expertise</u></a></li>
+<li><a href="https://win-webster.techidaily.com/personalizing-your-experience-a-step-by-step-guide-to-tweaking-the-windows-11-ui-expert-advice-from-yl-computing/"><u>Personalizing Your Experience: A Step-by-Step Guide to Tweaking the Windows 11 UI - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/streamline-server-management-ultimate-guide-to-effortlessly-autosyncing-across-two-systems/"><u>Streamline Server Management: Ultimate Guide to Effortlessly Autosyncing Across Two Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-features-of-the-garmin-forerunner-945-expert-gps-smartwatch-analysis/"><u>Top Features of the Garmin Forerunner 945: Expert GPS Smartwatch Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restored-audio-capabilities-in-firefox/"><u>Troubleshooting Complete: Restored Audio Capabilities in Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nonfunctioning-squad-headset-microphones/"><u>Troubleshooting Steps for Nonfunctioning 'Squad' Headset Microphones</u></a></li>
+<li><a href="https://win-webster.techidaily.com/update-now-new-release-of-dj-mixing-software-dex3-v375-for-pcdj-users-and-beyond/"><u>Update Now! New Release of DJ Mixing Software (DEX3 v3.7.5) for PCDJ Users and Beyond</u></a></li>
+<li><a href="https://win-webster.techidaily.com/us-enforces-uyghur-forced-labor-prevention-act-over-14-billion-in-xinjiang-goods-detained-persistent-forced-labor-links-expose-industry-risks-and-regulatory74/"><u>US Enforces Uyghur Forced Labor Prevention Act: Over $1.4 Billion in Xinjiang Goods Detained; Persistent Forced Labor Links Expose Industry Risks and Regulatory Evasion Strategies - YL Computing | YL Software</u></a></li>
 </ul></div>
 

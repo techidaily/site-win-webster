@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2025-01-09T20:24:14.190Z
-updated: 2025-01-14T20:25:23.413Z
+date: 2025-01-18T19:36:48.299Z
+updated: 2025-01-21T03:53:35.890Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,20 +99,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-desktop-tips-for-effortless-video-posts/"><u>[New] 2024 Approved Instagram Desktop Tips for Effortless Video Posts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-insight-triumph-in-transparency-with-3-techniques/"><u>[New] 2024 Approved Instagram Insight Triumph in Transparency with 3 Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-innovative-windows-podcast-solutions-top-8-cutting-edge-apps/"><u>2024 Approved Innovative Windows Podcast Solutions Top 8 Cutting-Edge Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-email-experience-the-ultimate-tutorial-for-using-google-duet-in-gmail/"><u>Enhancing Email Experience: The Ultimate Tutorial for Using Google Duet in Gmail</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-can-older-video-card-drivers-impact-system-speed-and-efficiency-exploring-the-truth-with-yl-solutions/"><u>How Can Older Video Card Drivers Impact System Speed and Efficiency? - Exploring the Truth with YL Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>In 2024, Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/porating-jump-cuts-for-smoother-edits/"><u>Incorporating Jump Cuts for Smoother Edits</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/major-asian-dialects-ranking-triad/"><u>Major Asian Dialects: Ranking Triad</u></a></li>
-<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
-<li><a href="https://win-webster.techidaily.com/setting-up-correct-file-access-rights-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Correct File Access Rights: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-adjusting-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-rated-registry-cleaner-tools-a-comprehensive-guide-by-yl-computing/"><u>Top-Rated Registry Cleaner Tools: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/transition-your-settings-a-simple-guide-for-upgrading-from-older-windows-editions-to-windows-11-advice-from-yl-software/"><u>Transition Your Settings: A Simple Guide for Upgrading From Older Windows Editions to Windows 11 – Advice From YL Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-comprehensive-kinetics-overview-2023/"><u>[New] In 2024, Comprehensive Kinetics Overview 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-free-to-funded-monetization-mastery-for-fb-pages/"><u>[Updated] 2024 Approved From Free to Funded Monetization Mastery for FB Pages</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-steps-to-monitor-your-printers-ink-supply-a-guide-by-yl-computing/"><u>1. Steps to Monitor Your Printer's Ink Supply: A Guide by YL Computing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
+<li><a href="https://win-webster.techidaily.com/configuring-computer-hardware-in-the-control-panel-a-detailed-walkthrough-by-yl-software-experts/"><u>Configuring Computer Hardware in the Control Panel – A Detailed Walkthrough by YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/elegant-gold-digital-artwork-for-screens-professional-image-collection-from-yl-software/"><u>Elegant Gold Digital Artwork for Screens: Professional Image Collection From YL Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-windows-10-audio-experience-with-driver-update/"><u>Improve Windows 10 Audio Experience with Driver Update</u></a></li>
+<li><a href="https://win-webster.techidaily.com/looking-for-a-qa-pro-on-dextrose-3-and-soundcloud-apply-now-exciting-support-role-with-us/"><u>Looking for a QA PRO on Dextrose 3 and SoundCloud? Apply Now - Exciting Support Role with Us!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-narzo-n55-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Narzo N55 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-establishing-an-x-account-x-formerly-twitter/"><u>Step-by-Step Tutorial on Establishing an X Account (X Formerly Twitter)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unveiling-system-settings-easy-steps-to-find-and-use-the-control-panel-with-expert-advice-from-yl-software/"><u>Unveiling System Settings: Easy Steps to Find and Use the Control Panel with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

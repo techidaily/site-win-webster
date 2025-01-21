@@ -1,7 +1,7 @@
 ---
 title: Download Latest Release - Free PCDJ Compatible
-date: 2025-01-11T21:39:33.478Z
-updated: 2025-01-14T18:06:51.606Z
+date: 2025-01-18T19:55:20.521Z
+updated: 2025-01-20T16:56:32.225Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,20 +69,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-youtubes-filmmaking-essentials-plus-invaluable-substitutes/"><u>[New] 2024 Approved YouTube's Filmmaking Essentials + Invaluable Substitutes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-guide-recording-google-meets-securely/"><u>[New] Essential Guide Recording Google Meets Securely</u></a></li>
-<li><a href="https://win-webster.techidaily.com/captivating-central-park-visuals-wallsandwallpapers-from-yl-software-enhance-your-digital-space-now/"><u>Captivating Central Park Visuals, Walls&Wallpapers From YL Software - Enhance Your Digital Space Now!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-dossiers-decoded-craft-your-signature-bio-with-stars/"><u>Digital Dossiers Decoded Craft Your Signature Bio with Stars</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-resolving-persistent-doom-eternal-crashes-quickly/"><u>Expert Advice: Resolving Persistent DOOM Eternal Crashes Quickly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5with/without a PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-night-mode-functionality-in-windows-11/"><u>How to Restore Night Mode Functionality in Windows 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/improving-pc-efficiency-should-you-turn-off-specific-applications-insights-from-yl-software-experts/"><u>Improving PC Efficiency: Should You Turn Off Specific Applications? Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/investors-guide-to-selecting-the-optimal-digital-coin-in-todays-market-expert-advice-from-yl-software/"><u>Investor's Guide to Selecting the Optimal Digital Coin in Today’s Market - Expert Advice From YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-ai-defense-nightshade-for-authentic-art-preservation/"><u>Mastering AI Defense: Nightshade for Authentic Art Preservation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/movavis-free-media-transcoding-service-convert-mp4-avi-and-more-on-the-web/"><u>Movavi's Free Media Transcoding Service: Convert MP4, AVI & More on the Web</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2060-super-fresh-driver-packs-for-enhanced-gaming-on-win-10-and-win-11/"><u>NVIDIA RTX 2060 SUPER - Fresh Driver Packs for Enhanced Gaming on Win 10 & Win 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-compromised-system-journals-expert-insights-from-yl-software/"><u>Resolving Compromised System Journals: Expert Insights From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/secure-storage-strategies-for-your-digital-assets-a-guide-by-yl-computing/"><u>Secure Storage Strategies for Your Digital Assets: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/update-your-workspace-easy-desktop-personalization-tricks-for-windows-(span)users-expert-advice-by-yl-computing/"><u>Update Your Workspace: Easy Desktop Personalization Tricks for Windows <Span>Users | Expert Advice by YL Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ompletely-erase-your-connection-with-youtube-shorts-for-2024/"><u>[New] Completely Erase Your Connection with YouTube Shorts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-4-pro-tips-for-looped-video-content/"><u>[Updated] 2024 Approved Mastering Instagram 4 Pro Tips for Looped Video Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-recording-methods-windows-10-guide/"><u>[Updated] Innovative Recording Methods Windows 10 Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigate-to-visibility-a-compreayer-of-youtube-live-imagery-standards/"><u>[Updated] Navigate to Visibility A Compreayer of YouTube Live Imagery Standards</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-your-pcs-speed-and-functionality-with-these-proven-tips-yl-systems-optimization-guide/"><u>Boost Your PC's Speed & Functionality with These Proven Tips - YL Systems Optimization Guide</u></a></li>
+<li><a href="https://win-webster.techidaily.com/captivating-elizabeth-olsen-portraits-for-desktop-and-mobile-professional-wallpapers-from-yl-software/"><u>Captivating Elizabeth Olsen Portraits for Desktop & Mobile - Professional Wallpapers From YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/compatibility-check-alternative-antivirus-programs-that-work-seamlessly-with-microsofts-windows-defender-insights-from-yl-software/"><u>Compatibility Check: Alternative Antivirus Programs That Work Seamlessly With Microsoft's Windows Defender – Insights From YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/configuring-network-options-in-yl-software-a-comprehensive-tutorial/"><u>Configuring Network Options in YL Software - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-webster.techidaily.com/essential-guide-navigating-and-controlling-device-drivers-via-windows-control-panel-expert-tips-from-yl-computing/"><u>Essential Guide: Navigating and Controlling Device Drivers via Windows Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-and-jobs-evolution-unveiling-7-significant-changes-in-employment/"><u>Generative AI and Jobs Evolution: Unveiling 7 Significant Changes in Employment</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-regularly-should-you-tidy-your-system-insights-from-yl-software-expertise/"><u>How Regularly Should You Tidy Your System? Insights From YL Software Expertise</u></a></li>
+<li><a href="https://win-webster.techidaily.com/launch-announcement-premiere-your-new-dex-3-line-dex-3-lere-and-dex/"><u>Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/rapid-rendering-of-fortnite-icons/"><u>Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-video-quirks-a-guide-by-yl-software-on-fixing-artifacts-and-distortions/"><u>Resolving Video Quirks: A Guide by YL Software on Fixing Artifacts and Distortions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/scripting-your-storys-visual-heartbeat-at-home-for-2024/"><u>Scripting Your Story's Visual Heartbeat at Home for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-blocking-youtube-streaming-on-the-ipad-platform/"><u>Step-by-Step Tutorial: Blocking YouTube Streaming on the iPad Platform</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unlocking-control-panel-functions-a-step-by-step-guide-yl-solutions/"><u>Unlocking Control Panel Functions: A Step-by-Step Guide - YL Solutions</u></a></li>
 </ul></div>
 
