@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2025-01-18T19:36:48.299Z
-updated: 2025-01-21T03:53:35.890Z
+date: 2025-01-20T04:02:00.188Z
+updated: 2025-01-27T08:35:54.359Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,16 +99,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-comprehensive-kinetics-overview-2023/"><u>[New] In 2024, Comprehensive Kinetics Overview 2023</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-free-to-funded-monetization-mastery-for-fb-pages/"><u>[Updated] 2024 Approved From Free to Funded Monetization Mastery for FB Pages</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-steps-to-monitor-your-printers-ink-supply-a-guide-by-yl-computing/"><u>1. Steps to Monitor Your Printer's Ink Supply: A Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
-<li><a href="https://win-webster.techidaily.com/configuring-computer-hardware-in-the-control-panel-a-detailed-walkthrough-by-yl-software-experts/"><u>Configuring Computer Hardware in the Control Panel – A Detailed Walkthrough by YL Software Experts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/elegant-gold-digital-artwork-for-screens-professional-image-collection-from-yl-software/"><u>Elegant Gold Digital Artwork for Screens: Professional Image Collection From YL Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-windows-10-audio-experience-with-driver-update/"><u>Improve Windows 10 Audio Experience with Driver Update</u></a></li>
-<li><a href="https://win-webster.techidaily.com/looking-for-a-qa-pro-on-dextrose-3-and-soundcloud-apply-now-exciting-support-role-with-us/"><u>Looking for a QA PRO on Dextrose 3 and SoundCloud? Apply Now - Exciting Support Role with Us!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-narzo-n55-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Narzo N55 and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-establishing-an-x-account-x-formerly-twitter/"><u>Step-by-Step Tutorial on Establishing an X Account (X Formerly Twitter)</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unveiling-system-settings-easy-steps-to-find-and-use-the-control-panel-with-expert-advice-from-yl-software/"><u>Unveiling System Settings: Easy Steps to Find and Use the Control Panel with Expert Advice From YL Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-full-screen-capture-excellence-4-leading-pcmac-programs/"><u>[Updated] 2024 Approved Full Screen Capture Excellence 4 Leading PC/Mac Programs</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-recovering-lost-images-a-comprehensive-guide-to-finding-deleted-photos-on-pc-and-mobile-devices/"><u>1. Recovering Lost Images: A Comprehensive Guide to Finding Deleted Photos on PC and Mobile Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-vlog-edit-mastery-harnessing-the-power-of-jump-cuts/"><u>2024 Approved Vlog Edit Mastery Harnessing the Power of Jump Cuts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728482724283-windows-11/"><u>如何提高Windows 11系统逆向重置效率：即刻应用的改进方法</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728508834207-ssd-windows/"><u>如何通过 SSD 轻松及保密地切换到 Windows 的新版本</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728506449380-m2-ssd/"><u>這是你需要知道：如何在不改裝的前提下更新M.2 SSD</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accent-across-the-seas-from-british-to-american-cockney-isms/"><u>Accent Across the Seas: From British to American Cockney-Isms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/assessing-camera-multicam-systems-in-modern-living-spaces-for-2024/"><u>Assessing Camera Multicam Systems in Modern Living Spaces for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/come-collegare-e-condividere-il-tuo-onedrive-con-windows-11-il-metodo-perfetto/"><u>Come Collegare E Condividere Il Tuo OneDrive Con Windows 11 - Il Metodo Perfetto</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/declutter-your-inbox-simplified-the-no-fuss-method-revealed-by-zdnet/"><u>Declutter Your Inbox Simplified: The No-Fuss Method Revealed by ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nubia Red Magic 9 Pro FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/msxml4dll-missing-heres-how-you-can-resolve-it/"><u>Msxml4.dll Missing? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://win-webster.techidaily.com/revamping-text-editors-with-macros-how-wills-replace-feature-in-emeditor-refreshes-data-extraction-choices/"><u>Revamping Text Editors with Macros: How Will's Replace Feature in EmEditor Refreshes Data Extraction Choices</u></a></li>
+<li><a href="https://win-webster.techidaily.com/schritt-fur-schritt-anleitung-zum-transfer-von-medien-aus-dem-windows-media-player-zu-itunes/"><u>Schritt-Für-Schritt-Anleitung Zum Transfer Von Medien Aus Dem Windows Media Player Zu iTunes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/seamlessly-transform-a-dynamic-disk-into-basic-format-using-top-ranking-cloning-software/"><u>Seamlessly Transform a Dynamic Disk Into Basic Format Using Top-Ranking Cloning Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streamlining-your-personal-library-from-spotify-to-youtube-music/"><u>Streamlining Your Personal Library From Spotify, To YouTube Music</u></a></li>
 </ul></div>
 

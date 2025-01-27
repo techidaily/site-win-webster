@@ -1,7 +1,7 @@
 ---
 title: Join the Gala! Support Night To Shine with PCDJ & Party Tyme's Exclusive Event
-date: 2025-01-16T06:52:23.302Z
-updated: 2025-01-20T23:29:22.356Z
+date: 2025-01-25T23:23:01.066Z
+updated: 2025-01-27T03:36:30.746Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Here are a few pictures they shared with us from the event:
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?fit=1030%2C687&ssl=1 "blog1")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?fit=1030%2C687&ssl=1 "blog2")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762%5F2877084325672602%5F3631167855451439104%5Fo.jpg?fit=768%2C960&ssl=1 "84437762_2877084325672602_3631167855451439104_o")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924%5F2877919342255767%5F1686493271838162944%5Fo.jpg?fit=960%2C957&ssl=1 "84716924_2877919342255767_1686493271838162944_o")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579%5F2878081612239540%5F2710465826560933888%5Fo.jpg?fit=768%2C960&ssl=1 "84996579_2878081612239540_2710465826560933888_o")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-next-gen-ai-for-professional-visual-editing/"><u>[New] In 2024, Next Gen AI for Professional Visual Editing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-key-to-more-views-expert-backlink-methods-for-youtubers/"><u>[New] The Key to More Views Expert Backlink Methods for YouTubers</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-regang-regokan-kartu-memo-jadi-pembantu-gratis-untuk-menyimpan-data-anda/"><u>1. Regang-Regokan Kartu Memo: Jadi Pembantu Gratis Untuk Menyimpan Data Anda</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-up-your-content-game-top-30-video-plans/"><u>2024 Approved Step Up Your Content Game Top 30 Video Plans</u></a></li>
-<li><a href="https://win-webster.techidaily.com/3ssdhdd/"><u>3種類の手段で無料でSSD/HDDから失われたファイルの回復 - コツとヒント</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728466351035-windows-10/"><u>怎麼連同Windows 10系統一起夾存在外置硬碟中？詳解方法</u></a></li>
-<li><a href="https://win-webster.techidaily.com/comprendre-la-suppression-de-windows-easy-transfer-dans-les-dernieres-versions-de-windows-11/"><u>Comprendre La Suppression De Windows Easy Transfer Dans Les Dernières Versions De Windows 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/comprendre-les-problemes-dinstallation-des-peripheriques-sous-windows-11-8-astuces-a-connaitre/"><u>Comprendre Les Problèmes D'Installation Des Périphériques Sous Windows 11 : 8 Astuces À Connaître!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-finest-15-no-cost-desktop-recording-tools-by-movavi-ratings/"><u>Discover the Finest 15 No-Cost Desktop Recording Tools by Movavi Ratings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-13-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 13 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 7 Plus</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unexpected-changes-in-emeditor-a-comprehensive-update-overview/"><u>Unexpected Changes in EmEditor: A Comprehensive Update Overview</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-13-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 13 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-uncomplicated-guide-to-mobile-device-live-captures/"><u>[New] In 2024, Uncomplicated Guide to Mobile Device Live Captures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-beat-is-in-your-hands-for-free/"><u>2024 Approved The Beat Is in Your Hands for Free</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ace-your-mobile-dj-business-key-marketing-strategies-and-pro-cdj-tips-for-success/"><u>Ace Your Mobile DJ Business: Key Marketing Strategies and Pro CDJ Tips for Success</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-key-dj-apps-with-auto-leveling-technology-dive-into-pcdjs-innovative-control/"><u>Discover Key DJ Apps with Auto-Leveling Technology - Dive Into PCDJ's Innovative Control</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-11r-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus 11R FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-marketing-unboxed-approaches/"><u>In 2024, Marketing Unboxed Approaches</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-sharing-your-digital-documents-and-directories-via-yl-computing-solutions/"><u>Step-by-Step Guide: Sharing Your Digital Documents & Directories via YL Computing Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-moto-g-5g-2023-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola Moto G 5G (2023) to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unique-axolotl-graphics-for-your-pc-full-suite-of-images-wxps-by-yl-computing-expertise/"><u>Unique Axolotl Graphics for Your PC: Full Suite of Images, WxPs by YL Computing Expertise</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unlock-audience-secrets-with-top-djs-dave-winsor-and-jason-jones-host-thursday-mobile-beats-dont-miss-out-on-djntv-insights/"><u>Unlock Audience Secrets with Top DJs: Dave Winsor and Jason Jones Host 'Thursday Mobile Beats' - Don't Miss Out on #DJNTV Insights!</u></a></li>
 </ul></div>
 
