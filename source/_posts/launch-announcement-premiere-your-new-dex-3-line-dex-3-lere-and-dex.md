@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2025-01-20T04:02:00.188Z
-updated: 2025-01-27T08:35:54.359Z
+date: 2025-02-03T22:12:44.245Z
+updated: 2025-02-08T17:05:22.179Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,22 +99,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-full-screen-capture-excellence-4-leading-pcmac-programs/"><u>[Updated] 2024 Approved Full Screen Capture Excellence 4 Leading PC/Mac Programs</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-recovering-lost-images-a-comprehensive-guide-to-finding-deleted-photos-on-pc-and-mobile-devices/"><u>1. Recovering Lost Images: A Comprehensive Guide to Finding Deleted Photos on PC and Mobile Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-vlog-edit-mastery-harnessing-the-power-of-jump-cuts/"><u>2024 Approved Vlog Edit Mastery Harnessing the Power of Jump Cuts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728482724283-windows-11/"><u>如何提高Windows 11系统逆向重置效率：即刻应用的改进方法</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728508834207-ssd-windows/"><u>如何通过 SSD 轻松及保密地切换到 Windows 的新版本</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728506449380-m2-ssd/"><u>這是你需要知道：如何在不改裝的前提下更新M.2 SSD</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accent-across-the-seas-from-british-to-american-cockney-isms/"><u>Accent Across the Seas: From British to American Cockney-Isms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/assessing-camera-multicam-systems-in-modern-living-spaces-for-2024/"><u>Assessing Camera Multicam Systems in Modern Living Spaces for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/come-collegare-e-condividere-il-tuo-onedrive-con-windows-11-il-metodo-perfetto/"><u>Come Collegare E Condividere Il Tuo OneDrive Con Windows 11 - Il Metodo Perfetto</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/declutter-your-inbox-simplified-the-no-fuss-method-revealed-by-zdnet/"><u>Declutter Your Inbox Simplified: The No-Fuss Method Revealed by ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nubia Red Magic 9 Pro FRP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/msxml4dll-missing-heres-how-you-can-resolve-it/"><u>Msxml4.dll Missing? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://win-webster.techidaily.com/revamping-text-editors-with-macros-how-wills-replace-feature-in-emeditor-refreshes-data-extraction-choices/"><u>Revamping Text Editors with Macros: How Will's Replace Feature in EmEditor Refreshes Data Extraction Choices</u></a></li>
-<li><a href="https://win-webster.techidaily.com/schritt-fur-schritt-anleitung-zum-transfer-von-medien-aus-dem-windows-media-player-zu-itunes/"><u>Schritt-Für-Schritt-Anleitung Zum Transfer Von Medien Aus Dem Windows Media Player Zu iTunes</u></a></li>
-<li><a href="https://win-webster.techidaily.com/seamlessly-transform-a-dynamic-disk-into-basic-format-using-top-ranking-cloning-software/"><u>Seamlessly Transform a Dynamic Disk Into Basic Format Using Top-Ranking Cloning Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/streamlining-your-personal-library-from-spotify-to-youtube-music/"><u>Streamlining Your Personal Library From Spotify, To YouTube Music</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-enhance-your-digital-footprint-upload-tiktoks-on-twitter/"><u>[Updated] Enhance Your Digital Footprint Upload TikToks on Twitter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-clearview-recording-toolkit/"><u>2024 Approved ClearView Recording Toolkit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-coders-showdown-which-codec-will-dominate-video-quality/"><u>2024 Approved Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-steps-to-establish-a-stable-wi-fi-setup-on-windows-expert-advice-by-yl-software-solutions/"><u>Easy Steps to Establish a Stable Wi-Fi Setup on Windows - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ensuring-successful-setup-how-to-confirm-if-your-printer-is-connected-and-installed-correctly-tips-from-yl-software/"><u>Ensuring Successful Setup: How to Confirm if Your Printer Is Connected and Installed Correctly – Tips From YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-ocean-sunset-wallpaper-collection-yl-computing/"><u>High-Definition Ocean Sunset Wallpaper Collection - YL Computing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-record-screen-with-vidmore-screen-recorder/"><u>In 2024, How to Record Screen with Vidmore Screen Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-battery-selection-guide-for-uavs/"><u>In 2024, The Ultimate Battery Selection Guide for UAVs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-motorola-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola , is it possible?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/premium-pokemon-image-collection-for-screensaver-and-wallpaper-use-enhanced-quality-graphics-from-yl-computing/"><u>Premium Pokemon Image Collection for Screensaver & Wallpaper Use, Enhanced Quality Graphics From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/shortcuts-how-to-skip-ongoing-password-prompts-on-pc/"><u>Shortcuts: How to Skip Ongoing Password Prompts on PC</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-manual-printer-setup-and-configuration-tips-from-yl-computing/"><u>Step-by-Step Guide: Manual Printer Setup & Configuration - Tips From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-building-blockchain-tokens-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Building Blockchain Tokens with YL Software Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/strategizing-with-blockchain-for-business-success-lessons-from-yl-software-solutions/"><u>Strategizing with Blockchain for Business Success - Lessons From YL Software Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-key-to-spreading-online-jokes-fast/"><u>The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-ready-to-download-best-public-domain-video-websites/"><u>Updated In 2024, Get Ready to Download Best Public Domain Video Websites</u></a></li>
 </ul></div>
 

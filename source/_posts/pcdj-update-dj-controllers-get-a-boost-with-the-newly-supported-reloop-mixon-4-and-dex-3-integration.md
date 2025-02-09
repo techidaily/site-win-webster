@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2025-01-25T05:54:53.113Z
-updated: 2025-01-27T01:12:45.765Z
+date: 2025-02-04T20:58:55.234Z
+updated: 2025-02-08T22:57:43.603Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
@@ -100,7 +100,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -122,18 +122,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-crafting-content-for-staff-recognition-on-vimeo/"><u>[New] Crafting Content for Staff Recognition on Vimeo</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-streamline-your-in-game-communication-pioneering-tips-for-vocal-modifications-pubg-for-2024/"><u>[New] Streamline Your In-Game Communication Pioneering Tips for Vocal Modifications (PUBG) for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-copyrights-required-best-10-melodies-for-zen-practice/"><u>[Updated] No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-savvy-flyers-selection-least-expensive-drone-brands/"><u>2024 Approved Savvy Flyers' Selection Least Expensive Drone Brands</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beatwave-visuals-instagram-videos-set-to-soundtracks-for-2024/"><u>Beatwave Visuals Instagram Videos Set to Soundtracks for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/dynamic-wallpaper-collection-featuring-ryop-theme-designs-by-yl-software/"><u>Dynamic Wallpaper Collection Featuring RYOP Theme Designs by YL Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-solutions-highly-efficient-and-compatible-wireless-device-driver-packs-free-reviewed/"><u>Instant Solutions: Highly Efficient & Compatible Wireless Device Driver Packs Free [REVIEWED]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-recommendations-the-top-10-sports-apps-for-live-tennis-games/"><u>Premier Recommendations The Top 10 Sports Apps for Live Tennis Games</u></a></li>
-<li><a href="https://win-webster.techidaily.com/premium-music-selection-for-karaoke-enthusiasts-subscribe-now-to-tap-into-the-latest-top-tracks-in-pop-and-hip-hop-genres/"><u>Premium Music Selection for Karaoke Enthusiasts – Subscribe Now to Tap Into the Latest Top Tracks in Pop and Hip Hop Genres!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-updating-your-pcs-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your PC's Windows Defender - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stress-reduction-strategies-with-chatgpt-effective-tips-and-tools/"><u>Stress Reduction Strategies with ChatGPT: Effective Tips and Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-nwstoreexe-malfunction-issues/"><u>Troubleshooting and Repairing NW_Store.exe Malfunction Issues</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unveiling-our-exclusive-alliance-with-bpm-supreme-for-ultimate-dj-mastery/"><u>Unveiling Our Exclusive Alliance With BPM Supreme for Ultimate DJ Mastery!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-perfect-youtube-short-content-lessons-for-2024/"><u>[New] Crafting Perfect YouTube Short Content Lessons for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-streaming-a-guide-for-gamers/"><u>[New] Mastering YouTube Streaming A Guide for Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-much-video-can-64gb128gb-hold/"><u>[Updated] In 2024, How Much Video Can 64GB/128GB Hold?</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/windows-server-201n/"><u>三大辦法提升Windows Server 201N系統檔案共享速度</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-understanding-every-windows-stop-code/"><u>Comprehensive Guide: Understanding Every Windows Stop Code</u></a></li>
+<li><a href="https://win-webster.techidaily.com/detailed-insights-into-access-points-working-mechanism-unveiled-with-yl-software-expertise/"><u>Detailed Insights Into Access Points: Working Mechanism Unveiled with YL Software Expertise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-skills-a-list-of-7-must-use-internet-resources-for-expert-prompt-engineering/"><u>Elevate Your Skills: A List of 7 Must-Use Internet Resources for Expert Prompt Engineering</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-troubleshoot-when-your-pc-wont-start-tech-tips-from-yl-computing/"><u>How to Troubleshoot When Your PC Won't Start - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-maximize-youtube-potential-leading-rank-tracker-software/"><u>In 2024, Maximize YouTube Potential Leading Rank Tracker Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-your-money-secure-with-crypto-assets-understanding-the-risks-yl-software-exploration/"><u>Is Your Money Secure with Crypto Assets? Understanding the Risks - YL Software Exploration</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/premiere-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>Premiere or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-setting-up-new-user-profiles-via-windows-control-panel-insights-by-yl-computing/"><u>Step-by-Step Guide: Setting Up New User Profiles via Windows Control Panel - Insights by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/stunning-batman-wallpaper-collection-in-hd-1080p-for-pc-dazzling-images-and-animated-backgrounds-powered-by-yl-software/"><u>Stunning Batman Wallpaper Collection in HD (1080P) for PC | Dazzling Images and Animated Backgrounds Powered by YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-issues-with-icloud-on-ios-devices-troubleshooting-tips/"><u>Top 9 Issues with iCloud on iOS Devices: Troubleshooting Tips</u></a></li>
 </ul></div>
 

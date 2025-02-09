@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Buzz: In-Depth Analysis & Evaluation of Ape Labs Lighting"
-date: 2025-01-26T00:33:29.971Z
-updated: 2025-01-26T16:17:21.536Z
+date: 2025-02-01T22:35:24.685Z
+updated: 2025-02-08T20:08:54.580Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ This small company is disrupting the professional lighting industry in six major
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #1 – They are made in Germany, not China.
 
 While China is known as a world-wide manufacturing powerhouse, they aren’t exactly known for producing quality products. Germany, on the other hand, is known for percision engineering and quality merchandise.
@@ -33,7 +37,7 @@ While China is known as a world-wide manufacturing powerhouse, they aren’t exa
 [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) started producing wireless, battery powered LED lights in 2008\. Originally, they were made in China (like all of the other popular lighting brands). However, they moved the entire manufacturing operation to their home country of Germany in 2015 after several different Chinese factories failed to produce to German standards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #2 – Their Sound Active Feature is Mesmerizing.
@@ -58,10 +62,6 @@ Ape Labs fixtures all use the same softare and comminute with eachother. This me
 
 **And this battery life test:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #4 – Eveything is Simple & Easy.
 
 The [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) tag line is “Keep it Simple”, and that’s exactly what they do. Their ligthing fixtures don’t even have control buttons on them. Each unit just has a single power button. All controlling and programming is done wirelessly.
@@ -76,19 +76,15 @@ EXPAND IMAGE
 
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #5 – Size & Weight.
 
 All [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products are extremely small and light-weight. The most popular Ape Labs product in the world is the LightCan, which is exactly the size of a RedBull can.
 
 The most popular Ape Labs product in the USA is their traditional uplight called the ApeLight Maxi. This unit is 3.3lbs. A case of six is only 34lbs, including the weight of the charging case. **To put that into perspective, check out this video:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## #6 – 3-Year Warranty, European Build Quality, but Same Pricing.
 
@@ -99,10 +95,14 @@ Fortunately, [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) prod
 [EXPAND IMAGE ![Ape Labs Comparison Chart](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1 "Ape Labs Comparison Chart")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You may have noticed that the ApeLight Maxi is listed as “water resistant” but doesn’t actually give an official IP rating in the specs. **To help you understand what they mean by “water resistant”, check out:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More questions? Check out these reviews:
 
@@ -135,14 +135,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-visual-virtuosity-complimentary-phone-photography-upgrade/"><u>[Updated] 2024 Approved Visual Virtuosity - Complimentary Phone Photography Upgrade</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/audio-implementation-in-avi-2023-formats-a-step-by-step-manual/"><u>Audio Implementation in AVI-2023 Formats A Step-by-Step Manual</u></a></li>
-<li><a href="https://win-webster.techidaily.com/experiencing-issues-with-your-pc-or-laptop-let-yl-computing-and-software-solutions-fix-them/"><u>Experiencing Issues With Your PC or Laptop? Let YL Computing & Software Solutions Fix Them!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/high-definition-bmw-i8-convertible-desktop-scenery-premium-walls-and-screensavers-download-now-from-yl-tech-solutions/"><u>High-Definition BMW I8 Convertible Desktop Scenery: Premium Walls & Screensavers - Download Now From YL Tech Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-refresh-system-drivers-perfect-for-dell-xps-15-windows-users/"><u>How to Refresh System Drivers: Perfect for Dell XPS 15 Windows Users</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-printer-warning-messages-swiftly-with-tips-from-yl-software-experts/"><u>Resolving Printer Warning Messages Swiftly with Tips From YL Software Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-2-account/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest #2 Account</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-6-contemporary-mojave-home-layouts-for-2024/"><u>Ultimate 6 Contemporary Mojave Home Layouts for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unleash-your-mixing-potential-secure-your-official-pcdj-dex-software-update-v31020-today/"><u>Unleash Your Mixing Potential: Secure Your Official PCDJ DEX Software Update v3.10.2.0 Today!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-techniques-for-creating-engaging-vr-content-in-adobe-premiere/"><u>[New] 2024 Approved Cutting-Edge Techniques for Creating Engaging VR Content in Adobe Premiere</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-unraveling-the-mystery-persistent-disconnection-issues-with-your-scanner-insights-from-yl-computing/"><u>1. Unraveling the Mystery: Persistent Disconnection Issues with Your Scanner - Insights From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/adjusting-screen-resolution-a-step-by-step-guide-tech-tips-by-yl-computing/"><u>Adjusting Screen Resolution: A Step-by-Step Guide - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/audi-e-tron-electric-suv-high-definition-wallpaper-collection-download-quality-images-now/"><u>Audi E-Tron Electric SUV High-Definition Wallpaper Collection - Download Quality Images Now!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/can-you-tailor-your-own-windows-control-panel-settings-in-depth-guide-by-yl-computing/"><u>Can You Tailor Your Own Windows Control Panel Settings? - In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/create-new-user-profiles-effortlessly-mastering-the-control-panel-with-yl-softwares-help/"><u>Create New User Profiles Effortlessly: Mastering the Control Panel with YL Software's Help</u></a></li>
+<li><a href="https://extra-information.techidaily.com/delving-into-the-strengths-of-yuneecs-typhoon-h-drone/"><u>Delving Into the Strengths of Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/expert-guide-solving-common-issues-in-your-audio-setup-tech-tips-by-yl-computing/"><u>Expert Guide: Solving Common Issues in Your Audio Setup - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/implementing-parent-protection-tools-for-windows-systems-expert-tips-from-yl-software/"><u>Implementing Parent Protection Tools for Windows Systems: Expert Tips From YL Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-a1x-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo A1x 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016191088-no-more-quiet-battles-wows-sound-problem-solved/"><u>No More Quiet Battles: WoW's Sound Problem Solved!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/solving-display-issues-on-windows-pcs-a-comprehamatic-approach-to-updating-graphic-drivers-with-help-from-yl-software/"><u>Solving Display Issues on Windows PCs: A Comprehamatic Approach to Updating Graphic Drivers with Help From YL Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-gaming-nights-innovative-techniques-to-design-dandd-characters-with-chatgpt-and-dall-e/"><u>Transform Gaming Nights: Innovative Techniques to Design D&D Characters with ChatGPT & DALL-E</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-guide-solving-common-issues-with-your-windows-pc-hardware-by-yl-technology-experts/"><u>Ultimate Guide: Solving Common Issues with Your Windows PC Hardware by YL Technology Experts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-quicktime-video-editing-made-easy-top-10-free-tools/"><u>Updated QuickTime Video Editing Made Easy Top 10 Free Tools</u></a></li>
 </ul></div>
 
