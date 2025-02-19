@@ -1,7 +1,7 @@
 ---
 title: Download Latest Release - Free PCDJ Compatible
-date: 2025-02-02T01:56:09.045Z
-updated: 2025-02-08T17:29:22.086Z
+date: 2025-02-12T07:12:54.157Z
+updated: 2025-02-18T18:44:28.006Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,24 +69,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-steps-to-crossfade-audio-in-logic-pro-x/"><u>[New] 2024 Approved Steps To Crossfade Audio In Logic Pro X</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-use-whiteboard-in-zoom-meeting/"><u>[New] In 2024, How to Use Whiteboard in Zoom Meeting</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-obs-mastery-5-edits-that-will-elevate-your-work/"><u>[New] OBS Mastery 5 Edits That Will Elevate Your Work</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728470222587-xcopy/"><u>解決策見つけた！Xcopyが内部ユーティリティとして認められない問題の修正手順</u></a></li>
-<li><a href="https://win-webster.techidaily.com/auswahl-und-synchronisierung-spezifischer-ordner-auf-onedrive-anleitung/"><u>Auswahl Und Synchronisierung Spezifischer Ordner Auf OneDrive: Anleitung</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/boost-your-wi-fi-signal-with-tp-links-re305-an-in-depth-ac12-for-home-networkers/"><u>Boost Your Wi-Fi Signal with TP-Link's RE305: An In-Depth AC12() for Home Networkers</u></a></li>
-<li><a href="https://win-webster.techidaily.com/como-activar-con-elegancia-el-modo-fantasma-de-uefi-en-tu-pc-con-windows-11/"><u>Cómo Activar Con Elegancia El Modo Fantasma De UEFI en Tu PC Con Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-payment-plan-paves-way-for-artists-financial-freedom/"><u>Facebook’s Payment Plan Paves Way for Artists’ Financial Freedom</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guia-detallada-para-transferir-todo-tu-sistema-operativo-windows-10-a-un-nuevo-disco-ssd-nvme-mediante-el-metodo-de-clonado/"><u>Guía Detallada Para Transferir Todo Tu Sistema Operativo Windows 10 a Un Nuevo Disco SSD NVMe Mediante El Método De Clonado</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728499581014-hdd/"><u>HDDの悪影響を及ぼすセクターが存在する場合、どうやって修復するか</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-a14-4g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy A14 4G Phone Now with These Tips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unlock-your-youtube-potential-by-dodging-these-8-typical-mistakes/"><u>In 2024, Unlock Your YouTube Potential by Dodging These 8 Typical Mistakes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-increase-video-volume-and-make-video-sounds-louder-video-volume-booster/"><u>New Increase Video Volume & Make Video Sounds Louder -Video Volume Booster</u></a></li>
-<li><a href="https://win-webster.techidaily.com/passos-detalhados-para-restaurar-dados-apenas-apagados-do-cartao-sd-fora-da-lixeira/"><u>Passos Detalhados Para Restaurar Dados Apenas Apagados Do Cartão SD Fora Da Lixeira</u></a></li>
-<li><a href="https://win-webster.techidaily.com/section-3a-the-central-dogma-of-molecular-biology/"><u>Section 3A: The Central Dogma of Molecular Biology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sonys-walkman-model-analysis-design-dilemmnas/"><u>Sonys Walkman Model Analysis: Design Dilemmnas</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-rated-software-for-copying-your-samsung-ssd-with-a-reliable-bootable-utility/"><u>Top-Rated Software for Copying Your Samsung SSD with a Reliable Bootable Utility</u></a></li>
-<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-freeing-a-trapped-sim-card-inside-an-iphone-with-effective-methods/"><u>Troubleshooting Guide: Freeing a Trapped SIM Card Inside an iPhone with Effective Methods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/zoom-panel-essentials-for-novices-for-2024/"><u>Zoom Panel Essentials for Novices for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/no-desesperes-por-tu-archivo-desaparecido-siga-este-guia-para-recuperarlo-7-pasos-esenciales/"><u>¡No Desesperes Por Tu Archivo Desaparecido? Siga Este Guía Para Recuperarlo [7 Pasos Esenciales]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-discover-the-top-8-services-to-amplify-video-content/"><u>[New] 2024 Approved Discover the Top 8 Services to Amplify Video Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cross-promotion-partnerships-with-brands-on-youtube/"><u>[New] Cross-Promotion Partnerships with Brands on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-optimal-outlooks-ideal-laptops-to-render-hd-videos-quickly/"><u>[Updated] Optimal Outlooks Ideal Laptops to Render HD Videos Quickly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iew-of-youtubes-integration-with-iphone-and-android-devices/"><u>A Review of YouTube's Integration with iPhone & Android Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-save-noco-tv-shows-and-movies-effortlessly-on-your-pc-or-mac/"><u>How to Save Noco TV Shows & Movies Effortlessly on Your PC or Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/how-to-use-free-countdown-timer-for-2024/"><u>How to Use Free Countdown Timer for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-digital-practice-techniques-for-retrieving-yoga-tutorials-from-premier-online-classes/"><u>Mastering Digital Practice: Techniques for Retrieving Yoga Tutorials From Premier Online Classes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-putlocker-video-downloads-a-comprehensive-tutorial-for-pc-and-mac-enthusiasts/"><u>Mastering PutLocker Video Downloads: A Comprehensive Tutorial for PC and MAC Enthusiasts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/maximize-your-youtube-experience-top-services-for-easy-video-and-music-extraction-through-smart-subscriptions/"><u>Maximize Your YouTube Experience: Top Services for Easy Video and Music Extraction Through Smart Subscriptions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/offline-anime-bliss-how-to-save-crunchyroll-shows-for-later-on-your-computer-or-mac/"><u>Offline Anime Bliss: How To Save Crunchyroll Shows For Later On Your Computer Or Mac</u></a></li>
 </ul></div>
 

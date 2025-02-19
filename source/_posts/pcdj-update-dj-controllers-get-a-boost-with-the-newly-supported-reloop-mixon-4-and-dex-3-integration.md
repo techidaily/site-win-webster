@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2025-02-04T20:58:55.234Z
-updated: 2025-02-08T22:57:43.603Z
+date: 2025-02-14T05:25:19.874Z
+updated: 2025-02-19T07:24:38.233Z
 tags:
   - product
 categories:
@@ -41,7 +41,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
@@ -100,7 +100,7 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -122,19 +122,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rafting-perfect-youtube-short-content-lessons-for-2024/"><u>[New] Crafting Perfect YouTube Short Content Lessons for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-streaming-a-guide-for-gamers/"><u>[New] Mastering YouTube Streaming A Guide for Gamers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-much-video-can-64gb128gb-hold/"><u>[Updated] In 2024, How Much Video Can 64GB/128GB Hold?</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/windows-server-201n/"><u>三大辦法提升Windows Server 201N系統檔案共享速度</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-understanding-every-windows-stop-code/"><u>Comprehensive Guide: Understanding Every Windows Stop Code</u></a></li>
-<li><a href="https://win-webster.techidaily.com/detailed-insights-into-access-points-working-mechanism-unveiled-with-yl-software-expertise/"><u>Detailed Insights Into Access Points: Working Mechanism Unveiled with YL Software Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-skills-a-list-of-7-must-use-internet-resources-for-expert-prompt-engineering/"><u>Elevate Your Skills: A List of 7 Must-Use Internet Resources for Expert Prompt Engineering</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-troubleshoot-when-your-pc-wont-start-tech-tips-from-yl-computing/"><u>How to Troubleshoot When Your PC Won't Start - Tech Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-maximize-youtube-potential-leading-rank-tracker-software/"><u>In 2024, Maximize YouTube Potential Leading Rank Tracker Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-your-money-secure-with-crypto-assets-understanding-the-risks-yl-software-exploration/"><u>Is Your Money Secure with Crypto Assets? Understanding the Risks - YL Software Exploration</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/premiere-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>Premiere or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-setting-up-new-user-profiles-via-windows-control-panel-insights-by-yl-computing/"><u>Step-by-Step Guide: Setting Up New User Profiles via Windows Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/stunning-batman-wallpaper-collection-in-hd-1080p-for-pc-dazzling-images-and-animated-backgrounds-powered-by-yl-software/"><u>Stunning Batman Wallpaper Collection in HD (1080P) for PC | Dazzling Images and Animated Backgrounds Powered by YL Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-issues-with-icloud-on-ios-devices-troubleshooting-tips/"><u>Top 9 Issues with iCloud on iOS Devices: Troubleshooting Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-nexus-nightlife-virtual-theater-realm-for-2024/"><u>[New] Nexus Nightlife Virtual Theater Realm for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vercoming-the-invisible-screen-hurdle-youtube-fixes/"><u>[New] Overcoming the Invisible Screen Hurdle YouTube Fixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-vintage-vault-visit-a-nostalgic-look-at-goofys-film/"><u>[Updated] 2024 Approved Vintage Vault Visit A Nostalgic Look at 'Goofy's Film</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-beyond-virality-understanding-what-makes-triller-different-from-tiktok/"><u>[Updated] Beyond Virality Understanding What Makes Triller Different From TikTok</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-tracing-gaps-in-your-instagram-circle/"><u>2024 Approved Tracing Gaps in Your Instagram Circle</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asus-mg28uq-monitor-review-bridging-the-high-res-divide-for-2024/"><u>ASUS MG28UQ Monitor Review Bridging the High-Res Divide for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-hp-graphics-on-windows-11-with-new-driver-updates/"><u>Enhance HP Graphics on Windows 11 with New Driver Updates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fresh-filmmakers-footnotes-unveiling-video-quality-terms/"><u>Fresh Filmmaker's Footnotes Unveiling Video Quality Terms</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-to-blocking-network-interface-usage-in-windows-a-step-by-step-approach/"><u>Guide to Blocking Network Interface Usage in Windows: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-conceal-specific-features-within-your-admin-dashboard-insights-from-yl-computings-expertise/"><u>How to Conceal Specific Features Within Your Admin Dashboard - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
+<li><a href="https://win-webster.techidaily.com/optimizing-your-computers-performance-essential-tips-yl-solutions/"><u>Optimizing Your Computer's Performance: Essential Tips - YL Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/setting-up-correct-file-access-rights-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Correct File Access Rights: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-adjusting-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-registry-cleaner-tools-a-comprehensive-guide-by-yl-computing/"><u>Top-Rated Registry Cleaner Tools: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-macos-big-sur-minimum-requirements-for-2024/"><u>Understanding MacOS Big Sur Minimum Requirements for 2024</u></a></li>
 </ul></div>
 

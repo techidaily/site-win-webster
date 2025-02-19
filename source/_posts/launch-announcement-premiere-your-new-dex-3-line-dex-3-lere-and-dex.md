@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2025-02-03T22:12:44.245Z
-updated: 2025-02-08T17:05:22.179Z
+date: 2025-02-12T05:42:23.622Z
+updated: 2025-02-19T07:40:25.384Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,21 +99,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-enhance-your-digital-footprint-upload-tiktoks-on-twitter/"><u>[Updated] Enhance Your Digital Footprint Upload TikToks on Twitter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-clearview-recording-toolkit/"><u>2024 Approved ClearView Recording Toolkit</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-coders-showdown-which-codec-will-dominate-video-quality/"><u>2024 Approved Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/easy-steps-to-establish-a-stable-wi-fi-setup-on-windows-expert-advice-by-yl-software-solutions/"><u>Easy Steps to Establish a Stable Wi-Fi Setup on Windows - Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ensuring-successful-setup-how-to-confirm-if-your-printer-is-connected-and-installed-correctly-tips-from-yl-software/"><u>Ensuring Successful Setup: How to Confirm if Your Printer Is Connected and Installed Correctly – Tips From YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/high-definition-ocean-sunset-wallpaper-collection-yl-computing/"><u>High-Definition Ocean Sunset Wallpaper Collection - YL Computing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-record-screen-with-vidmore-screen-recorder/"><u>In 2024, How to Record Screen with Vidmore Screen Recorder</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-battery-selection-guide-for-uavs/"><u>In 2024, The Ultimate Battery Selection Guide for UAVs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-motorola-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola , is it possible?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/premium-pokemon-image-collection-for-screensaver-and-wallpaper-use-enhanced-quality-graphics-from-yl-computing/"><u>Premium Pokemon Image Collection for Screensaver & Wallpaper Use, Enhanced Quality Graphics From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/shortcuts-how-to-skip-ongoing-password-prompts-on-pc/"><u>Shortcuts: How to Skip Ongoing Password Prompts on PC</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-manual-printer-setup-and-configuration-tips-from-yl-computing/"><u>Step-by-Step Guide: Manual Printer Setup & Configuration - Tips From YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-building-blockchain-tokens-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Building Blockchain Tokens with YL Software Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/strategizing-with-blockchain-for-business-success-lessons-from-yl-software-solutions/"><u>Strategizing with Blockchain for Business Success - Lessons From YL Software Solutions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-key-to-spreading-online-jokes-fast/"><u>The Key to Spreading Online Jokes Fast</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-ready-to-download-best-public-domain-video-websites/"><u>Updated In 2024, Get Ready to Download Best Public Domain Video Websites</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-playbook-techniques-to-archive-your-unique-vr-adventures/"><u>[New] 2024 Approved The Ultimate Playbook Techniques to Archive Your Unique VR Adventures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-selection-of-top-15-4k-cameras-for-2024/"><u>[Updated] The Ultimate Selection of Top 15 4K Cameras for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-efficiently-traverse-youtubes-votes-and-reaction-space/"><u>2024 Approved Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-samsung-screen-captures-of-your-gaming-spree/"><u>2024 Approved Samsung Screen Captures of Your Gaming Spree</u></a></li>
+<li><a href="https://win-webster.techidaily.com/altering-the-preferred-application-for-specific-file-types-a-guide-by-yl-computing/"><u>Altering the Preferred Application for Specific File Types: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/experiencing-issues-with-your-pc-or-laptop-let-yl-computing-and-software-solutions-fix-them/"><u>Experiencing Issues With Your PC or Laptop? Let YL Computing & Software Solutions Fix Them!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/free-download-cue-hue-plugin-skins-compatible-with-all-dex-3-and-pcdj-software-editions/"><u>Free Download: Cue Hue Plugin Skins Compatible with All DEX 3 and PCDJ Software Editions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-webcam-software-for-your-lenovo-device-on-windows-7/"><u>Get the Newest Webcam Software for Your Lenovo Device on Windows 7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/head-to-head-review-google-nest-audio-versus-nest-mini/"><u>Head-to-Head Review: Google Nest Audio Versus Nest Mini</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-bmw-i8-convertible-desktop-scenery-premium-walls-and-screensavers-download-now-from-yl-tech-solutions/"><u>High-Definition BMW I8 Convertible Desktop Scenery: Premium Walls & Screensavers - Download Now From YL Tech Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-12-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi 12 5G FRP?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-printer-warning-messages-swiftly-with-tips-from-yl-software-experts/"><u>Resolving Printer Warning Messages Swiftly with Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-how-anime-can-accelerate-your-japanese-language-skills-the-top-12-picks/"><u>Ultimate Guide: How Anime Can Accelerate Your Japanese Language Skills – The Top 12 Picks</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unleash-your-mixing-potential-secure-your-official-pcdj-dex-software-update-v31020-today/"><u>Unleash Your Mixing Potential: Secure Your Official PCDJ DEX Software Update v3.10.2.0 Today!</u></a></li>
 </ul></div>
 

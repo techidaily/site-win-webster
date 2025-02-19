@@ -1,7 +1,7 @@
 ---
 title: Join the Gala! Support Night To Shine with PCDJ & Party Tyme's Exclusive Event
-date: 2025-02-01T17:49:07.319Z
-updated: 2025-02-09T02:55:20.985Z
+date: 2025-02-16T18:06:09.540Z
+updated: 2025-02-19T04:03:27.856Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Here are a few pictures they shared with us from the event:
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?fit=1030%2C687&ssl=1 "blog1")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?fit=1030%2C687&ssl=1 "blog2")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762%5F2877084325672602%5F3631167855451439104%5Fo.jpg?fit=768%2C960&ssl=1 "84437762_2877084325672602_3631167855451439104_o")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924%5F2877919342255767%5F1686493271838162944%5Fo.jpg?fit=960%2C957&ssl=1 "84716924_2877919342255767_1686493271838162944_o")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579%5F2878081612239540%5F2710465826560933888%5Fo.jpg?fit=768%2C960&ssl=1 "84996579_2878081612239540_2710465826560933888_o")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,21 +48,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-video-quality-with-right-lighting/"><u>[New] In 2024, Enhancing Video Quality with Right Lighting</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-view-old-stories-on-facebook/"><u>2024 Approved How to View Old Stories on Facebook?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleash-power-with-apples-m1-max-clip/"><u>2024 Approved Unleash Power with Apple's M1 Max Clip</u></a></li>
-<li><a href="https://win-webster.techidaily.com/windows7810backup4all/"><u>安心と利便性を融合: Windows7、8、10に適した無料強力バックアップツールでBackup4allを超える</u></a></li>
-<li><a href="https://win-webster.techidaily.com/beat-the-frustration-essential-strategies-for-handling-cannot-open-file-corrupted-issues/"><u>Beat the Frustration: Essential Strategies for Handling 'Cannot Open - File Corrupted' Issues</u></a></li>
-<li><a href="https://win-webster.techidaily.com/correzione-dellimmagine-di-ripristino-sistema-eccezionale-a-causa-di-problemi-biosefi/"><u>Correzione Dell'Immagine Di Ripristino Sistema Eccezionale a Causa Di Problemi BIOS/EFI</u></a></li>
-<li><a href="https://win-webster.techidaily.com/directly-setting-up-windows/"><u>Directly Setting Up Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-tutorial-update-or-retrieve-acer-aspire-hardware-drivers-for-smooth-operations/"><u>Easy Tutorial: Update or Retrieve Acer Aspire Hardware Drivers for Smooth Operations</u></a></li>
-<li><a href="https://win-hot.techidaily.com/head-to-head-showdown-how-does-samsung-galaxy-s6-hold-up-against-the-iphone-6-in-depth-review-insights/"><u>Head-to-Head Showdown: How Does Samsung Galaxy S6 Hold Up Against the iPhone 6 – In-Depth Review Insights!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instructions-for-resetting-default-mouse-settings-without-acceleration-on-macos/"><u>Instructions for Resetting Default Mouse Settings without Acceleration on macOS</u></a></li>
-<li><a href="https://facebook.techidaily.com/key-facebook-customizations-for-an-optimal-mobile-experience/"><u>Key Facebook Customizations for an Optimal Mobile Experience</u></a></li>
-<li><a href="https://win-webster.techidaily.com/macrium-reflect-solved-successfully-unmounting-volumes-in-three-simple-methods/"><u>Macrium Reflect Solved: Successfully Unmounting Volumes in Three Simple Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimiser-la-gestion-des-correspondances-municipales-grace-a-abbyy-finereader-and-solutions-dideation-informatique/"><u>Optimiser La Gestion Des Correspondances Municipales Grâce À ABBYY FineReader & Solutions D’IDéation Informatique</u></a></li>
-<li><a href="https://win-webster.techidaily.com/urutan-rasa-pilihan-ubah-gaya-memutakhirkan-file-lama-di-google-drive-selamat-tahun-baru/"><u>Urutan Rasa Pilihan: Ubah Gaya Memutakhirkan File Lama Di Google Drive Selamat Tahun Baru!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/wie-sie-ihr-systemabbild-erfolgreich-auf-einen-anderen-rechner-ubertragen-schritt-fur-schritt-anleitung/"><u>Wie Sie Ihr Systemabbild Erfolgreich Auf Einen Anderen Rechner Übertragen – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-recover-deleted-vscode-files-why-they-arent-showing-up-in-the-recycle-bin-and-how-to-fix-it/"><u>1. 'Recover Deleted VSCode Files: Why They Aren't Showing Up in the Recycle Bin & How to Fix It!'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-5-book-video-promotions-ever-made/"><u>2024 Approved The Best 5 Book Video Promotions Ever Made</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-methods-for-viewing-virtual-reality-videos-on-iphones-a-comprehensive-guide/"><u>Best Methods for Viewing Virtual Reality Videos on iPhones: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-webster.techidaily.com/complete-guide-performing-a-full-system-restore-on-your-gateway-notebook-using-windows-11/"><u>Complete Guide: Performing a Full System Restore on Your Gateway Notebook Using Windows 11</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-exclusive-catwoman-wallpaper-collections-with-full-resolution-photos-and-editable-graphics-by-yl-computing/"><u>Download Exclusive Catwoman Wallpaper Collections with Full Resolution Photos and Editable Graphics by YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guida-rapida-e-facile-per-eseguire-il-backup-del-sistema-operativo-windows-1187/"><u>Guida Rapida E Facile per Eseguire Il Backup Del Sistema Operativo Windows 11/8/7</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-detaille-pour-la-suppression-des-fichiers-backup-dans-le-systeme-dexploitation-windows-11/"><u>Guide Détaillé Pour La Suppression Des Fichiers Backup Dans Le Système D'Exploitation Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-azure-unveils-radius-sdk-revolutionizing-hybrid-multi-cloud-environments-with-open-source-solutions-as-covered-by-zdnet/"><u>Microsoft Azure Unveils Radius SDK: Revolutionizing Hybrid Multi-Cloud Environments with Open Source Solutions, as Covered by ZDNet</u></a></li>
+<li><a href="https://win-webster.techidaily.com/microsoft-teams-effiziente-moglichkeiten-zur-wiederherstellung-geloschter-chatnachrichten/"><u>Microsoft Teams: Effiziente Möglichkeiten Zur Wiederherstellung Gelöschter Chatnachrichten</u></a></li>
+<li><a href="https://win-webster.techidaily.com/moving-vmware-virtual-systems-seamlessly-to-amazon-web-services/"><u>Moving VMware Virtual Systems Seamlessly to Amazon Web Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/playing-dvds-on-your-acer-laptop-with-windows-11-no-disc-drive-required/"><u>Playing DVDs on Your Acer Laptop with Windows 11 - No Disc Drive Required!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/score-big-savings-premium-deals-on-samsung-electronics-this-prime-day/"><u>Score Big Savings: Premium Deals on Samsung Electronics This Prime Day</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-auto-brightness-problem-using-7-effective-fixes/"><u>Solve Your iPhone's Auto-Brightness Problem Using 7 Effective Fixes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-tutorial-sharing-screens-in-discord-for-2024/"><u>The Ultimate Tutorial Sharing Screens in Discord for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/word5word/"><u>Word文件不見？5种簡单办法保存丢失的Word文档！</u></a></li>
+<li><a href="https://win-webster.techidaily.com/44oe44kr44ov44kj44o844gm5ymk6zmk44gx44gf44ov44kh44kk44or44gu5b6p5ywd5oml6acg44gr44gk44ge44gm5a2m44g2/"><u>マカフィーが削除したファイルの復元手順について学ぶ</u></a></li>
 </ul></div>
 
