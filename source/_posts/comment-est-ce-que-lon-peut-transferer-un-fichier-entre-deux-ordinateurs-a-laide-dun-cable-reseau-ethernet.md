@@ -1,7 +1,7 @@
 ---
 title: Comment Est-Ce Que L'on Peut Transférer Un Fichier Entre Deux Ordinateurs À L'aide D'un Câble Réseau Ethernet?
-date: 2025-01-25T19:34:15.358Z
-updated: 2025-01-26T23:58:02.559Z
+date: 2025-03-02T18:23:58.054Z
+updated: 2025-03-07T17:55:23.643Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa73283e591a5a7261febdc4cbc2c.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -52,17 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -114,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -130,17 +114,9 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -152,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -163,10 +135,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -186,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,21 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-visual-voyage-exploring-pexels-for-perfect-shots/"><u>[New] In 2024, A Visual Voyage Exploring Pexels for Perfect Shots</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-sync-splice-and-spruce-pro-video-editing-in-one-tool/"><u>[New] Sync, Splice & Spruce Pro Video Editing in One Tool</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>[Updated] From Script to Screen YouTube Tutorial & Alternative Pathways</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>[Updated] YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>2024 Approved Simplifying the Complex An In-Depth Review of Vida App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-hot-30-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix Hot 30 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/explore-pcdj-dex-3s-new-capabilities-comprehensive-video-tour-revealed/"><u>Explore PCDJ Dex 3'S New Capabilities: Comprehensive Video Tour Revealed</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-decrease-ram-usage-on-your-computer-effective-strategies-by-yl-computing/"><u>How to Decrease RAM Usage on Your Computer: Effective Strategies by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/identifying-frequent-triggers-behind-unstable-systems-insights-from-yl-computings-expertise/"><u>Identifying Frequent Triggers Behind Unstable Systems: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-webster.techidaily.com/immerse-yourself-in-black-butler-with-soma-image-collections-digital-creations-from-yl-software/"><u>Immerse Yourself in Black Butler with Soma Image Collections - Digital Creations From YL Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-ghostwire-tokyo-a-guide-to-prevent-pc-game-crashes/"><u>Mastering Ghostwire: Tokyo - A Guide to Prevent PC Game Crashes</u></a></li>
-<li><a href="https://win-webster.techidaily.com/premium-hd-horses-graphics-and-walls-for-your-device-detailed-animal-portraits-with-yl-software-imagery/"><u>Premium HD Horses Graphics and Walls for Your Device | Detailed Animal Portraits with YL Software Imagery</u></a></li>
-<li><a href="https://win-webster.techidaily.com/professional-aluminium-folder-icons-bundle-crafted-by-yl-computing-for-superior-branding-with-yl-software-tools/"><u>Professional Aluminium Folder Icons Bundle - Crafted by YL Computing for Superior Branding with YL Software Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-12-mini-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 12 mini</u></a></li>
-<li><a href="https://win-webster.techidaily.com/troubleshooting-your-scanner-expert-tips-on-resolving-improper-scan-issues-guidance-by-yl-computing/"><u>Troubleshooting Your Scanner: Expert Tips on Resolving Improper Scan Issues - Guidance by YL Computing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-resume-post-creators-patching/"><u>Win11 Resume Post-Creators Patching</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-practical-steps-for-disabling-youtube-channels-on-devices/"><u>[New] 2024 Approved Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-understanding-igtv-from-basics-to-advanced-techniques/"><u>[Updated] Understanding IGTV From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-worldwide-top-earners-in-the-streaming-sphere/"><u>[Updated] Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-comprendre-la-suppression-automatique-des-fichiers-dans-votre-corbeille-resolu/"><u>1. Comprendre La Suppression Automatique Des Fichiers Dans Votre Corbeille [Résolu]</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725289380878-windows-11dvd/"><u>為Windows 11使用者提供免費高品質DVD影片播放器 - 立即按此獲取無限序號</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-deplacer-votre-logiciel-de-windows-10-a-windows-11-un-manuel-dexperts/"><u>Comment Déplacer Votre Logiciel De Windows 10 À Windows 11 : Un Manuel D'Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-effacer-un-disque-dur-sous-windows-7-sans-cd-deux-methodes/"><u>Comment Effacer Un Disque Dur Sous Windows 7 Sans CD - Deux Méthodes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effiziente-methode-zur-datenwiedergewinnung-von-externer-seagate-hardware-exklusive-tipps-und-tricks/"><u>Effiziente Methode Zur Datenwiedergewinnung Von Externer Seagate Hardware - Exklusive Tipps Und Tricks</u></a></li>
+<li><a href="https://win-webster.techidaily.com/einfach-zu-verstehen-die-grundlagen-des-neuerstellens-von-gebrauchtgeraten-iphoneipad-fur-neueinsteiger/"><u>Einfach Zu Verstehen: Die Grundlagen Des Neuerstellens Von Gebrauchtgeräten (iPhone/iPad) Für Neueinsteiger</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-monitor-and-update-your-softwares-file-size-metrics-effectively/"><u>How to Monitor and Update Your Software's File Size Metrics Effectively</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-work-with-objects-in-emeditor-a-step-by-step-guide/"><u>How to Work with Objects in EmEditor - A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-dub-like-a-pro-top-6-video-dubbing-apps-for-funny-videos/"><u>New In 2024, Dub Like a Pro Top 6 Video Dubbing Apps for Funny Videos</u></a></li>
+<li><a href="https://win-webster.techidaily.com/section-3a-the-central-dogma-of-molecular-biology/"><u>Section 3A: The Central Dogma of Molecular Biology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-to-restore-your-steam-voice-chat-functionality/"><u>Solutions to Restore Your Steam Voice Chat Functionality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-free-software-effortless-backup-of-windows-11-on-an-external-hard-drive/"><u>Top Free Software: Effortless Backup of Windows 11 on an External Hard Drive</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-ios-data-restoration-programs-compatible-with-windows-11-a-comprehensive-guide/"><u>Top-Rated iOS Data Restoration Programs Compatible with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-health-routine-using-the-top-8-chatbot-tools-tailored-to-fitness-enthusiasts/"><u>Transform Your Health Routine Using the Top 8 Chatbot Tools Tailored to Fitness Enthusiasts</u></a></li>
 </ul></div>
 

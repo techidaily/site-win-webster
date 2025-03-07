@@ -1,7 +1,7 @@
 ---
 title: "Mastering Solutions for Inaccessible SD Media: How to Fix Non-Reading Memory Cards on Computers"
-date: 2025-01-25T03:09:48.776Z
-updated: 2025-01-26T19:18:42.132Z
+date: 2025-03-01T18:52:06.719Z
+updated: 2025-03-07T18:10:19.432Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad081249b06af69891f71aad7773d2.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -89,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,22 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-visionsplit-assessment-overview/"><u>[New] 2024 Approved VisionSplit Assessment Overview</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-comprehensive-guide-capturing-webex-meetings-in-hd-the-ultimate-recording-tutorial/"><u>1. Comprehensive Guide: Capturing Webex Meetings in HD - The Ultimate Recording Tutorial</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-quickly-clip-and-save-your-favorite-youtube-sections/"><u>2024 Approved How to Quickly Clip and Save Your Favorite YouTube Sections</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-your-auditory-adventures-installing-apple-podcasts-app/"><u>2024 Approved Unleash Your Auditory Adventures Installing Apple Podcasts App</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-to-blocking-network-interface-usage-in-windows-a-step-by-step-approach/"><u>Guide to Blocking Network Interface Usage in Windows: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-can-older-video-card-drivers-impact-system-speed-and-efficiency-exploring-the-truth-with-yl-solutions/"><u>How Can Older Video Card Drivers Impact System Speed and Efficiency? - Exploring the Truth with YL Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-conceal-specific-features-within-your-admin-dashboard-insights-from-yl-computings-expertise/"><u>How to Conceal Specific Features Within Your Admin Dashboard - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-nokia-130-music-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia 130 Music ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
-<li><a href="https://win-webster.techidaily.com/optimizing-your-computers-performance-essential-tips-yl-solutions/"><u>Optimizing Your Computer's Performance: Essential Tips - YL Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-obstacles-successful-setup-of-corsair-icue-with-windows-11/"><u>Overcoming Obstacles: Successful Setup of Corsair iCUE with Windows 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/setting-up-correct-file-access-rights-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Correct File Access Rights: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-adjusting-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-s18e-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo S18e Device</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-rated-registry-cleaner-tools-a-comprehensive-guide-by-yl-computing/"><u>Top-Rated Registry Cleaner Tools: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-essential-techniques-for-linking-and-easing-scenes-together/"><u>Updated In 2024, Essential Techniques for Linking and Easing Scenes Together</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/x-racing-olympics-the-top-sections-of-22/"><u>X-Racing Olympics The Top Sections of '22</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-auditory-allure-finding-perfect-background-sounds/"><u>[New] Auditory Allure Finding Perfect Background Sounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-harnessing-zoom-for-impactful-youtube-livestream-presentations/"><u>[New] In 2024, Harnessing Zoom for Impactful YouTube Livestream Presentations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>[New] Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleash-windows-11-potential-latest-apps-and-games/"><u>[Updated] 2024 Approved Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ethereal-evenings-select-10-websites-for-hd-astronomical-shots/"><u>[Updated] Ethereal Evenings Select 10 Websites for HD Astronomical Shots</u></a></li>
+<li><a href="https://win-webster.techidaily.com/beginners-guide-to-opening-with-a-slider-view-in-flipbuilder-craft-impressive-thumbnails-from-the-start/"><u>Beginner's Guide to Opening with a Slider View in FlipBuilder – Craft Impressive Thumbnails From the Start</u></a></li>
+<li><a href="https://win-webster.techidaily.com/build-a-stunning-web-published-flipbook-with-html-a-step-by-step-guide-using-flipbuilder/"><u>Build a Stunning Web-Published Flipbook with HTML: A Step-by-Step Guide Using FlipBuilder</u></a></li>
+<li><a href="https://win-webster.techidaily.com/convert-your-pdfs-into-a-professional-slideshow-with-our-free-pdf-to-flipbook-tool/"><u>Convert Your PDFs Into a Professional Slideshow with Our Free PDF-to-Flipbook Tool</u></a></li>
+<li><a href="https://win-webster.techidaily.com/converting-office-files-to-engaging-ebook-format-featuring-a-table-of-contents-learn-with-flipbuilder/"><u>Converting Office Files to Engaging eBook Format Featuring a Table of Contents - Learn with FlipBuilder</u></a></li>
+<li><a href="https://win-webster.techidaily.com/create-captivating-flipbook-textbooks-with-integrated-images-using-flipbuilder/"><u>Create Captivating Flipbook Textbooks with Integrated Images Using FlipBuilder</u></a></li>
+<li><a href="https://win-webster.techidaily.com/create-interactive-page-turning-e-books-from-regular-pdfs-discover-how-on-flipbuildercom/"><u>Create Interactive Page-Turning E-Books From Regular PDFs - Discover How on FlipBuilder.com!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/customize-book-covers-with-flipbuilders-easy-background-editing-techniques/"><u>Customize Book Covers with FlipBuilder's Easy Background Editing Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/plit-screen-video-tutorials-for-youtube-enthusiasts/"><u>DIY Split-Screen Video Tutorials for YouTube Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tless-earnings-channel-size-no-longer-a-challenge-for-2024/"><u>Effortless Earnings Channel Size No Longer a Challenge for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-windows-11-logon-from-pin-to-password-a-step-by-step-guide/"><u>Switching Windows 11 Logon From PIN to Password: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
 

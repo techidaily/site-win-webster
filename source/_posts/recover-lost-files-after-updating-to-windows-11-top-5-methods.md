@@ -1,7 +1,7 @@
 ---
 title: Recover Lost Files After Updating to Windows 11 (Top 5 Methods)
-date: 2025-01-20T17:56:56.767Z
-updated: 2025-01-26T23:01:15.594Z
+date: 2025-03-01T16:50:56.421Z
+updated: 2025-03-07T16:25:53.860Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70c0aa03967d621fbfa5bc6d6.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -58,10 +54,6 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -70,10 +62,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
@@ -81,10 +69,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -101,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -126,25 +106,13 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -211,10 +179,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
@@ -268,24 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-live-techniques-lowering-volume-gradually/"><u>[Updated] In 2024, Live Techniques Lowering Volume Gradually</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-tech-whizs-guide-to-recording-games-on-win10-for-2024/"><u>[Updated] The Tech Whiz's Guide to Recording Games on Win10 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-upload-longer-videos-on-instagram/"><u>2024 Approved How to Upload Longer Videos on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-video-transformations-in-vlc-from-mp4-variety/"><u>2024 Approved Navigating Video Transformations in VLC From MP4 Variety</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-stepping-into-the-unseen-mastering-windows-11-through-less-known-tips/"><u>2024 Approved Stepping Into the Unseen Mastering Windows 11 Through Less-Known Tips</u></a></li>
-<li><a href="https://win-webster.techidaily.com/best-iphone-data-retrieval-tools-top-20-software-solutions-reviewed-for-windows-computers/"><u>Best iPhone Data Retrieval Tools: Top 20 Software Solutions Reviewed for Windows Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-llm-functionality-and-mechanics/"><u>Deciphering LLM Functionality and Mechanics</u></a></li>
-<li><a href="https://win-webster.techidaily.com/een-kronkelwijze-waarbij-je-de-vier-top-manieren-kan-ondersteunen-om-windows-update-bestanden-te-verwijderen-met-windows-11/"><u>Een Kronkelwijze Waarbij Je De Vier Top-Manieren Kan Ondersteunen Om Windows Update Bestanden Te Verwijderen Met Windows 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/error-404-webpage-missing-unable-to-locate-the-content/"><u>Error 404: Webpage Missing - Unable to Locate the Content</u></a></li>
-<li><a href="https://win-webster.techidaily.com/expert-guide-restoring-lost-voice-memos-in-your-olympus-or-sony-sound-recorder/"><u>Expert Guide: Restoring Lost Voice Memos in Your Olympus or Sony Sound Recorder</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-macos-with-craft-the-ultimate-guide-to-using-this-remarkable-document-editor-zdnet/"><u>Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor - ZDNet</u></a></li>
-<li><a href="https://win-webster.techidaily.com/mastering-pxe-boot-techniques-an-experts-guide-to-preboot-execution-environment/"><u>Mastering PXE Boot Techniques: An Expert's Guide to Preboot eXecution Environment</u></a></li>
-<li><a href="https://win-webster.techidaily.com/reparieren-von-beschadigten-systemdateien-unter-windows-111087/"><u>Reparieren Von Beschädigten Systemdateien Unter Windows 11/10/8/7</u></a></li>
-<li><a href="https://win-webster.techidaily.com/story-1-the-misconception-about-hyperkalemia/"><u>Story 1: The Misconception About Hyperkalemia</u></a></li>
-<li><a href="https://win-webster.techidaily.com/techniques-rapides-pour-le-deplacement-de-documents-sur-microsoft-onedrive-des-astuces-pour-une-mise-en-oeuvre-aisee/"><u>Techniques Rapides Pour Le Déplacement De Documents Sur Microsoft OneDrive: Des Astuces Pour Une Mise en Oeuvre Aisée</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-and-functioning-of-transfer-learning-within-artificial-intelligence/"><u>The Role and Functioning of Transfer Learning Within Artificial Intelligence</u></a></li>
-<li><a href="https://win-webster.techidaily.com/wd-my-passport-fixed-come-ripristinare-la-perdita-della-partizione-in-italiano/"><u>WD My Passport Fixed! Come Ripristinare La Perdita Della Partizione in Italiano</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-11and/"><u>Windows 11におけるビデオ再生不能問題：原因分析&対策ガイド</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pinnacle-chroma-modifier/"><u>2024 Approved Pinnacle Chroma Modifier</u></a></li>
+<li><a href="https://driver-install.techidaily.com/chinas-homegrown-processor-visionary-fuels-lenovos-new-pc-portfolio-other-oems-follow-suit-with-zhoaxin-driven-products/"><u>China's Homegrown Processor Visionary Fuels Lenovo's New PC Portfolio; Other OEMs Follow Suit With Zhoaxin-Driven Products</u></a></li>
+<li><a href="https://win-webster.techidaily.com/enhance-your-karaoke-business-using-karaoke-cloud-pro-subscription-a-must-read-for-kjs-and-performers/"><u>Enhance Your Karaoke Business Using Karaoke Cloud Pro Subscription - A Must-Read for KJs and Performers!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exploring-possible-hazards-and-limitations-in-cryptocurrency-usage-insights-by-yl-computing-and-yl-software/"><u>Exploring Possible Hazards and Limitations in Cryptocurrency Usage: Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/exploring-potential-factors-in-recurrent-online-connectivity-issues-with-insights-from-yl-computing-and-yl-software/"><u>Exploring Potential Factors in Recurrent Online Connectivity Issues with Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/haunting-beats-ultimate-halloween-playlist-for-epic-parties-in-2018-curated-by-pro-cdjs/"><u>Haunting Beats: Ultimate Halloween Playlist for Epic Parties in 2018 - Curated by Pro CDJs</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-dodge-demon-visuals-ultimate-walls-backgrounds-and-wallpaper-collections-by-yl-software/"><u>High-Definition Dodge Demon Visuals: Ultimate Walls, Backgrounds & Wallpaper Collections by YL Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f34-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy F34 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862810923-huge-discount-alert-600-off-on-the-incredible-samsung-49-inch-oled-monitor-limited-time-offer/"><u>Huge Discount Alert: $600 Off on the Incredible Samsung 49-Inch OLED Monitor - Limited Time Offer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-windows-11-a-look-at-the-latest-features/"><u>In 2024, Windows 11 A Look at the Latest Features</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-motherboard-restoration-feasible-for-damaged-laptops-tips-by-yl-computing-professionals/"><u>Is Motherboard Restoration Feasible for Damaged Laptops? Tips by YL Computing Professionals</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968840668-latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1087-download-now/"><u>Latest NVIDIA GeForce RTX 3090 Drivers: Compatible with Windows 10/8/7 – Download Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-amr-audio-experts-resource-a-complete-walkthrough-for-mastering-amr-files/"><u>New In 2024, The AMR Audio Experts Resource A Complete Walkthrough for Mastering AMR Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-play-the-role-of-ai-in-shaping-the-video-game-world/"><u>Revolutionizing Play: The Role of AI in Shaping the Video Game World</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tailored-updates-mf4770n-for-windows-oses/"><u>Tailored Updates: MF4770n for WIndows OSes</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unraveling-the-mystery-behind-windows-system-memory-issues-insights-from-yl-computing/"><u>Unraveling the Mystery Behind Windows System Memory Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/yl-computings-moving-notes-hd-live-interactive-wallpaper-by-yl-software/"><u>YL Computing's Moving Notes HD - Live, Interactive Wallpaper by YL Software</u></a></li>
 </ul></div>
 

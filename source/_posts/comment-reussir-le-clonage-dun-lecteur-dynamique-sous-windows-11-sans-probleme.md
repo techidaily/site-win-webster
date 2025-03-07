@@ -1,7 +1,7 @@
 ---
 title: Comment Réussir Le Clonage D'un Lecteur Dynamique Sous Windows 11 Sans Problème
-date: 2025-01-21T21:12:47.660Z
-updated: 2025-01-27T08:49:20.645Z
+date: 2025-03-05T18:25:56.742Z
+updated: 2025-03-07T19:49:43.444Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/97a064f556a7bb067611e98f7f33b087d4344415697ae32a33a8f3d286a74da8.png
@@ -27,10 +27,6 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -59,10 +55,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -96,10 +88,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -150,34 +138,18 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -192,19 +164,11 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -279,10 +243,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -298,18 +258,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook.techidaily.com/banish-facebooks-privacy-invasion-with-off-fb-controls/"><u>Banish Facebook's Privacy Invasion with Off-FB Controls</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/can-windows-defender-identify-risky-internet-exploreredge-actions-discover-the-secrets-with-yl-softwares-analysis/"><u>Can Windows Defender Identify Risky Internet Explorer/Edge Actions? Discover the Secrets with YL Software's Analysis</u></a></li>
-<li><a href="https://win-webster.techidaily.com/fixing-your-iphones-app-store-glitches-following-the-latest-ios-15-patch/"><u>Fixing Your iPhone's App Store Glitches Following the Latest iOS 15 Patch</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ssing-google-trends-for-video-concept-generation-for-2024/"><u>Harnessing Google Trends for Video Concept Generation for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/implementing-incremental-noise-reduction-using-audacity-for-2024/"><u>Implementing Incremental Noise Reduction Using Audacity for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-7-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 7 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-navigating-vimeo-success-strategies-for-staff-picked-videos/"><u>In 2024, Navigating Vimeo Success Strategies for Staff-Picked Videos</u></a></li>
-<li><a href="https://win-webster.techidaily.com/iphone-itunes/"><u>IPhoneでメッセージバックアップ: ITunes以外の転送方法</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/navigating-apowersoft-pdf-shrinker-tutorial-a-comprehensive-guide-for-efficient-file-management/"><u>Navigating Apowersoft PDF Shrinker Tutorial: A Comprehensive Guide for Efficient File Management</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/orthographic-odyssey-comparing-brazilian-and-european/"><u>Orthographic Odyssey: Comparing Brazilian and European</u></a></li>
-<li><a href="https://win-webster.techidaily.com/success-story-overcoming-icloud-photo-sync-challenges-with-iphone-ipad-and-desktop-computers/"><u>Success Story: Overcoming iCloud Photo Sync Challenges with iPhone, iPad & Desktop Computers</u></a></li>
-<li><a href="https://win-webster.techidaily.com/tiga-langkah-gratis-untuk-mengenali-dan-menemukan-file-yang-hapus-abad-ke-3/"><u>Tiga Langkah Gratis Untuk Mengenali Dan Menemukan File Yang Hapus Abad Ke-3</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-from-laughs-to-clicks-your-stepwise-journey-on-9gag/"><u>[New] 2024 Approved From Laughs to Clicks Your Stepwise Journey on 9GAG</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-hands-free-strategies-for-logging-online-meetings/"><u>[New] Hands-Free Strategies for Logging Online Meetings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-best-starting-points-on-youtube-top-16-opener-list-for-growth/"><u>[New] In 2024, Best Starting Points on YouTube Top 16 Opener List for Growth</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-stand-out-in-the-digital-realm-selecting-unique-youtube-channel-names/"><u>[New] In 2024, Stand Out in the Digital Realm Selecting Unique YouTube Channel Names</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-step-by-step-guide-replacing-hard-drive-type-c-with-an-ssd-in-your-windows-pc-for-enhanced-performance/"><u>1. Step-by-Step Guide: Replacing Hard Drive Type C with an SSD in Your Windows PC for Enhanced Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-cam-gear-mastering-low-speed-video-recording/"><u>2024 Approved Ultimate Cam Gear Mastering Low-Speed Video Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capturing-charm-sage-advice-on-editing-digital-art/"><u>Capturing Charm Sage Advice on Editing Digital Art</u></a></li>
+<li><a href="https://win-webster.techidaily.com/easy-steps-for-rescuing-and-rebuilding-data-after-an-asus-laptop-crash-in-windows-11/"><u>Easy Steps for Rescuing and Rebuilding Data After an ASUS Laptop Crash in Windows 11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effizientes-boot-cloning-auf-einen-kleineren-ssd-mit-windows-11/"><u>Effizientes Boot-Cloning Auf Einen Kleineren SSD Mit Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-12-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 12 mini to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/instrucciones-paso-a-paso-para-downgradear-windows-11-en-tu-portatil-reciente-sin-problemas/"><u>Instrucciones Paso a Paso Para Downgradear Windows 11 en Tu Portátil Reciente Sin Problemas</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-it-possible-to-perform-a-remote-backup-on-an-iphone-steps-and-tips-inside/"><u>Is It Possible to Perform a Remote Backup on an iPhone? Steps and Tips Inside</u></a></li>
+<li><a href="https://win-webster.techidaily.com/recover-lost-files-after-updating-to-windows-11-top-5-methods/"><u>Recover Lost Files After Updating to Windows 11 (Top 5 Methods)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-mastery-of-lacies-data-recovery-app-on-windows-11/"><u>Step-by-Step Mastery of LaCie's Data Recovery App on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-behind-beautiful-selfies-discover-the-power-of-quality-ring-lights/"><u>The Secret Behind Beautiful Selfies? Discover the Power of Quality Ring Lights!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-free-wmv-video-splitters/"><u>The Ultimate Guide to Free WMV Video Splitters</u></a></li>
+<li><a href="https://win-webster.techidaily.com/imkanat-mzamna-windows-aal-4-trk-tmkyn-alshfafya-byn-aghza-alkmbyotr/"><u>إمكانات مزامنة Windows على 4 طرق - تمكين الشفافية بين أجهزة الكمبيوتر</u></a></li>
 </ul></div>
 

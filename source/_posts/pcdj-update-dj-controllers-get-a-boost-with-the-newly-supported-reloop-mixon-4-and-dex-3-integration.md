@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update: DJ Controllers Get a Boost with the Newly Supported REloop MIXON 4 and DEX 3 Integration"
-date: 2025-02-14T05:25:19.874Z
-updated: 2025-02-19T07:24:38.233Z
+date: 2025-03-04T19:15:14.174Z
+updated: 2025-03-07T17:30:13.256Z
 tags:
   - product
 categories:
@@ -39,10 +39,6 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reloop Mixon 4 Features & Specifications
 
@@ -99,10 +95,6 @@ Download the map for the **Reloop Mixon 4** below, install as explained and laun
 
 _Have questions about the **Reloop Mixon 4** and how it works with our [**DEX 3 DJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-12-20 11:38:382018-10-03 15:33:50DJ Controllers | The Reloop Mixon 4 Is Now DEX 3 Supported}
@@ -122,21 +114,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/12/mixon4-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-nexus-nightlife-virtual-theater-realm-for-2024/"><u>[New] Nexus Nightlife Virtual Theater Realm for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vercoming-the-invisible-screen-hurdle-youtube-fixes/"><u>[New] Overcoming the Invisible Screen Hurdle YouTube Fixes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-vintage-vault-visit-a-nostalgic-look-at-goofys-film/"><u>[Updated] 2024 Approved Vintage Vault Visit A Nostalgic Look at 'Goofy's Film</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-beyond-virality-understanding-what-makes-triller-different-from-tiktok/"><u>[Updated] Beyond Virality Understanding What Makes Triller Different From TikTok</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-tracing-gaps-in-your-instagram-circle/"><u>2024 Approved Tracing Gaps in Your Instagram Circle</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/asus-mg28uq-monitor-review-bridging-the-high-res-divide-for-2024/"><u>ASUS MG28UQ Monitor Review Bridging the High-Res Divide for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-hp-graphics-on-windows-11-with-new-driver-updates/"><u>Enhance HP Graphics on Windows 11 with New Driver Updates</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fresh-filmmakers-footnotes-unveiling-video-quality-terms/"><u>Fresh Filmmaker's Footnotes Unveiling Video Quality Terms</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-to-blocking-network-interface-usage-in-windows-a-step-by-step-approach/"><u>Guide to Blocking Network Interface Usage in Windows: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-conceal-specific-features-within-your-admin-dashboard-insights-from-yl-computings-expertise/"><u>How to Conceal Specific Features Within Your Admin Dashboard - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
-<li><a href="https://win-webster.techidaily.com/optimizing-your-computers-performance-essential-tips-yl-solutions/"><u>Optimizing Your Computer's Performance: Essential Tips - YL Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/setting-up-correct-file-access-rights-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Correct File Access Rights: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-adjusting-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-rated-registry-cleaner-tools-a-comprehensive-guide-by-yl-computing/"><u>Top-Rated Registry Cleaner Tools: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-macos-big-sur-minimum-requirements-for-2024/"><u>Understanding MacOS Big Sur Minimum Requirements for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-best-video-capture-for-iphoneipad-users/"><u>[New] The Best Video Capture for iPhone/iPad Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-stretched-seconds-capturing-slow-mo-videos-using-mobile-apps-and-internet-platforms/"><u>[New] The Ultimate Guide to Stretched Seconds Capturing Slow-Mo Videos Using Mobile Apps and Internet Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-video-marketing-boost-with-free-intro-creations-for-2024/"><u>[New] Video Marketing Boost with Free Intro Creations for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ingenious-webcam-use-cases-at-home/"><u>[Updated] In 2024, Ingenious Webcam Use Cases at Home</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-assembly-of-google-image-mosaics/"><u>[Updated] Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://win-webster.techidaily.com/error-404-webpage-missing-unable-to-locate-the-content/"><u>Error 404: Webpage Missing - Unable to Locate the Content</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-complet-comment-conserver-le-pilote-inteligence-c-sur-windows-11-avec-deux-techniques-eprouvees/"><u>Guide Complet : Comment Conserver Le Pilote Inteligence C Sur Windows 11 Avec Deux Techniques Éprouvées</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-online-collage-creators-photo-and-video-editing-made-easy/"><u>New In 2024, Online Collage Creators Photo and Video Editing Made Easy</u></a></li>
+<li><a href="https://win-webster.techidaily.com/solucion-a-la-desincronizacion-de-gmail-con-outlook-mac-top-6-metodos-para-resolver-el-problema/"><u>Solución a La Desincronización De Gmail Con Outlook Mac: Top 6 Métodos Para Resolver El Problema</u></a></li>
+<li><a href="https://win-webster.techidaily.com/story-1-the-misconception-about-hyperkalemia/"><u>Story 1: The Misconception About Hyperkalemia</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-comprehensible-guide-to-skypes-mp3-recorder/"><u>The Comprehensible Guide to Skype's MP3 Recorder</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-subtitle-edit-replacements-for-mac-users/"><u>Updated In 2024, Best Subtitle Edit Replacements for Mac Users</u></a></li>
+<li><a href="https://win-webster.techidaily.com/wd-my-passport-fixed-come-ripristinare-la-perdita-della-partizione-in-italiano/"><u>WD My Passport Fixed! Come Ripristinare La Perdita Della Partizione in Italiano</u></a></li>
 </ul></div>
 

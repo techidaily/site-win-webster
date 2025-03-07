@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Program v1.9: Free Download & New Feature - Including Sample Tracks for DJs"
-date: 2025-01-23T06:41:54.569Z
-updated: 2025-01-26T18:08:17.430Z
+date: 2025-03-04T17:17:09.366Z
+updated: 2025-03-07T16:55:46.829Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Updated, and Fixed in LYRX 1.19
 
 * The 2 included skins (interfaces) now have a brand-new Samples tab (with 6 samplers) – use for sound effects, jingles, etc
@@ -49,10 +45,6 @@ As always, version 1.9 is a free update for [LYRX](https://www.lyrxkaraoke.com) 
 **IMPORTANT NOTE:** If you receive this warning _“setup\_LYRX\_1.19\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina or above, [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest 1.19 version of our **best karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -73,22 +65,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/11/lyrx-blog-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-innovative-screen-use-creating-picture-in-picture-videos-on-macos/"><u>[Updated] 2024 Approved Innovative Screen Use Creating Picture in Picture Videos on macOS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-elite-desktopmobile-communication-software-zoom-substitutes/"><u>2024 Approved Elite Desktop/Mobile Communication Software (Zoom Substitutes)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-overcoming-the-challenge-of-vr-sickness/"><u>2024 Approved Overcoming the Challenge of VR Sickness</u></a></li>
-<li><a href="https://win-webster.techidaily.com/56k65a6f44gr44oh44o844k5q6l44gv44ga5yplusk44ge44or44k944kz44oz44gu44kv44oq44ki5pa55rov/"><u>確実にデータ残さず古いパソコンのクリア方法</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effortless-techniques-to-uncover-concealed-iphone-programs-for-users/"><u>Effortless Techniques to Uncover Concealed iPhone Programs for Users</u></a></li>
-<li><a href="https://win-webster.techidaily.com/fix-and-optimize-your-pc-end-constant-windows-11-drive-scans/"><u>Fix & Optimize Your PC: End Constant Windows 11 Drive Scans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-srt-primer-for-enthusiasts/"><u>In 2024, The Ultimate SRT Primer for Enthusiasts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/kostenlos-und-sicher-top-alternativen-zu-shadowprotect-im-jahr-2024/"><u>Kostenlos Und Sicher – Top-Alternativen Zu ShadowProtect Im Jahr 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/pantalla-azul-en-windows-7-explicada-tecnicas-para-restaurar-la-funcionalidad-del-sistema/"><u>Pantalla Azul en Windows 7 Explicada - Técnicas Para Restaurar La Funcionalidad Del Sistema</u></a></li>
-<li><a href="https://win-webster.techidaily.com/recovering-permanently-lost-photographs-on-your-iphone-without-a-previous-backup/"><u>Recovering Permanently Lost Photographs on Your iPhone Without a Previous Backup</u></a></li>
-<li><a href="https://win-webster.techidaily.com/rescue-and-revitalize-deleted-pictures-proven-techniques-for-cost-free-recovery-of-missing-photos/"><u>Rescue & Revitalize Deleted Pictures: Proven Techniques for Cost-Free Recovery of Missing Photos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721446458846-struggling-with-iphones-auto-brightness-feature-discover-7-quick-fixes-here/"><u>Struggling With iPhone's Auto-Brightness Feature? Discover 7 Quick Fixes Here!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/techkey-bluetooth-driver-software-update-compatible-now-with-windows-8-7-and-latest-10/"><u>Techkey Bluetooth Driver Software Update: Compatible Now With Windows 8, 7 and Latest 10</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-ranking-drive-duplication-tools-simplify-your-booting-process-with-the-best-cloning-software/"><u>Top-Ranking Drive Duplication Tools: Simplify Your Booting Process with the Best Cloning Software</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/troubleshooting-and-repairing-common-microsoft-os-errors-with-expert-tips-by-yl-computing/"><u>Troubleshooting and Repairing Common Microsoft OS Errors with Expert Tips by YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-exploring-the-innovations-of-the-brand-new-apple-iphone-15-pro/"><u>Unboxing and Exploring the Innovations of the Brand New Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-drone-technology-mechanisms-and-applications-demystified-for-2024/"><u>Unraveling Drone Technology Mechanisms and Applications Demystified for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-science-behind-youtube-video-upload-cycles-and-their-impact-on-engagement/"><u>[New] The Science Behind YouTube Video Upload Cycles and Their Impact on Engagement</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-ultimate-guide-preserving-your-whole-chat-history-on-iphone-in-5-simple-steps/"><u>1. Ultimate Guide: Preserving Your Whole Chat History on iPhone in 5 Simple Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-enhancing-tweets-for-exceptional-hd-quality/"><u>2024 Approved Enhancing Tweets for Exceptional HD Quality</u></a></li>
+<li><a href="https://win-webster.techidaily.com/outlook-save-as-attachment/"><u>方法介紹：如何使用 Outlook Save as Attachment 功能以複製郵件檔案?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728505991810-dropbox/"><u>失われたDropboxフォルダを取り戻す：消えてしまったデータの復元手順</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/garageband-strategies-for-perfect-podcast-editing/"><u>GarageBand Strategies for Perfect Podcast Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/graphic-animation-basic-knowledge-and-practices-for-2024/"><u>Graphic Animation Basic Knowledge & Practices for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-non-sync-errors-with-dropbox-in-windows-11-tips-for-a-smooth-recovery-or-upgrade-options/"><u>Resolving Non-Sync Errors with Dropbox in Windows 11: Tips for a Smooth Recovery or Upgrade Options</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-alternativen-zur-erholung-von-sd-speicherkarte-durch-geek-squad/"><u>Top-Alternativen Zur Erholung Von SD-Speicherkarte Durch Geek Squad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-googles-gemini-its-role-in-shaping-future-ai-landscapes/"><u>Unveiling Google's Gemini: Its Role in Shaping Future AI Landscapes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webp-jpg/"><u>WebP 그림을 JPG로 무료 강조한 웹 편집 도구 - 모바이비</u></a></li>
 </ul></div>
 

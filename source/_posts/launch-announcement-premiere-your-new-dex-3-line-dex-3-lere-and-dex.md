@@ -1,7 +1,7 @@
 ---
 title: "Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex"
-date: 2025-02-12T05:42:23.622Z
-updated: 2025-02-19T07:40:25.384Z
+date: 2025-03-02T19:48:06.309Z
+updated: 2025-03-07T19:17:04.520Z
 tags:
   - product
 categories:
@@ -76,10 +76,6 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-05-09 11:19:282018-10-03 15:34:43DEX 3 LE, DEX 3 RE and DEX 3.6 Press Release}
@@ -99,20 +95,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-playbook-techniques-to-archive-your-unique-vr-adventures/"><u>[New] 2024 Approved The Ultimate Playbook Techniques to Archive Your Unique VR Adventures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-selection-of-top-15-4k-cameras-for-2024/"><u>[Updated] The Ultimate Selection of Top 15 4K Cameras for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-efficiently-traverse-youtubes-votes-and-reaction-space/"><u>2024 Approved Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-samsung-screen-captures-of-your-gaming-spree/"><u>2024 Approved Samsung Screen Captures of Your Gaming Spree</u></a></li>
-<li><a href="https://win-webster.techidaily.com/altering-the-preferred-application-for-specific-file-types-a-guide-by-yl-computing/"><u>Altering the Preferred Application for Specific File Types: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/experiencing-issues-with-your-pc-or-laptop-let-yl-computing-and-software-solutions-fix-them/"><u>Experiencing Issues With Your PC or Laptop? Let YL Computing & Software Solutions Fix Them!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/free-download-cue-hue-plugin-skins-compatible-with-all-dex-3-and-pcdj-software-editions/"><u>Free Download: Cue Hue Plugin Skins Compatible with All DEX 3 and PCDJ Software Editions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-webcam-software-for-your-lenovo-device-on-windows-7/"><u>Get the Newest Webcam Software for Your Lenovo Device on Windows 7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/head-to-head-review-google-nest-audio-versus-nest-mini/"><u>Head-to-Head Review: Google Nest Audio Versus Nest Mini</u></a></li>
-<li><a href="https://win-webster.techidaily.com/high-definition-bmw-i8-convertible-desktop-scenery-premium-walls-and-screensavers-download-now-from-yl-tech-solutions/"><u>High-Definition BMW I8 Convertible Desktop Scenery: Premium Walls & Screensavers - Download Now From YL Tech Solutions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-12-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi 12 5G FRP?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-printer-warning-messages-swiftly-with-tips-from-yl-software-experts/"><u>Resolving Printer Warning Messages Swiftly with Tips From YL Software Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-how-anime-can-accelerate-your-japanese-language-skills-the-top-12-picks/"><u>Ultimate Guide: How Anime Can Accelerate Your Japanese Language Skills – The Top 12 Picks</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unleash-your-mixing-potential-secure-your-official-pcdj-dex-software-update-v31020-today/"><u>Unleash Your Mixing Potential: Secure Your Official PCDJ DEX Software Update v3.10.2.0 Today!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-two-pronged-approach-to-perfecting-your-youtube-video-introduction/"><u>[New] 2024 Approved Two-Pronged Approach to Perfecting Your YouTube Video Introduction</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-in-search-of-alternatives-to-vlc-media-player/"><u>[New] In 2024, In Search of Alternatives to VLC Media Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-skybanking-for-heavy-data-hoarding/"><u>[Updated] Affordable SkyBanking for Heavy Data Hoarding</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-gratis-laten-sie-ihre-bilder-in-perfekter-qualitat-von-einer-hochwertigen-microsd-karte-exportieren/"><u>1. [Gratis] Laten Sie Ihre Bilder in Perfekter Qualität Von Einer Hochwertigen microSD-Karte Exportieren</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-2024sd6/"><u>1. 2024年に人気のSDカード回復ツールベスト6ピック:無料版も有料版も！</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-est-ce-que-lon-peut-transferer-un-fichier-entre-deux-ordinateurs-a-laide-dun-cable-reseau-ethernet/"><u>Comment Est-Ce Que L'on Peut Transférer Un Fichier Entre Deux Ordinateurs À L'aide D'un Câble Réseau Ethernet?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortlessly-overcome-playback-pauses/"><u>Effortlessly Overcome Playback Pauses</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-can-i-get-back-lost-data-on-my-computer-without-paying/"><u>How Can I Get Back Lost Data on My Computer Without Paying?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-next-level-android-for-3d-video-enthusiasts/"><u>In 2024, Next-Level Android for 3D Video Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-shotchrome-fx-chromes-screen-capturing/"><u>In 2024, ShotChrome FX Chrome's Screen Capturing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-gmail-efficiency-30-indispensable-keyboard-tricks/"><u>Master Gmail Efficiency: 30 Indispensable Keyboard Tricks</u></a></li>
+<li><a href="https://win-special.techidaily.com/risolvi-velocemente-come-cambiare-formato-da-file-nef-a-jpg-utilizzando-movavi-video-converter/"><u>Risolvi Velocemente: Come Cambiare Formato Da File NEF a JPG Utilizzando Movavi Video Converter</u></a></li>
+<li><a href="https://win-webster.techidaily.com/solution-guide-re-establishing-connection-with-itunes-after-your-ipad-goes-offline/"><u>Solution Guide: Re-Establishing Connection with iTunes After Your iPad Goes Offline</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-retrieving-information-from-nonfunctional-hard-disks/"><u>Step-by-Step Guide: Retrieving Information From Nonfunctional Hard Disks</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-free-software-for-seamless-usb-flash-drive-auto-backups/"><u>Top Free Software for Seamless USB Flash Drive Auto-Backups</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unable-to-locate-content-item-cannot-be-retrieved-error-404/"><u>Unable to Locate Content: Item Cannot Be Retrieved (Error 404)</u></a></li>
 </ul></div>
 

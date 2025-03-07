@@ -1,7 +1,7 @@
 ---
 title: Complete How-To Tutorial on Effective System Backup Methods Prior to Performing a Clean Windows 10 OS Reinstallation
-date: 2025-01-24T23:18:53.363Z
-updated: 2025-01-26T17:53:34.605Z
+date: 2025-03-01T19:20:49.985Z
+updated: 2025-03-07T16:12:55.711Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d9a0fed70b3544c875727acbd189babb9991061b2738772aa77659169a12a4b8.jpg
@@ -28,10 +28,6 @@ By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [Is it possible to recover data from ransomware?](https://tools.techidaily.com/ubackup/products/)
@@ -42,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -55,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -84,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -100,14 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -117,10 +93,6 @@ The how to recover ransomware encrypted files guide is instructed as follows. Yo
 Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit **Backup and Restore (Windows 7)**.
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
@@ -164,10 +136,6 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
@@ -199,10 +167,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
@@ -226,10 +190,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
 
@@ -256,19 +216,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-iphones-audio-upgrade-discover-best-software-for-youtube-to-mp3/"><u>[Updated] IPhone's Audio Upgrade Discover Best Software for YouTube-to-MP3</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-pop-culture-with-a-click-using-kinemaster/"><u>[Updated] Pop Culture with a Click Using KineMaster</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unveil-the-true-image-learn-background-removal-on-photopea-for-2024/"><u>[Updated] Unveil the True Image Learn Background Removal on Photopea for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-intel-me/"><u>Diagnosing and Repairing Intel ME</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-account-penaltinas-on-youtube-for-2024/"><u>Dodging Account Penaltinas on Youtube for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/golds-resilience-underpinned-by-hedge-demand-despite-short-term-pressures-analysis-by-yl-software/"><u>Gold's Resilience Underpinned by Hedge Demand Despite Short-Term Pressures, Analysis by YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-m14-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy M14 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus with IMEI Code?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-step-by-step-guide-to-excelling-at-final-cut-pro/"><u>In 2024, Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
-<li><a href="https://win-webster.techidaily.com/russ-doc-and-wristen-showcase-top-karaoke-apps-and-karaokecloud-pro-tips-for-march/"><u>Russ DOC & Wristen Showcase: Top Karaoke Apps and KaraokeCloud Pro Tips for March</u></a></li>
-<li><a href="https://win-webster.techidaily.com/troubleshooting-tips-how-to-fix-a-non-functional-camera-with-insights-from-yl-software-experts/"><u>Troubleshooting Tips: How to Fix a Non-Functional Camera with Insights From YL Software Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-correcting-errors-when-your-warframe-update-doesnt-work/"><u>Ultimate Guide: Correcting Errors When Your Warframe Update Doesn’t Work</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ultimate-ram-checklist-proven-strategies-from-yl-experts-to-test-your-computers-memory/"><u>Ultimate RAM Checklist: Proven Strategies From YL Experts to Test Your Computer’s Memory</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unseen-drives-solving-the-mystery-of-missing-hard-drives-in-windows-insights-by-yl-computing/"><u>Unseen Drives: Solving the Mystery of Missing Hard Drives in Windows - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-is-product-review-vlog-paid/"><u>[New] 2024 Approved Is Product Review Vlog Paid</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-real-time-recording-made-easy-for-your-skype-sessions/"><u>[New] In 2024, Real-Time Recording Made Easy for Your Skype Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-financial-fortune-with-facebook-video-marketing-key-strategies-explored/"><u>[Updated] Financial Fortune with Facebook Video Marketing Key Strategies Explored</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ideal-recording-gear-for-vloggers-for-2024/"><u>[Updated] Ideal Recording Gear for Vloggers for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-ultimate-guide-mastering-johnny-trigger-gameplay-on-your-computer/"><u>1. Ultimate Guide: Mastering Johnny Trigger Gameplay on Your Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-become-an-expert-at-multitasking-the-ffxp-way/"><u>2024 Approved Become an Expert at Multitasking The FFXP Way</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turning-youtube-music-into-mp3-files-with-macos/"><u>2024 Approved Turning YouTube Music Into MP3 Files with MacOS</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-steps-to-identify-and-fix-hardware-malfunctions-in-windows-guided-by-yl-software-experts/"><u>Easy Steps to Identify and Fix Hardware Malfunctions in Windows - Guided by YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-effective-is-the-video-conferencing-function-in-wechat-an-unbiased-examination-and-user-guide/"><u>How Effective Is the Video Conferencing Function in WeChat? An Unbiased Examination and User Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unrestricted-media-playback-free-on-windows-and-macos/"><u>In 2024, Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317505-9781848504103-intelligent-guide-to-the-sixth-sense/"><u>Intelligent Guide to the Sixth Sense | Free Book</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mp3-conversion-for-ios-devices-adding-music-to-your-iphone-using-itunes-and-alternative-methods/"><u>MP3 Conversion for iOS Devices: Adding Music to Your iPhone Using iTunes & Alternative Methods</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-images-from-your-sd-card-on-a-pc/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Images From Your SD Card on a PC</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-transforming-wmv-videos-to-mp3-playlists/"><u>Step-by-Step Tutorial on Transforming WMV Videos to MP3 Playlists</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-cloud-storage-options-for-android-devices-beyond-icloud/"><u>Top Cloud Storage Options for Android Devices: Beyond iCloud</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ultimate-walkthrough-effortless-facetime-broadcast-from-phone-to-tv/"><u>Ultimate Walkthrough: Effortless Facetime Broadcast From Phone to TV</u></a></li>
 </ul></div>
 

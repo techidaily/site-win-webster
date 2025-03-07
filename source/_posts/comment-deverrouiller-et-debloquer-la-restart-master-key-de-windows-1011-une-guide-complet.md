@@ -1,7 +1,7 @@
 ---
 title: "Comment Déverrouiller Et Débloquer La Restart Master Key De Windows 10/11: Une Guide Complet"
-date: 2025-01-23T19:16:04.406Z
-updated: 2025-01-27T07:03:10.888Z
+date: 2025-03-03T16:30:49.298Z
+updated: 2025-03-07T17:38:34.877Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a01231a15536e05f0907b970.png
@@ -50,19 +50,11 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -76,20 +68,12 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -113,15 +97,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -181,10 +157,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
@@ -202,10 +174,6 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -241,10 +209,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -279,10 +243,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -298,18 +258,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-professional-desktop-image-merging-tips/"><u>[Updated] 2024 Approved Professional Desktop Image Merging Tips</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>2024 Approved Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
-<li><a href="https://win-webster.techidaily.com/enhance-your-karaoke-business-using-karaoke-cloud-pro-subscription-a-must-read-for-kjs-and-performers/"><u>Enhance Your Karaoke Business Using Karaoke Cloud Pro Subscription - A Must-Read for KJs and Performers!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/exploring-possible-hazards-and-limitations-in-cryptocurrency-usage-insights-by-yl-computing-and-yl-software/"><u>Exploring Possible Hazards and Limitations in Cryptocurrency Usage: Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/exploring-potential-factors-in-recurrent-online-connectivity-issues-with-insights-from-yl-computing-and-yl-software/"><u>Exploring Potential Factors in Recurrent Online Connectivity Issues with Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/haunting-beats-ultimate-halloween-playlist-for-epic-parties-in-2018-curated-by-pro-cdjs/"><u>Haunting Beats: Ultimate Halloween Playlist for Epic Parties in 2018 - Curated by Pro CDJs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-prime-video-upload-solutions-for-twitter/"><u>In 2024, Prime Video Upload Solutions for Twitter</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-upgrading-simplified-navigating-macos-11-big-surs-changes/"><u>In 2024, Upgrading Simplified Navigating macOS 11 Big Sur's Changes</u></a></li>
-<li><a href="https://win-webster.techidaily.com/is-motherboard-restoration-feasible-for-damaged-laptops-tips-by-yl-computing-professionals/"><u>Is Motherboard Restoration Feasible for Damaged Laptops? Tips by YL Computing Professionals</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-effective-fixes-for-common-windows-bsod/"><u>Quick & Effective Fixes for Common Windows BSOD</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-mastering-swf-video-conversion-with-factory-pro-software/"><u>Ultimate Guide: Mastering SWF Video Conversion with Factory Pro Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unraveling-the-mystery-behind-windows-system-memory-issues-insights-from-yl-computing/"><u>Unraveling the Mystery Behind Windows System Memory Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-immersive-zooming-experience-with-microsoft-teams/"><u>[New] 2024 Approved Immersive Zooming Experience with Microsoft Teams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-spotifys-ad-landscape-a-comprehensive-guide/"><u>[New] Mastering Spotify's Ad Landscape A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-prime-dialogue-designer-space-for-2024/"><u>[New] Prime Dialogue Designer Space for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-panoramic-capture-9-techniques-to-perfection/"><u>[New] The Art of Panoramic Capture 9 Techniques to Perfection</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-your-teams-screens/"><u>Bring Back Your Teams Screens</u></a></li>
+<li><a href="https://win-webster.techidaily.com/can-windows-defender-identify-harmful-email-attachments-and-questionable-hyperlinks-exploring-capabilities-with-yl-computing/"><u>Can Windows Defender Identify Harmful Email Attachments and Questionable Hyperlinks? Exploring Capabilities with YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/checking-hard-drive-and-system-compatibility-expert-guide-yl-computing/"><u>Checking Hard Drive & System Compatibility: Expert Guide - YL Computing</u></a></li>
+<li><a href="https://win-webster.techidaily.com/complete-guide-saving-and-recovering-your-songs-in-karaoke-with-pcdj-video-tutorial/"><u>Complete Guide: Saving and Recovering Your Songs in Karaoke with PCDJ - VIDEO Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/fullscreen-fun-optimizing-playnite-for-televisions/"><u>Fullscreen Fun: Optimizing Playnite for Televisions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-fix-unresponsive-applications-in-windows-expert-tips-from-yl-computing/"><u>How to Fix Unresponsive Applications in Windows - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-precision-the-ultimate-list-of-photo-framing-software-for-2024/"><u>Photographic Precision The Ultimate List of Photo Framing Software for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/premium-music-selection-for-karaoke-enthusiasts-subscribe-now-to-tap-into-the-latest-top-tracks-in-pop-and-hip-hop-genres/"><u>Premium Music Selection for Karaoke Enthusiasts – Subscribe Now to Tap Into the Latest Top Tracks in Pop and Hip Hop Genres!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resetting-scan-drivers-made-easy-with-yl-softwares-comprehensive-uninstallreinstall-instructions/"><u>Resetting Scan Drivers Made Easy with YL Software's Comprehensive Uninstall/Reinstall Instructions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-essentials-of-starting-an-instagram-live-for-2024/"><u>The Essentials of Starting an Instagram Live for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/trouble-with-your-graphics-card-master-the-fixes-with-yl-computings-guidance/"><u>Trouble with Your Graphics Card? Master the Fixes with YL Computing's Guidance</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-the-power-of-slow-motion-top-10-video-players-for-2024/"><u>Updated Unleash the Power of Slow Motion Top 10 Video Players for 2024</u></a></li>
 </ul></div>
 

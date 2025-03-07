@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: How to Disable Dual-Stage Verification on iOS Devices"
-date: 2025-01-21T19:37:06.393Z
-updated: 2025-01-27T02:24:46.482Z
+date: 2025-03-03T19:09:56.411Z
+updated: 2025-03-07T17:06:35.679Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8bdde6a1d84cbac37f185e31d.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -85,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -101,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -120,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,22 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-pinpoint-and-eliminate-android-video-glitches/"><u>[Updated] 2024 Approved Pinpoint & Eliminate Android Video Glitches</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high-for-2024/"><u>[Updated] Break Through the Crowd Key YouTube SEO Strategies to Rank High for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-multi-image-compositions-photo-montages-guide/"><u>[Updated] In 2024, Mastering Multi-Image Compositions Photo Montages Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-recovering-lost-images-a-comprehensive-guide-to-finding-deleted-photos-on-pc-and-mobile-devices/"><u>1. Recovering Lost Images: A Comprehensive Guide to Finding Deleted Photos on PC and Mobile Devices</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728482724283-windows-11/"><u>如何提高Windows 11系统逆向重置效率：即刻应用的改进方法</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728508834207-ssd-windows/"><u>如何通过 SSD 轻松及保密地切换到 Windows 的新版本</u></a></li>
-<li><a href="https://win-webster.techidaily.com/come-collegare-e-condividere-il-tuo-onedrive-con-windows-11-il-metodo-perfetto/"><u>Come Collegare E Condividere Il Tuo OneDrive Con Windows 11 - Il Metodo Perfetto</u></a></li>
-<li><a href="https://win-webster.techidaily.com/como-activar-con-elegancia-el-modo-fantasma-de-uefi-en-tu-pc-con-windows-11/"><u>Cómo Activar Con Elegancia El Modo Fantasma De UEFI en Tu PC Con Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-illusions-simulating-time-jumps-and-space-hopping-for-2024/"><u>Crafting Illusions Simulating Time Jumps & Space Hopping for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-your-projects-with-chatgpt-strategies-for-superior-creativity-and-engagement/"><u>Elevating Your Projects with ChatGPT: Strategies for Superior Creativity and Engagement</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-the-backspace-key-stops-working/"><u>Expert Solutions for When the Backspace Key Stops Working</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quick-and-painless-ways-to-screen-record-stories/"><u>In 2024, Quick & Painless Ways to Screen Record Stories</u></a></li>
-<li><a href="https://win-webster.techidaily.com/passos-detalhados-para-restaurar-dados-apenas-apagados-do-cartao-sd-fora-da-lixeira/"><u>Passos Detalhados Para Restaurar Dados Apenas Apagados Do Cartão SD Fora Da Lixeira</u></a></li>
-<li><a href="https://win-webster.techidaily.com/revamping-text-editors-with-macros-how-wills-replace-feature-in-emeditor-refreshes-data-extraction-choices/"><u>Revamping Text Editors with Macros: How Will's Replace Feature in EmEditor Refreshes Data Extraction Choices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-solving-ocidll-is-absent-in-your-computer-system/"><u>Understanding and Solving 'oci.dll Is Absent' In Your Computer System</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/video-editing-for-dummies-10-essential-youtube-insights-for-2024/"><u>Video Editing for Dummies 10 Essential YouTube Insights for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728463462034-windows-115/"><u>Windows 11で失敗した再起動を解決する上位5コツ</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-video-quality-comparison-mirrorless-or-dslr-cameras/"><u>[New] 2024 Approved Video Quality Comparison Mirrorless or DSLR Cameras?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-maximizing-insights-with-twitter-archive-analysis/"><u>[Updated] In 2024, Maximizing Insights with Twitter Archive Analysis</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-effiziente-methoden-zum-ubertragen-von-icloud-musik-auf-deinen-pc/"><u>1. Effiziente Methoden Zum Übertragen Von iCloud-Musik Auf Deinen PC</u></a></li>
+<li><a href="https://win-webster.techidaily.com/5-effektive-methoden-zur-losung-eines-bootloops-auf-dem-windows-server-201/"><u>5 Effektive Methoden Zur Lösung Eines Bootloops Auf Dem Windows Server 201</u></a></li>
+<li><a href="https://win-webster.techidaily.com/activating-or-deactivating-windows-11-system-guard-a-step-by-step-guide/"><u>Activating or Deactivating Windows 11 System Guard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aligning-chrome-and-system-time-windows-sync-tips/"><u>Aligning Chrome and System Time (Windows Sync Tips)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/die-effektivsten-ansatze-zur-automatischen-sharepoint-onedrive-synchronisation-einfuhren-der-bestenmethoden/"><u>Die Effektivsten Ansätze Zur Automatischen SharePoint-OneDrive-Synchronisation: Einführen Der Bestenmethoden</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-fix-game-stuttering-a-comprehensive-guide-with-focused-examples-on-cyberpunk-2077/"><u>How to Fix Game Stuttering? A Comprehensive Guide with Focused Examples on Cyberpunk 2077</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g13-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto G13 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728496653240-ntfs/"><u>NTFSファイルシステムでパーティションがなくなった時、それを修復して取り戻す手順</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recmaster-screen-recorder-review/"><u>Recmaster Screen Recorder Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-your-dream-mobile-coverage-tips-and-tricks/"><u>Selecting Your Dream Mobile Coverage: Tips and Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-superior-gear-in-the-4k-market/"><u>The Ultimate Guide to Superior Gear in the 4K Market</u></a></li>
+<li><a href="https://win-webster.techidaily.com/upgrade-from-outdated-editors-discover-the-ease-of-selecting-in-emeditor-the-modern-text-tool/"><u>Upgrade From Outdated Editors! Discover the Ease of Selecting in EmEditor, the Modern Text Tool</u></a></li>
+<li><a href="https://win-webster.techidaily.com/wie-sie-ihr-windows-system-uberprufen-und-reparieren-ohne-wichtige-dateien-zu-loschen/"><u>Wie Sie Ihr Windows System Überprüfen Und Reparieren, Ohne Wichtige Dateien Zu Löschen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Langkah-Langkah Keselamatan Folder Unduhan Yang Tersilang Pada Windows 10/11
-date: 2025-01-24T17:45:18.577Z
-updated: 2025-01-26T19:52:53.764Z
+date: 2025-02-28T18:56:34.546Z
+updated: 2025-03-07T19:41:51.924Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408f6261979d298982619597ae.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -93,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -109,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,24 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[New] In 2024, Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>[Updated] 2024 Approved Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-stepwise-approach-to-unlinking-and-removing-youtube-content/"><u>[Updated] In 2024, A Stepwise Approach to Unlinking and Removing YouTube Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-anonymous-streaming-on-instagram-your-ultimate-guide-to-go-incognito/"><u>[Updated] In 2024, Anonymous Streaming on Instagram Your Ultimate Guide to Go Incognito</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-art-of-alteration-a-guide-to-video-color-correction-11-parts/"><u>[Updated] In 2024, The Art of Alteration A Guide to Video Color Correction (11 Parts)</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-simple-troubleshooting-steps-to-resolve-installation-hangs-when-setting-up-new-files/"><u>1. Simple Troubleshooting Steps to Resolve Installation Hangs When Setting Up New Files</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728500145605-windows-1011/"><u>如何查找Windows 10/11中的便籤存儲資料 - 詳盡教程</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/chromecast-and-google-tv-review-a-game-changer-for-cord-cutters/"><u>Chromecast and Google TV Review: A Game-Changer for Cord Cutters?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/effettuare-il-salvataggio-del-disco-rigido-in-modalita-comando-in-un-clic/"><u>Effettuare Il Salvataggio Del Disco Rigido in Modalità Comando in Un Clic</u></a></li>
-<li><a href="https://win-webster.techidaily.com/fast-solutions-for-resolving-roblox-error-268/"><u>Fast Solutions for Resolving Roblox Error 268</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guia-integral-para-la-recuperacion-de-datos-en-discos-duros-danados/"><u>Guía Integral Para La Recuperación De Datos en Discos Duros Dañados</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guia-maestra-como-clonar-con-exito-tu-disco-rigido-en-segundo-plano/"><u>Guía Maestra: Cómo Clonar Con Éxito Tu Disco Rigido en Segundo Plano</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a59-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo A59 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728467747235-instagram/"><u>Instagram 遭刪除應如何重新出現？這就是重返名單！</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-mac-snipers-top-5-recommended-tools-for-2024/"><u>Mastering Mac Snipers Top 5 Recommended Tools for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-using-handbrake-software-to-create-dvd-backups/"><u>Step-by-Step Guide: Using Handbrake Software to Create DVD Backups</u></a></li>
-<li><a href="https://win-webster.techidaily.com/synchronisierungsfilter-onedrive-anwenden-keine-loschungen-garantiert/"><u>Synchronisierungsfilter OneDrive Anwenden: Keine Löschungen Garantiert</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-choice-for-engaging-type-animations-for-2024/"><u>Ultimate Choice for Engaging Type Animations for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1728466544842-windows-1011/"><u>パーティションの削除方法：Windows 10と11で実践する</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-best-bgms-and-gifs-stylish-google-meet-backdrops/"><u>[New] In 2024, Best BGMs & GIFs Stylish Google Meet Backdrops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-slumber-screen-shows-story-insights-reviewed/"><u>[New] Slumber Screen Shows Story Insights Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-essential-information-for-choosing-the-best-video-platform/"><u>[Updated] 2024 Approved Essential Information for Choosing the Best Video Platform</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ace-your-mobile-dj-business-key-marketing-strategies-and-pro-cdj-tips-for-success/"><u>Ace Your Mobile DJ Business: Key Marketing Strategies and Pro CDJ Tips for Success</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-key-dj-apps-with-auto-leveling-technology-dive-into-pcdjs-innovative-control/"><u>Discover Key DJ Apps with Auto-Leveling Technology - Dive Into PCDJ's Innovative Control</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-latest-airpods-pro-4-with-cutting-edge-find-my-speaker-and-usb-c-compatibility-tech-news/"><u>Discover the Latest: AirPods Pro 4 with Cutting-Edge Find My Speaker & USB-C Compatibility | Tech News</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-with-free-drivers/"><u>Get Your Corsair Keyboard Up and Running on Windows with Free Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-s24-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy S24 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/inside-virtuality-metaverse-vs-omniverse-in-focus-for-2024/"><u>Inside Virtuality Metaverse Vs. Omniverse in Focus for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-geforce-gtx-1nvidias-gtx-1080-ti-unmatched-graphics-card-for-elite-gamers-and-streamers-alike/"><u>NVIDIA GeForce GTX 1nVidia's GTX 1080 Ti: Unmatched Graphics Card for Elite Gamers and Streamers Alike</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-to-supercharge-videos-on-snapchat/"><u>Step by Step to Supercharge Videos on Snapchat</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-sharing-your-digital-documents-and-directories-via-yl-computing-solutions/"><u>Step-by-Step Guide: Sharing Your Digital Documents & Directories via YL Computing Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-frequent-wi-fi-interruptions-insights-from-yl-software-experts/"><u>Understanding Frequent Wi-Fi Interruptions - Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unique-axolotl-graphics-for-your-pc-full-suite-of-images-wxps-by-yl-computing-expertise/"><u>Unique Axolotl Graphics for Your PC: Full Suite of Images, WxPs by YL Computing Expertise</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unlock-audience-secrets-with-top-djs-dave-winsor-and-jason-jones-host-thursday-mobile-beats-dont-miss-out-on-djntv-insights/"><u>Unlock Audience Secrets with Top DJs: Dave Winsor and Jason Jones Host 'Thursday Mobile Beats' - Don't Miss Out on #DJNTV Insights!</u></a></li>
 </ul></div>
 

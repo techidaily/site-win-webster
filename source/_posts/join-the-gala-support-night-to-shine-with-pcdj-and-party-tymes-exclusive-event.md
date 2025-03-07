@@ -1,7 +1,7 @@
 ---
 title: Join the Gala! Support Night To Shine with PCDJ & Party Tyme's Exclusive Event
-date: 2025-02-16T18:06:09.540Z
-updated: 2025-02-19T04:03:27.856Z
+date: 2025-03-06T16:13:05.154Z
+updated: 2025-03-07T19:20:45.649Z
 tags:
   - product
 categories:
@@ -25,10 +25,6 @@ Here are a few pictures they shared with us from the event:
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?resize=495%2C400&ssl=1 "blog1")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1.jpg?fit=1030%2C687&ssl=1 "blog1")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?resize=495%2C400&ssl=1 "blog2")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/02/blog2.jpg?fit=1030%2C687&ssl=1 "blog2")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762_2877084325672602_3631167855451439104_o.jpg?resize=495%2C400&ssl=1 "84437762_2877084325672602_3631167855451439104_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84437762%5F2877084325672602%5F3631167855451439104%5Fo.jpg?fit=768%2C960&ssl=1 "84437762_2877084325672602_3631167855451439104_o")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924_2877919342255767_1686493271838162944_o.jpg?resize=495%2C400&ssl=1 "84716924_2877919342255767_1686493271838162944_o")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/84716924%5F2877919342255767%5F1686493271838162944%5Fo.jpg?fit=960%2C957&ssl=1 "84716924_2877919342255767_1686493271838162944_o")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579_2878081612239540_2710465826560933888_o.jpg?resize=495%2C400&ssl=1 "84996579_2878081612239540_2710465826560933888_o")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/02/84996579%5F2878081612239540%5F2710465826560933888%5Fo.jpg?fit=768%2C960&ssl=1 "84996579_2878081612239540_2710465826560933888_o")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C1267&ssl=1 1267 1900 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2020-02-19 10:26:492023-04-10 17:03:53PCDJ & Party Tyme Sponsor “Night to Shine” Event}
@@ -48,22 +44,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/02/blog1-1.jpg?fit=1900%2C126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-webster.techidaily.com/1-recover-deleted-vscode-files-why-they-arent-showing-up-in-the-recycle-bin-and-how-to-fix-it/"><u>1. 'Recover Deleted VSCode Files: Why They Aren't Showing Up in the Recycle Bin & How to Fix It!'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-5-book-video-promotions-ever-made/"><u>2024 Approved The Best 5 Book Video Promotions Ever Made</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-methods-for-viewing-virtual-reality-videos-on-iphones-a-comprehensive-guide/"><u>Best Methods for Viewing Virtual Reality Videos on iPhones: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/complete-guide-performing-a-full-system-restore-on-your-gateway-notebook-using-windows-11/"><u>Complete Guide: Performing a Full System Restore on Your Gateway Notebook Using Windows 11</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/download-exclusive-catwoman-wallpaper-collections-with-full-resolution-photos-and-editable-graphics-by-yl-computing/"><u>Download Exclusive Catwoman Wallpaper Collections with Full Resolution Photos and Editable Graphics by YL Computing</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guida-rapida-e-facile-per-eseguire-il-backup-del-sistema-operativo-windows-1187/"><u>Guida Rapida E Facile per Eseguire Il Backup Del Sistema Operativo Windows 11/8/7</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-detaille-pour-la-suppression-des-fichiers-backup-dans-le-systeme-dexploitation-windows-11/"><u>Guide Détaillé Pour La Suppression Des Fichiers Backup Dans Le Système D'Exploitation Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsoft-azure-unveils-radius-sdk-revolutionizing-hybrid-multi-cloud-environments-with-open-source-solutions-as-covered-by-zdnet/"><u>Microsoft Azure Unveils Radius SDK: Revolutionizing Hybrid Multi-Cloud Environments with Open Source Solutions, as Covered by ZDNet</u></a></li>
-<li><a href="https://win-webster.techidaily.com/microsoft-teams-effiziente-moglichkeiten-zur-wiederherstellung-geloschter-chatnachrichten/"><u>Microsoft Teams: Effiziente Möglichkeiten Zur Wiederherstellung Gelöschter Chatnachrichten</u></a></li>
-<li><a href="https://win-webster.techidaily.com/moving-vmware-virtual-systems-seamlessly-to-amazon-web-services/"><u>Moving VMware Virtual Systems Seamlessly to Amazon Web Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/playing-dvds-on-your-acer-laptop-with-windows-11-no-disc-drive-required/"><u>Playing DVDs on Your Acer Laptop with Windows 11 - No Disc Drive Required!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/score-big-savings-premium-deals-on-samsung-electronics-this-prime-day/"><u>Score Big Savings: Premium Deals on Samsung Electronics This Prime Day</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-auto-brightness-problem-using-7-effective-fixes/"><u>Solve Your iPhone's Auto-Brightness Problem Using 7 Effective Fixes</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-tutorial-sharing-screens-in-discord-for-2024/"><u>The Ultimate Tutorial Sharing Screens in Discord for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/word5word/"><u>Word文件不見？5种簡单办法保存丢失的Word文档！</u></a></li>
-<li><a href="https://win-webster.techidaily.com/44oe44kr44ov44kj44o844gm5ymk6zmk44gx44gf44ov44kh44kk44or44gu5b6p5ywd5oml6acg44gr44gk44ge44gm5a2m44g2/"><u>マカフィーが削除したファイルの復元手順について学ぶ</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-are-vloggers-compensated-for-product-critiques/"><u>[New] Are Vloggers Compensated for Product Critiques?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-revolutionizing-video-recording-insights-on-camstudios-latest-release/"><u>[New] In 2024, Revolutionizing Video Recording - Insights on CamStudio's Latest Release</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-jujutsu-kaisens-tiktok-fan-filled-fun-for-2024/"><u>[New] Jujutsu Kaisen's TikTok Fan-Filled Fun for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-tutorial-on-using-snapchat-spotlight/"><u>[New] The Essential Tutorial on Using Snapchat Spotlight</u></a></li>
+<li><a href="https://win-webster.techidaily.com/bare-metal-recovery-fur-windows-server-2022-erfolgreich-durchfuhren-mit-zwei-effizienten-methoden-und-einem-wertvollen-tipp/"><u>Bare-Metal Recovery Für Windows Server 2022: Erfolgreich Durchführen Mit Zwei Effizienten Methoden Und Einem Wertvollen Tipp!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fix-windows-7-startup-issues-with-effective-repac-and-recovery-commands/"><u>Fix Windows 7 Startup Issues with Effective REPAC & Recovery Commands</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-age-of-empires-4-from-continuously-freezing-and-closing/"><u>How to Stop Age of Empires 4 From Continuously Freezing and Closing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-v30-lite-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo V30 Lite 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/norton-ghost-setup-guide-for-different-windows-editions-win11-win10-win8-and-win7/"><u>Norton Ghost Setup Guide for Different Windows Editions: Win11, Win10, Win8, and Win7</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-restoring-and-backing-up-your-iphone-xrxs-using-recovery-mode/"><u>Step-by-Step Guide: Restoring and Backing Up Your iPhone XR/XS Using Recovery Mode</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windows-1011-8/"><u>Windows 10/11 用: 失われたファイルを見つける究極のガイド8コツ</u></a></li>
 </ul></div>
 
